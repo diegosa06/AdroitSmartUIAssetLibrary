@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "button-1",
+    "name": "Belt Conveyor",
+    "description": "A Belt Conveyor.",
+    "previewImageUrl": "https://example.com/previews/button-1.png",
+    "downloadUrl": "https://example.com/downloads/button-1.zip",
+    "tags": [ "UI", "Button", "Interactive" ]
+  },
+  {
+    "id": "shape-rect-4",
+    "name": "Scraper Conveyor",
+    "description": "A Scraper Conveyor.",
+    "previewImageUrl": "https://example.com/previews/shape-rect-1.png",
+    "downloadUrl": "https://example.com/downloads/shape-rect-1.zip",
+    "tags": [ "Shape", "Vector", "Rectangle" ]
+  },
+  {
+    "id": "shape-rect-5",
+    "name": "Screw Conveyor",
+    "description": "A Screw Conveyor.",
+    "previewImageUrl": "https://example.com/previews/shape-rect-1.png",
+    "downloadUrl": "https://example.com/downloads/shape-rect-1.zip",
+    "tags": [ "Shape", "Vector", "Rectangle" ]
+  }
+]
