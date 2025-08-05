@@ -1,8 +1,8 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
+    "id": "Axial Fan 1",
+    "name": "Axial Fan 1",
+    "description": "A Axial Fan 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
+    "id": "Axial Fan 2",
+    "name": "Axial Fan 2",
+    "description": "A Axial Fan 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 2",
-    "name": "Hammer Crusher 2",
-    "description": "A Hammer Crusher 2.",
+    "id": "Centrifugal Fan",
+    "name": "Centrifugal Fan",
+    "description": "A Centrifugal Fan.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
+    "id": "Compressor Turbine",
+    "name": "Compressor Turbine",
+    "description": "A Compressor Turbine.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
+    "id": "Fan Blades",
+    "name": "Fan Blades",
+    "description": "A Fan Blades.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "Mill",
-    "name": "Mill",
-    "description": "A Mill.",
+    "id": "Motor Driven Turbine",
+    "name": "Motor Driven Turbine",
+    "description": "A Motor Driven Turbine.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "id": "Roll Crusher",
-    "name": "Roll Crusher",
-    "description": "A Roll Crusher.",
+    "id": "Selectable Fan 1",
+    "name": "Selectable Fan 1",
+    "description": "A Selectable Fan 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -84,9 +84,9 @@
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
+    "id": "Selectable Fan 2",
+    "name": "Selectable Fan 2",
+    "description": "A Selectable Fan 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "id": "Various Crusher",
-    "name": "Various Crusher",
-    "description": "A Various Crusher.",
+    "id": "Triple Fan Blades",
+    "name": "Triple Fan Blades",
+    "description": "A Triple Fan Blades.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

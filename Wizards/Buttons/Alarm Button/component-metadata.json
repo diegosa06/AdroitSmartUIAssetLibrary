@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Alarm Button 1",
+    "name": "Alarm Button 1",
+    "description": "A Alarm Button 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Alarm Button 2",
+    "name": "Alarm Button 2",
+    "description": "A Alarm Button 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

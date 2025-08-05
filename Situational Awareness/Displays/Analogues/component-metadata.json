@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wzdAnalogueDisplay_NoPriority_v01",
+    "name": "wzdAnalogueDisplay_NoPriority_v01",
+    "description": "A wzdAnalogueDisplay_NoPriority_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDisplay_Priority3_v01",
+    "name": "wzdAnalogueDisplay_Priority3_v01",
+    "description": "A wzdAnalogueDisplay_Priority3_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDisplay_Priority5_v01",
+    "name": "wzdAnalogueDisplay_Priority5_v01",
+    "description": "A wzdAnalogueDisplay_Priority5_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

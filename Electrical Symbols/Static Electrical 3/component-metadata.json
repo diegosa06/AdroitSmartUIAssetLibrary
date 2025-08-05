@@ -1,0 +1,302 @@
+[
+  {
+    "id": "AC Receptacle",
+    "name": "AC Receptacle",
+    "description": "A AC Receptacle.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "AC Receptacle Filled",
+    "name": "AC Receptacle Filled",
+    "description": "A AC Receptacle Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Alpha Symbol",
+    "name": "Alpha Symbol",
+    "description": "A Alpha Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Antenna",
+    "name": "Antenna",
+    "description": "A Antenna.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Battery",
+    "name": "Battery",
+    "description": "A Battery.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Coax_Jack",
+    "name": "Coax_Jack",
+    "description": "A Coax_Jack.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Crystal",
+    "name": "Crystal",
+    "description": "A Crystal.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Crystal Transducer",
+    "name": "Crystal Transducer",
+    "description": "A Crystal Transducer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Delta Symbol",
+    "name": "Delta Symbol",
+    "description": "A Delta Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Electret",
+    "name": "Electret",
+    "description": "A Electret.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Epsilon Symbol",
+    "name": "Epsilon Symbol",
+    "description": "A Epsilon Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Fuse",
+    "name": "Fuse",
+    "description": "A Fuse.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Meter",
+    "name": "Meter",
+    "description": "A Meter.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Microphone_Jack",
+    "name": "Microphone_Jack",
+    "description": "A Microphone_Jack.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "MU Symbol",
+    "name": "MU Symbol",
+    "description": "A MU Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Ohm Symbol",
+    "name": "Ohm Symbol",
+    "description": "A Ohm Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Photovoltaic Cell",
+    "name": "Photovoltaic Cell",
+    "description": "A Photovoltaic Cell.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Photovoltaic Cell Filled",
+    "name": "Photovoltaic Cell Filled",
+    "description": "A Photovoltaic Cell Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Pi Symbol",
+    "name": "Pi Symbol",
+    "description": "A Pi Symbol.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Polled Receptacle",
+    "name": "Polled Receptacle",
+    "description": "A Polled Receptacle.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Polled Receptacle Filled",
+    "name": "Polled Receptacle Filled",
+    "description": "A Polled Receptacle Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Rheostat",
+    "name": "Rheostat",
+    "description": "A Rheostat.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "SP Toggle Switch NC",
+    "name": "SP Toggle Switch NC",
+    "description": "A SP Toggle Switch NC.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "SP Toggle Switch NO",
+    "name": "SP Toggle Switch NO",
+    "description": "A SP Toggle Switch NO.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Thermal Switch",
+    "name": "Thermal Switch",
+    "description": "A Thermal Switch.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

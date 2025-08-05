@@ -1,8 +1,8 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
+    "id": "Alarm Buttons",
+    "name": "Alarm Buttons",
+    "description": "A Alarm Buttons.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
+    "id": "Alarm Buttons 1",
+    "name": "Alarm Buttons 1",
+    "description": "A Alarm Buttons 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 2",
-    "name": "Hammer Crusher 2",
-    "description": "A Hammer Crusher 2.",
+    "id": "Alarm Buttons 2",
+    "name": "Alarm Buttons 2",
+    "description": "A Alarm Buttons 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
+    "id": "Alarm Buttons 3",
+    "name": "Alarm Buttons 3",
+    "description": "A Alarm Buttons 3.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
+    "id": "Alarm Buttons 4",
+    "name": "Alarm Buttons 4",
+    "description": "A Alarm Buttons 4.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "Mill",
-    "name": "Mill",
-    "description": "A Mill.",
+    "id": "Alarm Buttons 5",
+    "name": "Alarm Buttons 5",
+    "description": "A Alarm Buttons 5.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "id": "Roll Crusher",
-    "name": "Roll Crusher",
-    "description": "A Roll Crusher.",
+    "id": "Alarm States",
+    "name": "Alarm States",
+    "description": "A Alarm States.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -84,21 +84,9 @@
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Various Crusher",
-    "name": "Various Crusher",
-    "description": "A Various Crusher.",
+    "id": "Alarm Warning",
+    "name": "Alarm Warning",
+    "description": "A Alarm Warning.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

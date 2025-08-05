@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wzdAnalogueIndicator_Large_Horizontal_v01",
+    "name": "wzdAnalogueIndicator_Large_Horizontal_v01",
+    "description": "A wzdAnalogueIndicator_Large_Horizontal_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueIndicator_Large_Vertical_v01",
+    "name": "wzdAnalogueIndicator_Large_Vertical_v01",
+    "description": "A wzdAnalogueIndicator_Large_Vertical_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueIndicator_Medium_Horizontal_v01",
+    "name": "wzdAnalogueIndicator_Medium_Horizontal_v01",
+    "description": "A wzdAnalogueIndicator_Medium_Horizontal_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueIndicator_Medium_Vertical_v01",
+    "name": "wzdAnalogueIndicator_Medium_Vertical_v01",
+    "description": "A wzdAnalogueIndicator_Medium_Vertical_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueIndicator_Small_Horizontal_v01",
+    "name": "wzdAnalogueIndicator_Small_Horizontal_v01",
+    "description": "A wzdAnalogueIndicator_Small_Horizontal_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueIndicator_Small_Vertical_v01",
+    "name": "wzdAnalogueIndicator_Small_Vertical_v01",
+    "description": "A wzdAnalogueIndicator_Small_Vertical_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Crusher 01",
+    "name": "Crusher 01",
+    "description": "A Crusher 01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Crusher 02",
+    "name": "Crusher 02",
+    "description": "A Crusher 02.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Mill 01",
+    "name": "Mill 01",
+    "description": "A Mill 01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Mill 02",
+    "name": "Mill 02",
+    "description": "A Mill 02.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Mobile Crusher",
+    "name": "Mobile Crusher",
+    "description": "A Mobile Crusher.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Computers 1",
+    "name": "Computers 1",
+    "description": "A Computers 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Computers 2",
+    "name": "Computers 2",
+    "description": "A Computers 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

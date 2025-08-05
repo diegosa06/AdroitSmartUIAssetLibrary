@@ -1,8 +1,8 @@
 [
   {
-    "id": "Belt Conveyor",
-    "name": "Belt Conveyor",
-    "description": "A Belt Conveyor.",
+    "id": "ID Fan Down",
+    "name": "ID Fan Down",
+    "description": "A ID Fan Down.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Scraper Conveyor",
-    "name": "Scraper Conveyor",
-    "description": "A Scraper Conveyor.",
+    "id": "ID Fan Left",
+    "name": "ID Fan Left",
+    "description": "A ID Fan Left.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Screw Conveyor",
-    "name": "Screw Conveyor",
-    "description": "A Screw Conveyor.",
+    "id": "ID Fan Right",
+    "name": "ID Fan Right",
+    "description": "A ID Fan Right.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Vibration Conveyor",
-    "name": "Vibration Conveyor",
-    "description": "A Vibration Conveyor.",
+    "id": "ID Fan Up",
+    "name": "ID Fan Up",
+    "description": "A ID Fan Up.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

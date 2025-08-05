@@ -1,8 +1,8 @@
 [
   {
-    "id": "Belt Conveyor",
-    "name": "Belt Conveyor",
-    "description": "A Belt Conveyor.",
+    "id": "Blue Water Aerator",
+    "name": "Blue Water Aerator",
+    "description": "A Blue Water Aerator.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Scraper Conveyor",
-    "name": "Scraper Conveyor",
-    "description": "A Scraper Conveyor.",
+    "id": "Chrome Water Aerator",
+    "name": "Chrome Water Aerator",
+    "description": "A Chrome Water Aerator.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Screw Conveyor",
-    "name": "Screw Conveyor",
-    "description": "A Screw Conveyor.",
+    "id": "Horizontal Axis Agitator",
+    "name": "Horizontal Axis Agitator",
+    "description": "A Horizontal Axis Agitator.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Vibration Conveyor",
-    "name": "Vibration Conveyor",
-    "description": "A Vibration Conveyor.",
+    "id": "Vertical Axis Agitator",
+    "name": "Vertical Axis Agitator",
+    "description": "A Vertical Axis Agitator.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

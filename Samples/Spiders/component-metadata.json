@@ -1,0 +1,38 @@
+[
+  {
+    "id": "All Spiders",
+    "name": "All Spiders",
+    "description": "A All Spiders.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Application Target 1",
+    "name": "Application Target 1",
+    "description": "A Application Target 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Application Target 2",
+    "name": "Application Target 2",
+    "description": "A Application Target 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

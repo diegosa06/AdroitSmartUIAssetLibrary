@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Scale 1",
+    "name": "Scale 1",
+    "description": "A Scale 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Scale 2",
+    "name": "Scale 2",
+    "description": "A Scale 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

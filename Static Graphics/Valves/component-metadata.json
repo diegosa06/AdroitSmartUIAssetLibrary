@@ -1,0 +1,86 @@
+[
+  {
+    "id": "Blue Motorised Valve",
+    "name": "Blue Motorised Valve",
+    "description": "A Blue Motorised Valve.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Blue Solenoid Valve",
+    "name": "Blue Solenoid Valve",
+    "description": "A Blue Solenoid Valve.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Manual Valve Angle Left",
+    "name": "Manual Valve Angle Left",
+    "description": "A Manual Valve Angle Left.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Manual Valve Angle Right",
+    "name": "Manual Valve Angle Right",
+    "description": "A Manual Valve Angle Right.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Manual Valve Side",
+    "name": "Manual Valve Side",
+    "description": "A Manual Valve Side.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Manual Valve Top",
+    "name": "Manual Valve Top",
+    "description": "A Manual Valve Top.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Simple Manual Valve",
+    "name": "Simple Manual Valve",
+    "description": "A Simple Manual Valve.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

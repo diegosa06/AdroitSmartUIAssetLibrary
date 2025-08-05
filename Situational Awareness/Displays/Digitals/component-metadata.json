@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wzdDigitalTextDisplay_NoPriority_v01",
+    "name": "wzdDigitalTextDisplay_NoPriority_v01",
+    "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdRadio_DigitalDisplay_NoPriority_v01",
+    "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
+    "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdRadio_DigitalDisplay_Priority3_v01",
+    "name": "wzdRadio_DigitalDisplay_Priority3_v01",
+    "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

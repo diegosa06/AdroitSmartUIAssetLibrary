@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wzdAnalogueDataLink_NoPriority_v01",
+    "name": "wzdAnalogueDataLink_NoPriority_v01",
+    "description": "A wzdAnalogueDataLink_NoPriority_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDataLink_Priority3_v01",
+    "name": "wzdAnalogueDataLink_Priority3_v01",
+    "description": "A wzdAnalogueDataLink_Priority3_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDataLink_Priority5_v01",
+    "name": "wzdAnalogueDataLink_Priority5_v01",
+    "description": "A wzdAnalogueDataLink_Priority5_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDataLink_SP_NoPriority_v01",
+    "name": "wzdAnalogueDataLink_SP_NoPriority_v01",
+    "description": "A wzdAnalogueDataLink_SP_NoPriority_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDataLink_SP_Priority3_v01",
+    "name": "wzdAnalogueDataLink_SP_Priority3_v01",
+    "description": "A wzdAnalogueDataLink_SP_Priority3_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdAnalogueDataLink_SP_Priority5_v01",
+    "name": "wzdAnalogueDataLink_SP_Priority5_v01",
+    "description": "A wzdAnalogueDataLink_SP_Priority5_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

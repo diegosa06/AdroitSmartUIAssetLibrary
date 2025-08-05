@@ -1,0 +1,410 @@
+[
+  {
+    "id": "AC Generator or Alternator",
+    "name": "AC Generator or Alternator",
+    "description": "A AC Generator or Alternator.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Artificial Neutral or Earthing Transformer",
+    "name": "Artificial Neutral or Earthing Transformer",
+    "description": "A Artificial Neutral or Earthing Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Asychronous Generator",
+    "name": "Asychronous Generator",
+    "description": "A Asychronous Generator.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Battery",
+    "name": "Battery",
+    "description": "A Battery.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Capacitor",
+    "name": "Capacitor",
+    "description": "A Capacitor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Current Transformer",
+    "name": "Current Transformer",
+    "description": "A Current Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Delta Connected Winding",
+    "name": "Delta Connected Winding",
+    "description": "A Delta Connected Winding.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Diode",
+    "name": "Diode",
+    "description": "A Diode.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Earth Electrode",
+    "name": "Earth Electrode",
+    "description": "A Earth Electrode.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Electrical Power Outlet",
+    "name": "Electrical Power Outlet",
+    "description": "A Electrical Power Outlet.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Fuse",
+    "name": "Fuse",
+    "description": "A Fuse.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Impedance",
+    "name": "Impedance",
+    "description": "A Impedance.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Inverter",
+    "name": "Inverter",
+    "description": "A Inverter.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Iron Ore Reactor",
+    "name": "Iron Ore Reactor",
+    "description": "A Iron Ore Reactor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Measuring Device",
+    "name": "Measuring Device",
+    "description": "A Measuring Device.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Metering",
+    "name": "Metering",
+    "description": "A Metering.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Motor",
+    "name": "Motor",
+    "description": "A Motor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Outgoing Feeder",
+    "name": "Outgoing Feeder",
+    "description": "A Outgoing Feeder.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Reactor or Transformer",
+    "name": "Reactor or Transformer",
+    "description": "A Reactor or Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Rectifier",
+    "name": "Rectifier",
+    "description": "A Rectifier.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Resistor",
+    "name": "Resistor",
+    "description": "A Resistor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Short Circuit",
+    "name": "Short Circuit",
+    "description": "A Short Circuit.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Single-Phase Line or Cable",
+    "name": "Single-Phase Line or Cable",
+    "description": "A Single-Phase Line or Cable.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Source of Current",
+    "name": "Source of Current",
+    "description": "A Source of Current.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Spark Gap or Overvoltage Limiter",
+    "name": "Spark Gap or Overvoltage Limiter",
+    "description": "A Spark Gap or Overvoltage Limiter.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Star Connected Winding",
+    "name": "Star Connected Winding",
+    "description": "A Star Connected Winding.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Supply Incoming Feeder",
+    "name": "Supply Incoming Feeder",
+    "description": "A Supply Incoming Feeder.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Three-Phase Line or Cable",
+    "name": "Three-Phase Line or Cable",
+    "description": "A Three-Phase Line or Cable.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Thyristor",
+    "name": "Thyristor",
+    "description": "A Thyristor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Transformer",
+    "name": "Transformer",
+    "description": "A Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Transformer With On Load Tap Changer",
+    "name": "Transformer With On Load Tap Changer",
+    "description": "A Transformer With On Load Tap Changer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Variable Resistor",
+    "name": "Variable Resistor",
+    "description": "A Variable Resistor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Varistor or Surge Arrester",
+    "name": "Varistor or Surge Arrester",
+    "description": "A Varistor or Surge Arrester.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Voltage Transformer",
+    "name": "Voltage Transformer",
+    "description": "A Voltage Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

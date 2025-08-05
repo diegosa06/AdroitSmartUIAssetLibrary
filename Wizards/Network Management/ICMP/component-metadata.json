@@ -1,8 +1,8 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
+    "id": "ServerSwitchTouchDesktop",
+    "name": "ServerSwitchTouchDesktop",
+    "description": "A ServerSwitchTouchDesktop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
+    "id": "DB",
+    "name": "DB",
+    "description": "A DB.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 2",
-    "name": "Hammer Crusher 2",
-    "description": "A Hammer Crusher 2.",
+    "id": "Desktop",
+    "name": "Desktop",
+    "description": "A Desktop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
+    "id": "PLC",
+    "name": "PLC",
+    "description": "A PLC.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
+    "id": "Server_Horizontal",
+    "name": "Server_Horizontal",
+    "description": "A Server_Horizontal.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "Mill",
-    "name": "Mill",
-    "description": "A Mill.",
+    "id": "Server_Vertical",
+    "name": "Server_Vertical",
+    "description": "A Server_Vertical.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "id": "Roll Crusher",
-    "name": "Roll Crusher",
-    "description": "A Roll Crusher.",
+    "id": "Switch",
+    "name": "Switch",
+    "description": "A Switch.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -84,21 +84,9 @@
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Various Crusher",
-    "name": "Various Crusher",
-    "description": "A Various Crusher.",
+    "id": "Touch",
+    "name": "Touch",
+    "description": "A Touch.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

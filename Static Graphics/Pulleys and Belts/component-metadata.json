@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Belt",
+    "name": "Belt",
+    "description": "A Belt.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Pulley",
+    "name": "Pulley",
+    "description": "A Pulley.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

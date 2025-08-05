@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Vehicles 1",
+    "name": "Vehicles 1",
+    "description": "A Vehicles 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Vehicles 2",
+    "name": "Vehicles 2",
+    "description": "A Vehicles 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Vehicles 3",
+    "name": "Vehicles 3",
+    "description": "A Vehicles 3.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

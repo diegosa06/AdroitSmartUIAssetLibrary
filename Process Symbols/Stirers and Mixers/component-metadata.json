@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Mixer",
+    "name": "Mixer",
+    "description": "A Mixer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Stirer",
+    "name": "Stirer",
+    "description": "A Stirer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

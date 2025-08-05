@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Horizontal Cement Mill Left",
+    "name": "Horizontal Cement Mill Left",
+    "description": "A Horizontal Cement Mill Left.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Horizontal Cement Mill Right",
+    "name": "Horizontal Cement Mill Right",
+    "description": "A Horizontal Cement Mill Right.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Vertical Cement Mill Left",
+    "name": "Vertical Cement Mill Left",
+    "description": "A Vertical Cement Mill Left.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Vertical Cement Mill Right",
+    "name": "Vertical Cement Mill Right",
+    "description": "A Vertical Cement Mill Right.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

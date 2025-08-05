@@ -1,8 +1,8 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
+    "id": "Q64AD_Wizard",
+    "name": "Q64AD_Wizard",
+    "description": "A Q64AD_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
+    "id": "Q64DA_Wizard",
+    "name": "Q64DA_Wizard",
+    "description": "A Q64DA_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 2",
-    "name": "Hammer Crusher 2",
-    "description": "A Hammer Crusher 2.",
+    "id": "Q6XP_Wizard",
+    "name": "Q6XP_Wizard",
+    "description": "A Q6XP_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
+    "id": "QJ71E71_Wizard",
+    "name": "QJ71E71_Wizard",
+    "description": "A QJ71E71_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
+    "id": "QNUDVCPU_Wizard",
+    "name": "QNUDVCPU_Wizard",
+    "description": "A QNUDVCPU_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "Mill",
-    "name": "Mill",
-    "description": "A Mill.",
+    "id": "QX80_Wizard",
+    "name": "QX80_Wizard",
+    "description": "A QX80_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "id": "Roll Crusher",
-    "name": "Roll Crusher",
-    "description": "A Roll Crusher.",
+    "id": "QX81_Wizard",
+    "name": "QX81_Wizard",
+    "description": "A QX81_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -84,9 +84,9 @@
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
+    "id": "QY80_Wizard",
+    "name": "QY80_Wizard",
+    "description": "A QY80_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "id": "Various Crusher",
-    "name": "Various Crusher",
-    "description": "A Various Crusher.",
+    "id": "QY81P_Wizard",
+    "name": "QY81P_Wizard",
+    "description": "A QY81P_Wizard.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

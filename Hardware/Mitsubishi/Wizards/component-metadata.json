@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FX5CPU",
+    "name": "FX5CPU",
+    "description": "A FX5CPU.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Q03UDVCPU",
+    "name": "Q03UDVCPU",
+    "description": "A Q03UDVCPU.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

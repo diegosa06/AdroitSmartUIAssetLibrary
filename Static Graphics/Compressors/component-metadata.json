@@ -1,8 +1,8 @@
 [
   {
-    "id": "Belt Conveyor",
-    "name": "Belt Conveyor",
-    "description": "A Belt Conveyor.",
+    "id": "Compressor1",
+    "name": "Compressor1",
+    "description": "A Compressor1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Scraper Conveyor",
-    "name": "Scraper Conveyor",
-    "description": "A Scraper Conveyor.",
+    "id": "Compressor2",
+    "name": "Compressor2",
+    "description": "A Compressor2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Screw Conveyor",
-    "name": "Screw Conveyor",
-    "description": "A Screw Conveyor.",
+    "id": "Compressor3",
+    "name": "Compressor3",
+    "description": "A Compressor3.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Vibration Conveyor",
-    "name": "Vibration Conveyor",
-    "description": "A Vibration Conveyor.",
+    "id": "TankCompressor",
+    "name": "TankCompressor",
+    "description": "A TankCompressor.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

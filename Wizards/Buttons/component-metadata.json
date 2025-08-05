@@ -1,8 +1,8 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
+    "id": "Emergency Stop",
+    "name": "Emergency Stop",
+    "description": "A Emergency Stop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
+    "id": "Motor OnOff Switch",
+    "name": "Motor OnOff Switch",
+    "description": "A Motor OnOff Switch.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Hammer Crusher 2",
-    "name": "Hammer Crusher 2",
-    "description": "A Hammer Crusher 2.",
+    "id": "OnOff Switch 1",
+    "name": "OnOff Switch 1",
+    "description": "A OnOff Switch 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
+    "id": "OnOff Switch 2",
+    "name": "OnOff Switch 2",
+    "description": "A OnOff Switch 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
+    "id": "Open Close Toggle",
+    "name": "Open Close Toggle",
+    "description": "A Open Close Toggle.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "Mill",
-    "name": "Mill",
-    "description": "A Mill.",
+    "id": "Siren Button",
+    "name": "Siren Button",
+    "description": "A Siren Button.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "id": "Roll Crusher",
-    "name": "Roll Crusher",
-    "description": "A Roll Crusher.",
+    "id": "Start Stop Toggle",
+    "name": "Start Stop Toggle",
+    "description": "A Start Stop Toggle.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -84,9 +84,9 @@
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
+    "id": "StartStop Buttons 1",
+    "name": "StartStop Buttons 1",
+    "description": "A StartStop Buttons 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "id": "Various Crusher",
-    "name": "Various Crusher",
-    "description": "A Various Crusher.",
+    "id": "StartStop Buttons 2",
+    "name": "StartStop Buttons 2",
+    "description": "A StartStop Buttons 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

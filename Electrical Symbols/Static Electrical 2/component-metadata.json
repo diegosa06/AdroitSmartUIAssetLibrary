@@ -1,0 +1,362 @@
+[
+  {
+    "id": "AC Generator",
+    "name": "AC Generator",
+    "description": "A AC Generator.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Capacitor",
+    "name": "Capacitor",
+    "description": "A Capacitor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Circuit Breaker",
+    "name": "Circuit Breaker",
+    "description": "A Circuit Breaker.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Closed Contactor",
+    "name": "Closed Contactor",
+    "description": "A Closed Contactor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Coil Transformer",
+    "name": "Coil Transformer",
+    "description": "A Coil Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "DC Generator",
+    "name": "DC Generator",
+    "description": "A DC Generator.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Electrostatic Speaker",
+    "name": "Electrostatic Speaker",
+    "description": "A Electrostatic Speaker.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "IF Transformer",
+    "name": "IF Transformer",
+    "description": "A IF Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Inductor",
+    "name": "Inductor",
+    "description": "A Inductor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Lamp 1",
+    "name": "Lamp 1",
+    "description": "A Lamp 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Lamp 2",
+    "name": "Lamp 2",
+    "description": "A Lamp 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Lamp 3",
+    "name": "Lamp 3",
+    "description": "A Lamp 3.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Momentary Switch 2-Ckt",
+    "name": "Momentary Switch 2-Ckt",
+    "description": "A Momentary Switch 2-Ckt.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Momentary Switch NC",
+    "name": "Momentary Switch NC",
+    "description": "A Momentary Switch NC.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Momentary Switch NO",
+    "name": "Momentary Switch NO",
+    "description": "A Momentary Switch NO.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Motor",
+    "name": "Motor",
+    "description": "A Motor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Neon Lamp",
+    "name": "Neon Lamp",
+    "description": "A Neon Lamp.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Open Contactor",
+    "name": "Open Contactor",
+    "description": "A Open Contactor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Photo Resistor",
+    "name": "Photo Resistor",
+    "description": "A Photo Resistor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Photo Resistor Filled",
+    "name": "Photo Resistor Filled",
+    "description": "A Photo Resistor Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Polled Capacitor",
+    "name": "Polled Capacitor",
+    "description": "A Polled Capacitor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "SP Momentary NC",
+    "name": "SP Momentary NC",
+    "description": "A SP Momentary NC.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "SP Momentary NO",
+    "name": "SP Momentary NO",
+    "description": "A SP Momentary NO.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "SPDT Toggle Switch",
+    "name": "SPDT Toggle Switch",
+    "description": "A SPDT Toggle Switch.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Speaker",
+    "name": "Speaker",
+    "description": "A Speaker.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Transformer",
+    "name": "Transformer",
+    "description": "A Transformer.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Variable Capacitor",
+    "name": "Variable Capacitor",
+    "description": "A Variable Capacitor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Variable Capacitor Filled",
+    "name": "Variable Capacitor Filled",
+    "description": "A Variable Capacitor Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Variable Resistor",
+    "name": "Variable Resistor",
+    "description": "A Variable Resistor.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Variable Resistor Filled",
+    "name": "Variable Resistor Filled",
+    "description": "A Variable Resistor Filled.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

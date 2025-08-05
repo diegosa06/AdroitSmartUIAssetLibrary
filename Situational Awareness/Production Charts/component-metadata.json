@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
+    "name": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
+    "description": "A wzdProductionChart_ShiftAgent_DynamicTarget_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdProductionChart_StaticTime_DynamicTarget_v01",
+    "name": "wzdProductionChart_StaticTime_DynamicTarget_v01",
+    "description": "A wzdProductionChart_StaticTime_DynamicTarget_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdProductionChart_StaticTime_StaticTarget_v01",
+    "name": "wzdProductionChart_StaticTime_StaticTarget_v01",
+    "description": "A wzdProductionChart_StaticTime_StaticTarget_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

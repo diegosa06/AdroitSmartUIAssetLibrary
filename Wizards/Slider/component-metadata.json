@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Horizontal Slider",
+    "name": "Horizontal Slider",
+    "description": "A Horizontal Slider.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Vertical Slider",
+    "name": "Vertical Slider",
+    "description": "A Vertical Slider.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

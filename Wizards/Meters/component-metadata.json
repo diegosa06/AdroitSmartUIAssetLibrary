@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Simple Temperature Meter",
+    "name": "Simple Temperature Meter",
+    "description": "A Simple Temperature Meter.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Simple Temperature Meter_1",
+    "name": "Simple Temperature Meter_1",
+    "description": "A Simple Temperature Meter_1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

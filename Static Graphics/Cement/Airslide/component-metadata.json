@@ -1,8 +1,8 @@
 [
   {
-    "id": "Belt Conveyor",
-    "name": "Belt Conveyor",
-    "description": "A Belt Conveyor.",
+    "id": "Air Slide 1",
+    "name": "Air Slide 1",
+    "description": "A Air Slide 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "id": "Scraper Conveyor",
-    "name": "Scraper Conveyor",
-    "description": "A Scraper Conveyor.",
+    "id": "Air Slide 2",
+    "name": "Air Slide 2",
+    "description": "A Air Slide 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "id": "Screw Conveyor",
-    "name": "Screw Conveyor",
-    "description": "A Screw Conveyor.",
+    "id": "Air Slide Side 1",
+    "name": "Air Slide Side 1",
+    "description": "A Air Slide Side 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -36,9 +36,9 @@
     ]
   },
   {
-    "id": "Vibration Conveyor",
-    "name": "Vibration Conveyor",
-    "description": "A Vibration Conveyor.",
+    "id": "Air Slide Side 2",
+    "name": "Air Slide Side 2",
+    "description": "A Air Slide Side 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

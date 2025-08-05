@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Marshal Faceplate Template Read Only",
+    "name": "Marshal Faceplate Template Read Only",
+    "description": "A Marshal Faceplate Template Read Only.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Marshal Faceplate Template Read Write",
+    "name": "Marshal Faceplate Template Read Write",
+    "description": "A Marshal Faceplate Template Read Write.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

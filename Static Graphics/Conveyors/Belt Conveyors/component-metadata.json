@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Belt Conveyor Horizontal",
+    "name": "Belt Conveyor Horizontal",
+    "description": "A Belt Conveyor Horizontal.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Belt Conveyor Vertical",
+    "name": "Belt Conveyor Vertical",
+    "description": "A Belt Conveyor Vertical.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

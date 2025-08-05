@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wzdProcessVessel_Large_v01",
+    "name": "wzdProcessVessel_Large_v01",
+    "description": "A wzdProcessVessel_Large_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdProcessVessel_Medium_v01",
+    "name": "wzdProcessVessel_Medium_v01",
+    "description": "A wzdProcessVessel_Medium_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "wzdProcessVessel_Small_v01",
+    "name": "wzdProcessVessel_Small_v01",
+    "description": "A wzdProcessVessel_Small_v01.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

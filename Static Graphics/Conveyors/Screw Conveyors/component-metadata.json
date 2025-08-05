@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Screw Conveyor Motor Left",
+    "name": "Screw Conveyor Motor Left",
+    "description": "A Screw Conveyor Motor Left.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Screw Conveyor Motor Right",
+    "name": "Screw Conveyor Motor Right",
+    "description": "A Screw Conveyor Motor Right.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

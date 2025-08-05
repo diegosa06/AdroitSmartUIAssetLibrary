@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Drive",
+    "name": "Drive",
+    "description": "A Drive.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Electric Motor 1",
+    "name": "Electric Motor 1",
+    "description": "A Electric Motor 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Electric Motor 2",
+    "name": "Electric Motor 2",
+    "description": "A Electric Motor 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]

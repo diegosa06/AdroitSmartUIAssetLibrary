@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Alarm Indication 1",
+    "name": "Alarm Indication 1",
+    "description": "A Alarm Indication 1.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  },
+  {
+    "id": "Alarm Indication 2",
+    "name": "Alarm Indication 2",
+    "description": "A Alarm Indication 2.",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Tag1",
+      "Tag2",
+      "Tag3"
+    ]
+  }
+]
