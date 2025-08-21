@@ -1,170 +1,184 @@
 [
   {
-    "id": "3DSolenoidValveHorizontal",
-    "name": "3DSolenoidValveHorizontal",
-    "description": "A 3DSolenoidValveHorizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "globevalvevertical",
+    "name": "Globevalvevertical",
+    "description": "A Globevalvevertical.",
+    "previewImageUrl": "GlobeValveVertical.png",
+    "downloadUrl": "GlobeValveVertical.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "3DSolenoidValveVertical",
-    "name": "3DSolenoidValveVertical",
-    "description": "A 3DSolenoidValveVertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "globevalvevertical_flat",
+    "name": "Globevalvevertical Flat",
+    "description": "A Globevalvevertical Flat.",
+    "previewImageUrl": "GlobeValveVertical_Flat.png",
+    "downloadUrl": "GlobeValveVertical_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "GlobeValveHorizontal",
-    "name": "GlobeValveHorizontal",
-    "description": "A GlobeValveHorizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "globevalvehorizontal",
+    "name": "Globevalvehorizontal",
+    "description": "A Globevalvehorizontal.",
+    "previewImageUrl": "GlobeValveHorizontal.png",
+    "downloadUrl": "GlobeValveHorizontal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "GlobeValveHorizontal_Flat",
-    "name": "GlobeValveHorizontal_Flat",
-    "description": "A GlobeValveHorizontal_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "3dsolenoidvalvehorizontal",
+    "name": "3Dsolenoidvalvehorizontal",
+    "description": "A 3Dsolenoidvalvehorizontal.",
+    "previewImageUrl": "3DSolenoidValveHorizontal.png",
+    "downloadUrl": "3DSolenoidValveHorizontal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "GlobeValveVertical",
-    "name": "GlobeValveVertical",
-    "description": "A GlobeValveVertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "isovalvehorizontal",
+    "name": "Isovalvehorizontal",
+    "description": "A Isovalvehorizontal.",
+    "previewImageUrl": "ISOValveHorizontal.png",
+    "downloadUrl": "ISOValveHorizontal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "GlobeValveVertical_Flat",
-    "name": "GlobeValveVertical_Flat",
-    "description": "A GlobeValveVertical_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "solenoidvalvehorizontal_flat",
+    "name": "Solenoidvalvehorizontal Flat",
+    "description": "A Solenoidvalvehorizontal Flat.",
+    "previewImageUrl": "SolenoidValveHorizontal_Flat.png",
+    "downloadUrl": "SolenoidValveHorizontal_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "ISOValveHorizontal",
-    "name": "ISOValveHorizontal",
-    "description": "A ISOValveHorizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "3dsolenoidvalvevertical",
+    "name": "3Dsolenoidvalvevertical",
+    "description": "A 3Dsolenoidvalvevertical.",
+    "previewImageUrl": "3DSolenoidValveVertical.png",
+    "downloadUrl": "3DSolenoidValveVertical.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "ISOValveHorizontal_Flat",
-    "name": "ISOValveHorizontal_Flat",
-    "description": "A ISOValveHorizontal_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "solenoidvalvehorizontal",
+    "name": "Solenoidvalvehorizontal",
+    "description": "A Solenoidvalvehorizontal.",
+    "previewImageUrl": "SolenoidValveHorizontal.png",
+    "downloadUrl": "SolenoidValveHorizontal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "ISOValveVertical",
-    "name": "ISOValveVertical",
-    "description": "A ISOValveVertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "isovalvevertical_flat",
+    "name": "Isovalvevertical Flat",
+    "description": "A Isovalvevertical Flat.",
+    "previewImageUrl": "ISOValveVertical_Flat.png",
+    "downloadUrl": "ISOValveVertical_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "ISOValveVertical_Flat",
-    "name": "ISOValveVertical_Flat",
-    "description": "A ISOValveVertical_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "globevalvehorizontal_flat",
+    "name": "Globevalvehorizontal Flat",
+    "description": "A Globevalvehorizontal Flat.",
+    "previewImageUrl": "GlobeValveHorizontal_Flat.png",
+    "downloadUrl": "GlobeValveHorizontal_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "SolenoidValveHorizontal",
-    "name": "SolenoidValveHorizontal",
-    "description": "A SolenoidValveHorizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "solenoidvalvevertical",
+    "name": "Solenoidvalvevertical",
+    "description": "A Solenoidvalvevertical.",
+    "previewImageUrl": "SolenoidValveVertical.png",
+    "downloadUrl": "SolenoidValveVertical.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "SolenoidValveHorizontal_Flat",
-    "name": "SolenoidValveHorizontal_Flat",
-    "description": "A SolenoidValveHorizontal_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "isovalvehorizontal_flat",
+    "name": "Isovalvehorizontal Flat",
+    "description": "A Isovalvehorizontal Flat.",
+    "previewImageUrl": "ISOValveHorizontal_Flat.png",
+    "downloadUrl": "ISOValveHorizontal_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "SolenoidValveVertical",
-    "name": "SolenoidValveVertical",
-    "description": "A SolenoidValveVertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "solenoidvalvevertical_flat",
+    "name": "Solenoidvalvevertical Flat",
+    "description": "A Solenoidvalvevertical Flat.",
+    "previewImageUrl": "SolenoidValveVertical_Flat.png",
+    "downloadUrl": "SolenoidValveVertical_Flat.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "SolenoidValveVertical_Flat",
-    "name": "SolenoidValveVertical_Flat",
-    "description": "A SolenoidValveVertical_Flat.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "isovalvevertical",
+    "name": "Isovalvevertical",
+    "description": "A Isovalvevertical.",
+    "previewImageUrl": "ISOValveVertical.png",
+    "downloadUrl": "ISOValveVertical.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   }
 ]

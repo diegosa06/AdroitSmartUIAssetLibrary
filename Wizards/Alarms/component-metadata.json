@@ -1,26 +1,26 @@
 [
   {
-    "id": "Alarm Indication 1",
+    "id": "alarm indication 1",
     "name": "Alarm Indication 1",
     "description": "A Alarm Indication 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Alarm Indication 1.png",
+    "downloadUrl": "Alarm Indication 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Alarm",
+      "Indication",
+      "1"
     ]
   },
   {
-    "id": "Alarm Indication 2",
+    "id": "alarm indication 2",
     "name": "Alarm Indication 2",
     "description": "A Alarm Indication 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Alarm Indication 2.png",
+    "downloadUrl": "Alarm Indication 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Alarm",
+      "Indication",
+      "2"
     ]
   }
 ]

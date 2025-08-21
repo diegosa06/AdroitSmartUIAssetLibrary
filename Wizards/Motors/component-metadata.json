@@ -1,62 +1,67 @@
 [
   {
-    "id": "Chrome Horizontal Flange Motor",
-    "name": "Chrome Horizontal Flange Motor",
-    "description": "A Chrome Horizontal Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "simple motor start-stop",
+    "name": "Simple Motor Start-Stop",
+    "description": "A Simple Motor Start-Stop.",
+    "previewImageUrl": "Simple Motor start-stop.png",
+    "downloadUrl": "Simple Motor start-stop.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Chrome Horizontal Mounted Motor",
+    "id": "chrome horizontal mounted motor",
     "name": "Chrome Horizontal Mounted Motor",
     "description": "A Chrome Horizontal Mounted Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Chrome Horizontal Mounted Motor.png",
+    "downloadUrl": "Chrome Horizontal Mounted Motor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Chrome Vertical Flange Motor",
+    "id": "chrome horizontal flange motor",
+    "name": "Chrome Horizontal Flange Motor",
+    "description": "A Chrome Horizontal Flange Motor.",
+    "previewImageUrl": "Chrome Horizontal Flange Motor.png",
+    "downloadUrl": "Chrome Horizontal Flange Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "chrome vertical flange motor",
     "name": "Chrome Vertical Flange Motor",
     "description": "A Chrome Vertical Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Chrome Vertical Flange Motor.png",
+    "downloadUrl": "Chrome Vertical Flange Motor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Simple Motor On Off",
+    "id": "simple motor on off",
     "name": "Simple Motor On Off",
     "description": "A Simple Motor On Off.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Simple Motor On Off.png",
+    "downloadUrl": "Simple Motor On Off.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Simple Motor start-stop",
-    "name": "Simple Motor start-stop",
-    "description": "A Simple Motor start-stop.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   }
 ]

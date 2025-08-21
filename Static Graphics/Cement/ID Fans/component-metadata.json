@@ -1,50 +1,54 @@
 [
   {
-    "id": "ID Fan Down",
-    "name": "ID Fan Down",
-    "description": "A ID Fan Down.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "ID Fan Left",
-    "name": "ID Fan Left",
-    "description": "A ID Fan Left.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "ID Fan Right",
-    "name": "ID Fan Right",
-    "description": "A ID Fan Right.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "ID Fan Up",
+    "id": "id fan up",
     "name": "ID Fan Up",
     "description": "A ID Fan Up.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "ID Fan Up.png",
+    "downloadUrl": "ID Fan Up.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "id fan left",
+    "name": "ID Fan Left",
+    "description": "A ID Fan Left.",
+    "previewImageUrl": "ID Fan Left.png",
+    "downloadUrl": "ID Fan Left.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "id fan down",
+    "name": "ID Fan Down",
+    "description": "A ID Fan Down.",
+    "previewImageUrl": "ID Fan Down.png",
+    "downloadUrl": "ID Fan Down.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "id fan right",
+    "name": "ID Fan Right",
+    "description": "A ID Fan Right.",
+    "previewImageUrl": "ID Fan Right.png",
+    "downloadUrl": "ID Fan Right.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
     ]
   }
 ]

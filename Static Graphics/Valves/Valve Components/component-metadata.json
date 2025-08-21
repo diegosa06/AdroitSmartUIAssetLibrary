@@ -1,146 +1,153 @@
 [
   {
-    "id": "Flange 01",
-    "name": "Flange 01",
-    "description": "A Flange 01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Flange 02",
-    "name": "Flange 02",
-    "description": "A Flange 02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Flange 03",
-    "name": "Flange 03",
-    "description": "A Flange 03.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Panel",
-    "name": "Panel",
-    "description": "A Panel.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Switch",
-    "name": "Switch",
-    "description": "A Switch.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 01",
-    "name": "Valve Component 01",
-    "description": "A Valve Component 01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 02",
-    "name": "Valve Component 02",
-    "description": "A Valve Component 02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 03",
-    "name": "Valve Component 03",
-    "description": "A Valve Component 03.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 04",
-    "name": "Valve Component 04",
-    "description": "A Valve Component 04.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 05",
-    "name": "Valve Component 05",
-    "description": "A Valve Component 05.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Valve Component 06",
-    "name": "Valve Component 06",
-    "description": "A Valve Component 06.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Vent",
+    "id": "vent",
     "name": "Vent",
     "description": "A Vent.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Vent.png",
+    "downloadUrl": "Vent.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vent",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "valve component 06",
+    "name": "Valve Component 06",
+    "description": "A Valve Component 06.",
+    "previewImageUrl": "Valve Component 06.png",
+    "downloadUrl": "Valve Component 06.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "valve component 02",
+    "name": "Valve Component 02",
+    "description": "A Valve Component 02.",
+    "previewImageUrl": "Valve Component 02.png",
+    "downloadUrl": "Valve Component 02.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "flange 01",
+    "name": "Flange 01",
+    "description": "A Flange 01.",
+    "previewImageUrl": "Flange 01.png",
+    "downloadUrl": "Flange 01.png",
+    "tags": [
+      "Flange",
+      "01",
+      "Automation"
+    ]
+  },
+  {
+    "id": "panel",
+    "name": "Panel",
+    "description": "A Panel.",
+    "previewImageUrl": "Panel.png",
+    "downloadUrl": "Panel.png",
+    "tags": [
+      "Panel",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "flange 02",
+    "name": "Flange 02",
+    "description": "A Flange 02.",
+    "previewImageUrl": "Flange 02.png",
+    "downloadUrl": "Flange 02.png",
+    "tags": [
+      "Flange",
+      "02",
+      "Automation"
+    ]
+  },
+  {
+    "id": "valve component 05",
+    "name": "Valve Component 05",
+    "description": "A Valve Component 05.",
+    "previewImageUrl": "Valve Component 05.png",
+    "downloadUrl": "Valve Component 05.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "valve component 04",
+    "name": "Valve Component 04",
+    "description": "A Valve Component 04.",
+    "previewImageUrl": "Valve Component 04.png",
+    "downloadUrl": "Valve Component 04.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "switch",
+    "name": "Switch",
+    "description": "A Switch.",
+    "previewImageUrl": "Switch.png",
+    "downloadUrl": "Switch.png",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "valve component 03",
+    "name": "Valve Component 03",
+    "description": "A Valve Component 03.",
+    "previewImageUrl": "Valve Component 03.png",
+    "downloadUrl": "Valve Component 03.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "flange 03",
+    "name": "Flange 03",
+    "description": "A Flange 03.",
+    "previewImageUrl": "Flange 03.png",
+    "downloadUrl": "Flange 03.png",
+    "tags": [
+      "Flange",
+      "03",
+      "Automation"
+    ]
+  },
+  {
+    "id": "valve component 01",
+    "name": "Valve Component 01",
+    "description": "A Valve Component 01.",
+    "previewImageUrl": "Valve Component 01.png",
+    "downloadUrl": "Valve Component 01.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   }
 ]

@@ -1,74 +1,74 @@
 [
   {
-    "id": "Centrifugal",
+    "id": "centrifugal",
     "name": "Centrifugal",
     "description": "A Centrifugal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Centrifugal.png",
+    "downloadUrl": "Centrifugal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Centrifugal",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Clarifier",
-    "name": "Clarifier",
-    "description": "A Clarifier.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Elutriator",
-    "name": "Elutriator",
-    "description": "A Elutriator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Magnetic Seperator",
-    "name": "Magnetic Seperator",
-    "description": "A Magnetic Seperator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Seperator",
+    "id": "seperator",
     "name": "Seperator",
     "description": "A Seperator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Seperator.png",
+    "downloadUrl": "Seperator.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Seperator",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Sieve",
+    "id": "clarifier",
+    "name": "Clarifier",
+    "description": "A Clarifier.",
+    "previewImageUrl": "Clarifier.png",
+    "downloadUrl": "Clarifier.png",
+    "tags": [
+      "Clarifier",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "sieve",
     "name": "Sieve",
     "description": "A Sieve.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Sieve.png",
+    "downloadUrl": "Sieve.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Sieve",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "magnetic seperator",
+    "name": "Magnetic Seperator",
+    "description": "A Magnetic Seperator.",
+    "previewImageUrl": "Magnetic Seperator.png",
+    "downloadUrl": "Magnetic Seperator.png",
+    "tags": [
+      "Magnetic",
+      "Seperator",
+      "Automation"
+    ]
+  },
+  {
+    "id": "elutriator",
+    "name": "Elutriator",
+    "description": "A Elutriator.",
+    "previewImageUrl": "Elutriator.png",
+    "downloadUrl": "Elutriator.png",
+    "tags": [
+      "Elutriator",
+      "Automation",
+      "Automation"
     ]
   }
 ]

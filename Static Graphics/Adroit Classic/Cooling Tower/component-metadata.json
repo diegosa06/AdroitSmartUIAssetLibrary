@@ -1,14 +1,14 @@
 [
   {
-    "id": "Coolers",
+    "id": "coolers",
     "name": "Coolers",
     "description": "A Coolers.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Coolers.png",
+    "downloadUrl": "Coolers.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Coolers",
+      "Automation",
+      "Automation"
     ]
   }
 ]

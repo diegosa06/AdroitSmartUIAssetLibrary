@@ -1,14 +1,14 @@
 [
   {
-    "id": "Simple Temperature Meter",
+    "id": "simple temperature meter",
     "name": "Simple Temperature Meter",
     "description": "A Simple Temperature Meter.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Simple Temperature Meter.png",
+    "downloadUrl": "Simple Temperature Meter.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Temperature",
+      "Meter"
     ]
   }
 ]

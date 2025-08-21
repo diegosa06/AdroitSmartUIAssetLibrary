@@ -1,110 +1,113 @@
 [
   {
-    "id": "Emergency Stop",
-    "name": "Emergency Stop",
-    "description": "A Emergency Stop.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor OnOff Switch",
-    "name": "Motor OnOff Switch",
-    "description": "A Motor OnOff Switch.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "OnOff Switch 1",
-    "name": "OnOff Switch 1",
-    "description": "A OnOff Switch 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "OnOff Switch 2",
-    "name": "OnOff Switch 2",
-    "description": "A OnOff Switch 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Open Close Toggle",
+    "id": "open close toggle",
     "name": "Open Close Toggle",
     "description": "A Open Close Toggle.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Open Close Toggle.png",
+    "downloadUrl": "Open Close Toggle.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Open",
+      "Close",
+      "Toggle"
     ]
   },
   {
-    "id": "Siren Button",
+    "id": "motor onoff switch",
+    "name": "Motor Onoff Switch",
+    "description": "A Motor Onoff Switch.",
+    "previewImageUrl": "Motor OnOff Switch.png",
+    "downloadUrl": "Motor OnOff Switch.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "startstop buttons 2",
+    "name": "Startstop Buttons 2",
+    "description": "A Startstop Buttons 2.",
+    "previewImageUrl": "StartStop Buttons 2.png",
+    "downloadUrl": "StartStop Buttons 2.png",
+    "tags": [
+      "Startstop",
+      "Buttons",
+      "2"
+    ]
+  },
+  {
+    "id": "startstop buttons 1",
+    "name": "Startstop Buttons 1",
+    "description": "A Startstop Buttons 1.",
+    "previewImageUrl": "StartStop Buttons 1.png",
+    "downloadUrl": "StartStop Buttons 1.png",
+    "tags": [
+      "Startstop",
+      "Buttons",
+      "1"
+    ]
+  },
+  {
+    "id": "siren button",
     "name": "Siren Button",
     "description": "A Siren Button.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Siren Button.png",
+    "downloadUrl": "Siren Button.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Siren",
+      "Button",
+      "Automation"
     ]
   },
   {
-    "id": "Start Stop Toggle",
+    "id": "start stop toggle",
     "name": "Start Stop Toggle",
     "description": "A Start Stop Toggle.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Start Stop Toggle.png",
+    "downloadUrl": "Start Stop Toggle.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Start",
+      "Stop",
+      "Toggle"
     ]
   },
   {
-    "id": "StartStop Buttons 1",
-    "name": "StartStop Buttons 1",
-    "description": "A StartStop Buttons 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "emergency stop",
+    "name": "Emergency Stop",
+    "description": "A Emergency Stop.",
+    "previewImageUrl": "Emergency Stop.png",
+    "downloadUrl": "Emergency Stop.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Emergency",
+      "Stop",
+      "Automation"
     ]
   },
   {
-    "id": "StartStop Buttons 2",
-    "name": "StartStop Buttons 2",
-    "description": "A StartStop Buttons 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "onoff switch 1",
+    "name": "Onoff Switch 1",
+    "description": "A Onoff Switch 1.",
+    "previewImageUrl": "OnOff Switch 1.png",
+    "downloadUrl": "OnOff Switch 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "onoff switch 2",
+    "name": "Onoff Switch 2",
+    "description": "A Onoff Switch 2.",
+    "previewImageUrl": "OnOff Switch 2.png",
+    "downloadUrl": "OnOff Switch 2.png",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
     ]
   }
 ]

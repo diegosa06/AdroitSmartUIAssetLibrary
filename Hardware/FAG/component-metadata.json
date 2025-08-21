@@ -1,26 +1,26 @@
 [
   {
-    "id": "wzdFAG",
-    "name": "wzdFAG",
-    "description": "A wzdFAG.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdwsfag",
+    "name": "Wzdwsfag",
+    "description": "A Wzdwsfag.",
+    "previewImageUrl": "wzdWSFAG.png",
+    "downloadUrl": "wzdWSFAG.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdwsfag",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "wzdWSFAG",
-    "name": "wzdWSFAG",
-    "description": "A wzdWSFAG.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdfag",
+    "name": "Wzdfag",
+    "description": "A Wzdfag.",
+    "previewImageUrl": "wzdFAG.png",
+    "downloadUrl": "wzdFAG.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdfag",
+      "Automation",
+      "Automation"
     ]
   }
 ]

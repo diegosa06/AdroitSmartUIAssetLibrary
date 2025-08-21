@@ -1,38 +1,38 @@
 [
   {
-    "id": "Analog Half Dial 1",
+    "id": "analog half dial 1",
     "name": "Analog Half Dial 1",
     "description": "A Analog Half Dial 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Half Dial 1.png",
+    "downloadUrl": "Analog Half Dial 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Half",
+      "Dial"
     ]
   },
   {
-    "id": "Analog Half Dial 2",
-    "name": "Analog Half Dial 2",
-    "description": "A Analog Half Dial 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Analog Half Dial 3",
+    "id": "analog half dial 3",
     "name": "Analog Half Dial 3",
     "description": "A Analog Half Dial 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Half Dial 3.png",
+    "downloadUrl": "Analog Half Dial 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Half",
+      "Dial"
+    ]
+  },
+  {
+    "id": "analog half dial 2",
+    "name": "Analog Half Dial 2",
+    "description": "A Analog Half Dial 2.",
+    "previewImageUrl": "Analog Half Dial 2.png",
+    "downloadUrl": "Analog Half Dial 2.png",
+    "tags": [
+      "Analog",
+      "Half",
+      "Dial"
     ]
   }
 ]

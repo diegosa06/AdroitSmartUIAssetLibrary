@@ -1,110 +1,119 @@
 [
   {
-    "id": "Ball Mill",
-    "name": "Ball Mill",
-    "description": "A Ball Mill.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Hammer Crusher 1",
-    "name": "Hammer Crusher 1",
-    "description": "A Hammer Crusher 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Hammer Crusher 2",
+    "id": "hammer crusher 2",
     "name": "Hammer Crusher 2",
     "description": "A Hammer Crusher 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Hammer Crusher 2.png",
+    "downloadUrl": "Hammer Crusher 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Impact Crusher",
-    "name": "Impact Crusher",
-    "description": "A Impact Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Jaw Crusher",
-    "name": "Jaw Crusher",
-    "description": "A Jaw Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Mill",
+    "id": "mill",
     "name": "Mill",
     "description": "A Mill.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Mill.png",
+    "downloadUrl": "Mill.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Roll Crusher",
+    "id": "ball mill",
+    "name": "Ball Mill",
+    "description": "A Ball Mill.",
+    "previewImageUrl": "Ball Mill.png",
+    "downloadUrl": "Ball Mill.png",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "roll crusher",
     "name": "Roll Crusher",
     "description": "A Roll Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Roll Crusher.png",
+    "downloadUrl": "Roll Crusher.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Roller Crusher",
-    "name": "Roller Crusher",
-    "description": "A Roller Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "jaw crusher",
+    "name": "Jaw Crusher",
+    "description": "A Jaw Crusher.",
+    "previewImageUrl": "Jaw Crusher.png",
+    "downloadUrl": "Jaw Crusher.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Various Crusher",
+    "id": "various crusher",
     "name": "Various Crusher",
     "description": "A Various Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Various Crusher.png",
+    "downloadUrl": "Various Crusher.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "roller crusher",
+    "name": "Roller Crusher",
+    "description": "A Roller Crusher.",
+    "previewImageUrl": "Roller Crusher.png",
+    "downloadUrl": "Roller Crusher.png",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "hammer crusher 1",
+    "name": "Hammer Crusher 1",
+    "description": "A Hammer Crusher 1.",
+    "previewImageUrl": "Hammer Crusher 1.png",
+    "downloadUrl": "Hammer Crusher 1.png",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "impact crusher",
+    "name": "Impact Crusher",
+    "description": "A Impact Crusher.",
+    "previewImageUrl": "Impact Crusher.png",
+    "downloadUrl": "Impact Crusher.png",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   }
 ]

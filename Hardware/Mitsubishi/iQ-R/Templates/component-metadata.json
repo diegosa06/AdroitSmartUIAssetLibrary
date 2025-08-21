@@ -1,230 +1,230 @@
 [
   {
-    "id": "R00CPU_Template",
-    "name": "R00CPU_Template",
-    "description": "A R00CPU_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "ry41_template",
+    "name": "RY41 Template",
+    "description": "A RY41 Template.",
+    "previewImageUrl": "RY41_Template.png",
+    "downloadUrl": "RY41_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RY41",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "R60AD4_Template",
-    "name": "R60AD4_Template",
-    "description": "A R60AD4_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rx40_template",
+    "name": "RX40 Template",
+    "description": "A RX40 Template.",
+    "previewImageUrl": "RX40_Template.png",
+    "downloadUrl": "RX40_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RX40",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "R60ADI8_Template",
-    "name": "R60ADI8_Template",
-    "description": "A R60ADI8_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj72gf15-t2_template",
+    "name": "RJ72GF15-T2 Template",
+    "description": "A RJ72GF15-T2 Template.",
+    "previewImageUrl": "RJ72GF15-T2_Template.png",
+    "downloadUrl": "RJ72GF15-T2_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ72GF15",
+      "T2",
+      "Template"
     ]
   },
   {
-    "id": "R60DA4_Template",
-    "name": "R60DA4_Template",
-    "description": "A R60DA4_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rcpu_template",
+    "name": "RCPU Template",
+    "description": "A RCPU Template.",
+    "previewImageUrl": "RCPU_Template.png",
+    "downloadUrl": "RCPU_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RCPU",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "R60TD8-G_Template",
-    "name": "R60TD8-G_Template",
-    "description": "A R60TD8-G_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "ry18r2a_template",
+    "name": "RY18R2A Template",
+    "description": "A RY18R2A Template.",
+    "previewImageUrl": "RY18R2A_Template.png",
+    "downloadUrl": "RY18R2A_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RY18R2A",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RCPU_Template",
-    "name": "RCPU_Template",
-    "description": "A RCPU_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "r60da4_template",
+    "name": "R60DA4 Template",
+    "description": "A R60DA4 Template.",
+    "previewImageUrl": "R60DA4_Template.png",
+    "downloadUrl": "R60DA4_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "R60DA4",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RD81OPC96_Template",
-    "name": "RD81OPC96_Template",
-    "description": "A RD81OPC96_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "ry40_template",
+    "name": "RY40 Template",
+    "description": "A RY40 Template.",
+    "previewImageUrl": "RY40_Template.png",
+    "downloadUrl": "RY40_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RY40",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RJ61BT11_Template",
-    "name": "RJ61BT11_Template",
-    "description": "A RJ61BT11_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj61bt11_template",
+    "name": "RJ61BT11 Template",
+    "description": "A RJ61BT11 Template.",
+    "previewImageUrl": "RJ61BT11_Template.png",
+    "downloadUrl": "RJ61BT11_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ61BT11",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RJ71C24_Template",
-    "name": "RJ71C24_Template",
-    "description": "A RJ71C24_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj71gp21-sx_template",
+    "name": "RJ71GP21-SX Template",
+    "description": "A RJ71GP21-SX Template.",
+    "previewImageUrl": "RJ71GP21-SX_Template.png",
+    "downloadUrl": "RJ71GP21-SX_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ71GP21",
+      "SX",
+      "Template"
     ]
   },
   {
-    "id": "RJ71GF11-T2_Template",
-    "name": "RJ71GF11-T2_Template",
-    "description": "A RJ71GF11-T2_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "r60ad4_template",
+    "name": "R60AD4 Template",
+    "description": "A R60AD4 Template.",
+    "previewImageUrl": "R60AD4_Template.png",
+    "downloadUrl": "R60AD4_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "R60AD4",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RJ71GP21-SX_Template",
-    "name": "RJ71GP21-SX_Template",
-    "description": "A RJ71GP21-SX_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rx10_template",
+    "name": "RX10 Template",
+    "description": "A RX10 Template.",
+    "previewImageUrl": "RX10_Template.png",
+    "downloadUrl": "RX10_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RX10",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RJ71PB91V_Template",
-    "name": "RJ71PB91V_Template",
-    "description": "A RJ71PB91V_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj71pb91v_template",
+    "name": "RJ71PB91V Template",
+    "description": "A RJ71PB91V Template.",
+    "previewImageUrl": "RJ71PB91V_Template.png",
+    "downloadUrl": "RJ71PB91V_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ71PB91V",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RJ72GF15-T2_Template",
-    "name": "RJ72GF15-T2_Template",
-    "description": "A RJ72GF15-T2_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "r60td8-g_template",
+    "name": "R60TD8-G Template",
+    "description": "A R60TD8-G Template.",
+    "previewImageUrl": "R60TD8-G_Template.png",
+    "downloadUrl": "R60TD8-G_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "R60TD8",
+      "G",
+      "Template"
     ]
   },
   {
-    "id": "RX10_Template",
-    "name": "RX10_Template",
-    "description": "A RX10_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj71gf11-t2_template",
+    "name": "RJ71GF11-T2 Template",
+    "description": "A RJ71GF11-T2 Template.",
+    "previewImageUrl": "RJ71GF11-T2_Template.png",
+    "downloadUrl": "RJ71GF11-T2_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ71GF11",
+      "T2",
+      "Template"
     ]
   },
   {
-    "id": "RX40_Template",
-    "name": "RX40_Template",
-    "description": "A RX40_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rd81opc96_template",
+    "name": "RD81OPC96 Template",
+    "description": "A RD81OPC96 Template.",
+    "previewImageUrl": "RD81OPC96_Template.png",
+    "downloadUrl": "RD81OPC96_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RD81OPC96",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RX41_Template",
-    "name": "RX41_Template",
-    "description": "A RX41_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "r60adi8_template",
+    "name": "R60ADI8 Template",
+    "description": "A R60ADI8 Template.",
+    "previewImageUrl": "R60ADI8_Template.png",
+    "downloadUrl": "R60ADI8_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "R60ADI8",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RY18R2A_Template",
-    "name": "RY18R2A_Template",
-    "description": "A RY18R2A_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rx41_template",
+    "name": "RX41 Template",
+    "description": "A RX41 Template.",
+    "previewImageUrl": "RX41_Template.png",
+    "downloadUrl": "RX41_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RX41",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RY40_Template",
-    "name": "RY40_Template",
-    "description": "A RY40_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "rj71c24_template",
+    "name": "RJ71C24 Template",
+    "description": "A RJ71C24 Template.",
+    "previewImageUrl": "RJ71C24_Template.png",
+    "downloadUrl": "RJ71C24_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "RJ71C24",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "RY41_Template",
-    "name": "RY41_Template",
-    "description": "A RY41_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "r00cpu_template",
+    "name": "R00CPU Template",
+    "description": "A R00CPU Template.",
+    "previewImageUrl": "R00CPU_Template.png",
+    "downloadUrl": "R00CPU_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "R00CPU",
+      "Template",
+      "Automation"
     ]
   }
 ]

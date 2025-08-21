@@ -1,14 +1,14 @@
 [
   {
-    "id": "Cold Store",
+    "id": "cold store",
     "name": "Cold Store",
     "description": "A Cold Store.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Cold Store.png",
+    "downloadUrl": "Cold Store.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Cold",
+      "Store",
+      "Automation"
     ]
   }
 ]

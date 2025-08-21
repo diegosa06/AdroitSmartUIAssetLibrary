@@ -1,26 +1,28 @@
 [
   {
-    "id": "wzdPumpHorizontal_v01",
-    "name": "wzdPumpHorizontal_v01",
-    "description": "A wzdPumpHorizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdpumpvertical_v01",
+    "name": "Wzdpumpvertical V01",
+    "description": "A Wzdpumpvertical V01.",
+    "previewImageUrl": "wzdPumpVertical_v01.png",
+    "downloadUrl": "wzdPumpVertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "wzdPumpVertical_v01",
-    "name": "wzdPumpVertical_v01",
-    "description": "A wzdPumpVertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdpumphorizontal_v01",
+    "name": "Wzdpumphorizontal V01",
+    "description": "A Wzdpumphorizontal V01.",
+    "previewImageUrl": "wzdPumpHorizontal_v01.png",
+    "downloadUrl": "wzdPumpHorizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   }
 ]

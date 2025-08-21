@@ -1,26 +1,26 @@
 [
   {
-    "id": "FX5CPU",
+    "id": "fx5cpu",
     "name": "FX5CPU",
     "description": "A FX5CPU.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "FX5CPU.png",
+    "downloadUrl": "FX5CPU.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "FX5CPU",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Q03UDVCPU",
+    "id": "q03udvcpu",
     "name": "Q03UDVCPU",
     "description": "A Q03UDVCPU.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Q03UDVCPU.png",
+    "downloadUrl": "Q03UDVCPU.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q03UDVCPU",
+      "Automation",
+      "Automation"
     ]
   }
 ]

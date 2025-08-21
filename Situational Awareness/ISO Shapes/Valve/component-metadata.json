@@ -1,26 +1,28 @@
 [
   {
-    "id": "wzdValveHorizontal_v01",
-    "name": "wzdValveHorizontal_v01",
-    "description": "A wzdValveHorizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdvalvevertical_v01",
+    "name": "Wzdvalvevertical V01",
+    "description": "A Wzdvalvevertical V01.",
+    "previewImageUrl": "wzdValveVertical_v01.png",
+    "downloadUrl": "wzdValveVertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "wzdValveVertical_v01",
-    "name": "wzdValveVertical_v01",
-    "description": "A wzdValveVertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdvalvehorizontal_v01",
+    "name": "Wzdvalvehorizontal V01",
+    "description": "A Wzdvalvehorizontal V01.",
+    "previewImageUrl": "wzdValveHorizontal_v01.png",
+    "downloadUrl": "wzdValveHorizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   }
 ]

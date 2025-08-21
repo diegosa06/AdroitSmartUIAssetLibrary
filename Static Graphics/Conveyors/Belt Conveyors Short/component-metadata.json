@@ -1,74 +1,80 @@
 [
   {
-    "id": "Belt Conveyor Short",
-    "name": "Belt Conveyor Short",
-    "description": "A Belt Conveyor Short.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Short Down",
-    "name": "Belt Conveyor Short Down",
-    "description": "A Belt Conveyor Short Down.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Short Up",
+    "id": "belt conveyor short up",
     "name": "Belt Conveyor Short Up",
     "description": "A Belt Conveyor Short Up.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor Short Up.png",
+    "downloadUrl": "Belt Conveyor Short Up.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   },
   {
-    "id": "Belt Conveyor Short Wheels",
-    "name": "Belt Conveyor Short Wheels",
-    "description": "A Belt Conveyor Short Wheels.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Short Wheels Down",
+    "id": "belt conveyor short wheels down",
     "name": "Belt Conveyor Short Wheels Down",
     "description": "A Belt Conveyor Short Wheels Down.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor Short Wheels Down.png",
+    "downloadUrl": "Belt Conveyor Short Wheels Down.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   },
   {
-    "id": "Belt Conveyor Short Wheels Up",
+    "id": "belt conveyor short wheels",
+    "name": "Belt Conveyor Short Wheels",
+    "description": "A Belt Conveyor Short Wheels.",
+    "previewImageUrl": "Belt Conveyor Short Wheels.png",
+    "downloadUrl": "Belt Conveyor Short Wheels.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor short",
+    "name": "Belt Conveyor Short",
+    "description": "A Belt Conveyor Short.",
+    "previewImageUrl": "Belt Conveyor Short.png",
+    "downloadUrl": "Belt Conveyor Short.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor short wheels up",
     "name": "Belt Conveyor Short Wheels Up",
     "description": "A Belt Conveyor Short Wheels Up.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor Short Wheels Up.png",
+    "downloadUrl": "Belt Conveyor Short Wheels Up.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor short down",
+    "name": "Belt Conveyor Short Down",
+    "description": "A Belt Conveyor Short Down.",
+    "previewImageUrl": "Belt Conveyor Short Down.png",
+    "downloadUrl": "Belt Conveyor Short Down.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

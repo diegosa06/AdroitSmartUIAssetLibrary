@@ -1,38 +1,38 @@
 [
   {
-    "id": "Vehicles 1",
-    "name": "Vehicles 1",
-    "description": "A Vehicles 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Vehicles 2",
-    "name": "Vehicles 2",
-    "description": "A Vehicles 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Vehicles 3",
+    "id": "vehicles 3",
     "name": "Vehicles 3",
     "description": "A Vehicles 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Vehicles 3.png",
+    "downloadUrl": "Vehicles 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vehicles",
+      "3",
+      "Automation"
+    ]
+  },
+  {
+    "id": "vehicles 1",
+    "name": "Vehicles 1",
+    "description": "A Vehicles 1.",
+    "previewImageUrl": "Vehicles 1.png",
+    "downloadUrl": "Vehicles 1.png",
+    "tags": [
+      "Vehicles",
+      "1",
+      "Automation"
+    ]
+  },
+  {
+    "id": "vehicles 2",
+    "name": "Vehicles 2",
+    "description": "A Vehicles 2.",
+    "previewImageUrl": "Vehicles 2.png",
+    "downloadUrl": "Vehicles 2.png",
+    "tags": [
+      "Vehicles",
+      "2",
+      "Automation"
     ]
   }
 ]

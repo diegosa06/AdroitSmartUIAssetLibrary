@@ -1,50 +1,50 @@
 [
   {
-    "id": "Blue Water Aerator",
-    "name": "Blue Water Aerator",
-    "description": "A Blue Water Aerator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Water Aerator",
-    "name": "Chrome Water Aerator",
-    "description": "A Chrome Water Aerator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Horizontal Axis Agitator",
-    "name": "Horizontal Axis Agitator",
-    "description": "A Horizontal Axis Agitator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Vertical Axis Agitator",
+    "id": "vertical axis agitator",
     "name": "Vertical Axis Agitator",
     "description": "A Vertical Axis Agitator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Vertical Axis Agitator.png",
+    "downloadUrl": "Vertical Axis Agitator.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vertical",
+      "Axis",
+      "Agitator"
+    ]
+  },
+  {
+    "id": "horizontal axis agitator",
+    "name": "Horizontal Axis Agitator",
+    "description": "A Horizontal Axis Agitator.",
+    "previewImageUrl": "Horizontal Axis Agitator.png",
+    "downloadUrl": "Horizontal Axis Agitator.png",
+    "tags": [
+      "Horizontal",
+      "Axis",
+      "Agitator"
+    ]
+  },
+  {
+    "id": "blue water aerator",
+    "name": "Blue Water Aerator",
+    "description": "A Blue Water Aerator.",
+    "previewImageUrl": "Blue Water Aerator.png",
+    "downloadUrl": "Blue Water Aerator.png",
+    "tags": [
+      "Blue",
+      "Water",
+      "Aerator"
+    ]
+  },
+  {
+    "id": "chrome water aerator",
+    "name": "Chrome Water Aerator",
+    "description": "A Chrome Water Aerator.",
+    "previewImageUrl": "Chrome Water Aerator.png",
+    "downloadUrl": "Chrome Water Aerator.png",
+    "tags": [
+      "Chrome",
+      "Water",
+      "Aerator"
     ]
   }
 ]

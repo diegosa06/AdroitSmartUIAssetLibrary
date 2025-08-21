@@ -1,266 +1,276 @@
 [
   {
-    "id": "Cyclone",
-    "name": "Cyclone",
-    "description": "A Cyclone.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Cylinder Tank 1",
-    "name": "Cylinder Tank 1",
-    "description": "A Cylinder Tank 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Cylinder Tank 2",
-    "name": "Cylinder Tank 2",
-    "description": "A Cylinder Tank 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Cylinder Tank 3",
-    "name": "Cylinder Tank 3",
-    "description": "A Cylinder Tank 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Feed Hopper",
-    "name": "Feed Hopper",
-    "description": "A Feed Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Flat Top Hopper",
-    "name": "Flat Top Hopper",
-    "description": "A Flat Top Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Holding Tank 1",
-    "name": "Holding Tank 1",
-    "description": "A Holding Tank 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Holding Tank 2",
-    "name": "Holding Tank 2",
-    "description": "A Holding Tank 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Load Hopper",
+    "id": "load hopper",
     "name": "Load Hopper",
     "description": "A Load Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Load Hopper.png",
+    "downloadUrl": "Load Hopper.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Load",
+      "Hopper",
+      "Automation"
     ]
   },
   {
-    "id": "Material Silo 1",
-    "name": "Material Silo 1",
-    "description": "A Material Silo 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "feed hopper",
+    "name": "Feed Hopper",
+    "description": "A Feed Hopper.",
+    "previewImageUrl": "Feed Hopper.png",
+    "downloadUrl": "Feed Hopper.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Feed",
+      "Hopper",
+      "Automation"
     ]
   },
   {
-    "id": "Material Silo 2",
-    "name": "Material Silo 2",
-    "description": "A Material Silo 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Material Silo 3",
+    "id": "material silo 3",
     "name": "Material Silo 3",
     "description": "A Material Silo 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Material Silo 3.png",
+    "downloadUrl": "Material Silo 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Material",
+      "Silo",
+      "3"
     ]
   },
   {
-    "id": "Raised Hopper",
-    "name": "Raised Hopper",
-    "description": "A Raised Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "cyclone",
+    "name": "Cyclone",
+    "description": "A Cyclone.",
+    "previewImageUrl": "Cyclone.png",
+    "downloadUrl": "Cyclone.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Cyclone",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Raised Tank",
-    "name": "Raised Tank",
-    "description": "A Raised Tank.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Shute",
-    "name": "Shute",
-    "description": "A Shute.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Sterilising Hopper",
-    "name": "Sterilising Hopper",
-    "description": "A Sterilising Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Sterilising Tank",
-    "name": "Sterilising Tank",
-    "description": "A Sterilising Tank.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Storage Hopper",
-    "name": "Storage Hopper",
-    "description": "A Storage Hopper.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Triangle Tank",
-    "name": "Triangle Tank",
-    "description": "A Triangle Tank.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Triangle Tank with valve",
-    "name": "Triangle Tank with valve",
-    "description": "A Triangle Tank with valve.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Tripod Holding Tank",
-    "name": "Tripod Holding Tank",
-    "description": "A Tripod Holding Tank.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Water Reservoir",
+    "id": "water reservoir",
     "name": "Water Reservoir",
     "description": "A Water Reservoir.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Water Reservoir.png",
+    "downloadUrl": "Water Reservoir.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Water",
+      "Reservoir",
+      "Automation"
+    ]
+  },
+  {
+    "id": "storage hopper",
+    "name": "Storage Hopper",
+    "description": "A Storage Hopper.",
+    "previewImageUrl": "Storage Hopper.png",
+    "downloadUrl": "Storage Hopper.png",
+    "tags": [
+      "Storage",
+      "Hopper",
+      "Automation"
+    ]
+  },
+  {
+    "id": "shute",
+    "name": "Shute",
+    "description": "A Shute.",
+    "previewImageUrl": "Shute.png",
+    "downloadUrl": "Shute.png",
+    "tags": [
+      "Shute",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "holding tank 1",
+    "name": "Holding Tank 1",
+    "description": "A Holding Tank 1.",
+    "previewImageUrl": "Holding Tank 1.png",
+    "downloadUrl": "Holding Tank 1.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "tripod holding tank",
+    "name": "Tripod Holding Tank",
+    "description": "A Tripod Holding Tank.",
+    "previewImageUrl": "Tripod Holding Tank.png",
+    "downloadUrl": "Tripod Holding Tank.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "holding tank 2",
+    "name": "Holding Tank 2",
+    "description": "A Holding Tank 2.",
+    "previewImageUrl": "Holding Tank 2.png",
+    "downloadUrl": "Holding Tank 2.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "triangle tank with valve",
+    "name": "Triangle Tank With Valve",
+    "description": "A Triangle Tank With Valve.",
+    "previewImageUrl": "Triangle Tank with valve.png",
+    "downloadUrl": "Triangle Tank with valve.png",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "sterilising tank",
+    "name": "Sterilising Tank",
+    "description": "A Sterilising Tank.",
+    "previewImageUrl": "Sterilising Tank.png",
+    "downloadUrl": "Sterilising Tank.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "triangle tank",
+    "name": "Triangle Tank",
+    "description": "A Triangle Tank.",
+    "previewImageUrl": "Triangle Tank.png",
+    "downloadUrl": "Triangle Tank.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "cylinder tank 1",
+    "name": "Cylinder Tank 1",
+    "description": "A Cylinder Tank 1.",
+    "previewImageUrl": "Cylinder Tank 1.png",
+    "downloadUrl": "Cylinder Tank 1.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "material silo 1",
+    "name": "Material Silo 1",
+    "description": "A Material Silo 1.",
+    "previewImageUrl": "Material Silo 1.png",
+    "downloadUrl": "Material Silo 1.png",
+    "tags": [
+      "Material",
+      "Silo",
+      "1"
+    ]
+  },
+  {
+    "id": "cylinder tank 2",
+    "name": "Cylinder Tank 2",
+    "description": "A Cylinder Tank 2.",
+    "previewImageUrl": "Cylinder Tank 2.png",
+    "downloadUrl": "Cylinder Tank 2.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "sterilising hopper",
+    "name": "Sterilising Hopper",
+    "description": "A Sterilising Hopper.",
+    "previewImageUrl": "Sterilising Hopper.png",
+    "downloadUrl": "Sterilising Hopper.png",
+    "tags": [
+      "Sterilising",
+      "Hopper",
+      "Automation"
+    ]
+  },
+  {
+    "id": "raised tank",
+    "name": "Raised Tank",
+    "description": "A Raised Tank.",
+    "previewImageUrl": "Raised Tank.png",
+    "downloadUrl": "Raised Tank.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "material silo 2",
+    "name": "Material Silo 2",
+    "description": "A Material Silo 2.",
+    "previewImageUrl": "Material Silo 2.png",
+    "downloadUrl": "Material Silo 2.png",
+    "tags": [
+      "Material",
+      "Silo",
+      "2"
+    ]
+  },
+  {
+    "id": "flat top hopper",
+    "name": "Flat Top Hopper",
+    "description": "A Flat Top Hopper.",
+    "previewImageUrl": "Flat Top Hopper.png",
+    "downloadUrl": "Flat Top Hopper.png",
+    "tags": [
+      "Flat",
+      "Top",
+      "Hopper"
+    ]
+  },
+  {
+    "id": "cylinder tank 3",
+    "name": "Cylinder Tank 3",
+    "description": "A Cylinder Tank 3.",
+    "previewImageUrl": "Cylinder Tank 3.png",
+    "downloadUrl": "Cylinder Tank 3.png",
+    "tags": [
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "raised hopper",
+    "name": "Raised Hopper",
+    "description": "A Raised Hopper.",
+    "previewImageUrl": "Raised Hopper.png",
+    "downloadUrl": "Raised Hopper.png",
+    "tags": [
+      "Raised",
+      "Hopper",
+      "Automation"
     ]
   }
 ]

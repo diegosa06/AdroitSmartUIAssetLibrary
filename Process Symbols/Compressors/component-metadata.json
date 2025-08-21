@@ -1,74 +1,76 @@
 [
   {
-    "id": "Compressor",
+    "id": "compressor",
     "name": "Compressor",
     "description": "A Compressor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Compressor.png",
+    "downloadUrl": "Compressor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
     ]
   },
   {
-    "id": "Reciprocating Pump Comp",
-    "name": "Reciprocating Pump Comp",
-    "description": "A Reciprocating Pump Comp.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Rotary Comp",
+    "id": "rotary comp",
     "name": "Rotary Comp",
     "description": "A Rotary Comp.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Rotary Comp.png",
+    "downloadUrl": "Rotary Comp.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Rotary",
+      "Comp",
+      "Automation"
     ]
   },
   {
-    "id": "Selectable Comp 1",
-    "name": "Selectable Comp 1",
-    "description": "A Selectable Comp 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Selectable Comp 2",
-    "name": "Selectable Comp 2",
-    "description": "A Selectable Comp 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Selectable Comp 3",
+    "id": "selectable comp 3",
     "name": "Selectable Comp 3",
     "description": "A Selectable Comp 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Selectable Comp 3.png",
+    "downloadUrl": "Selectable Comp 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Selectable",
+      "Comp",
+      "3"
+    ]
+  },
+  {
+    "id": "selectable comp 2",
+    "name": "Selectable Comp 2",
+    "description": "A Selectable Comp 2.",
+    "previewImageUrl": "Selectable Comp 2.png",
+    "downloadUrl": "Selectable Comp 2.png",
+    "tags": [
+      "Selectable",
+      "Comp",
+      "2"
+    ]
+  },
+  {
+    "id": "selectable comp 1",
+    "name": "Selectable Comp 1",
+    "description": "A Selectable Comp 1.",
+    "previewImageUrl": "Selectable Comp 1.png",
+    "downloadUrl": "Selectable Comp 1.png",
+    "tags": [
+      "Selectable",
+      "Comp",
+      "1"
+    ]
+  },
+  {
+    "id": "reciprocating pump comp",
+    "name": "Reciprocating Pump Comp",
+    "description": "A Reciprocating Pump Comp.",
+    "previewImageUrl": "Reciprocating Pump Comp.png",
+    "downloadUrl": "Reciprocating Pump Comp.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   }
 ]

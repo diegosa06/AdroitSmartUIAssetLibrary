@@ -1,242 +1,259 @@
 [
   {
-    "id": "Centrifugal Pump 1",
+    "id": "centrifugal pump 1",
     "name": "Centrifugal Pump 1",
     "description": "A Centrifugal Pump 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Centrifugal Pump 1.png",
+    "downloadUrl": "Centrifugal Pump 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Centrifugal Pump 2",
-    "name": "Centrifugal Pump 2",
-    "description": "A Centrifugal Pump 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Diaphragm Pump",
-    "name": "Diaphragm Pump",
-    "description": "A Diaphragm Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Gear Pump",
-    "name": "Gear Pump",
-    "description": "A Gear Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Helical Rotor Pump",
-    "name": "Helical Rotor Pump",
-    "description": "A Helical Rotor Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Injector Ejector",
-    "name": "Injector Ejector",
-    "description": "A Injector Ejector.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Inline Pump",
-    "name": "Inline Pump",
-    "description": "A Inline Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Liquid Jet Pump",
-    "name": "Liquid Jet Pump",
-    "description": "A Liquid Jet Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Positive Disp",
+    "id": "positive disp",
     "name": "Positive Disp",
     "description": "A Positive Disp.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Positive Disp.png",
+    "downloadUrl": "Positive Disp.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Positive",
+      "Disp",
+      "Automation"
     ]
   },
   {
-    "id": "Positive Disp Pump",
-    "name": "Positive Disp Pump",
-    "description": "A Positive Disp Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "diaphragm pump",
+    "name": "Diaphragm Pump",
+    "description": "A Diaphragm Pump.",
+    "previewImageUrl": "Diaphragm Pump.png",
+    "downloadUrl": "Diaphragm Pump.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Proportional Pump",
-    "name": "Proportional Pump",
-    "description": "A Proportional Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Pump",
-    "name": "Pump",
-    "description": "A Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Reciprocating Pump 1",
-    "name": "Reciprocating Pump 1",
-    "description": "A Reciprocating Pump 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Reciprocating Pump 2",
-    "name": "Reciprocating Pump 2",
-    "description": "A Reciprocating Pump 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Rotary Pump 1",
-    "name": "Rotary Pump 1",
-    "description": "A Rotary Pump 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Rotary Pump 2",
-    "name": "Rotary Pump 2",
-    "description": "A Rotary Pump 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Screw Pump",
+    "id": "screw pump",
     "name": "Screw Pump",
     "description": "A Screw Pump.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Screw Pump.png",
+    "downloadUrl": "Screw Pump.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Selectable Pump 1",
-    "name": "Selectable Pump 1",
-    "description": "A Selectable Pump 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "injector ejector",
+    "name": "Injector Ejector",
+    "description": "A Injector Ejector.",
+    "previewImageUrl": "Injector Ejector.png",
+    "downloadUrl": "Injector Ejector.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Injector",
+      "Ejector",
+      "Automation"
     ]
   },
   {
-    "id": "Selectable Pump 2",
+    "id": "selectable pump 2",
     "name": "Selectable Pump 2",
     "description": "A Selectable Pump 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Selectable Pump 2.png",
+    "downloadUrl": "Selectable Pump 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Spray",
+    "id": "rotary pump 1",
+    "name": "Rotary Pump 1",
+    "description": "A Rotary Pump 1.",
+    "previewImageUrl": "Rotary Pump 1.png",
+    "downloadUrl": "Rotary Pump 1.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "proportional pump",
+    "name": "Proportional Pump",
+    "description": "A Proportional Pump.",
+    "previewImageUrl": "Proportional Pump.png",
+    "downloadUrl": "Proportional Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "helical rotor pump",
+    "name": "Helical Rotor Pump",
+    "description": "A Helical Rotor Pump.",
+    "previewImageUrl": "Helical Rotor Pump.png",
+    "downloadUrl": "Helical Rotor Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "reciprocating pump 1",
+    "name": "Reciprocating Pump 1",
+    "description": "A Reciprocating Pump 1.",
+    "previewImageUrl": "Reciprocating Pump 1.png",
+    "downloadUrl": "Reciprocating Pump 1.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "positive disp pump",
+    "name": "Positive Disp Pump",
+    "description": "A Positive Disp Pump.",
+    "previewImageUrl": "Positive Disp Pump.png",
+    "downloadUrl": "Positive Disp Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "reciprocating pump 2",
+    "name": "Reciprocating Pump 2",
+    "description": "A Reciprocating Pump 2.",
+    "previewImageUrl": "Reciprocating Pump 2.png",
+    "downloadUrl": "Reciprocating Pump 2.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "rotary pump 2",
+    "name": "Rotary Pump 2",
+    "description": "A Rotary Pump 2.",
+    "previewImageUrl": "Rotary Pump 2.png",
+    "downloadUrl": "Rotary Pump 2.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "spray",
     "name": "Spray",
     "description": "A Spray.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Spray.png",
+    "downloadUrl": "Spray.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Spray",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "selectable pump 1",
+    "name": "Selectable Pump 1",
+    "description": "A Selectable Pump 1.",
+    "previewImageUrl": "Selectable Pump 1.png",
+    "downloadUrl": "Selectable Pump 1.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "liquid jet pump",
+    "name": "Liquid Jet Pump",
+    "description": "A Liquid Jet Pump.",
+    "previewImageUrl": "Liquid Jet Pump.png",
+    "downloadUrl": "Liquid Jet Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "centrifugal pump 2",
+    "name": "Centrifugal Pump 2",
+    "description": "A Centrifugal Pump 2.",
+    "previewImageUrl": "Centrifugal Pump 2.png",
+    "downloadUrl": "Centrifugal Pump 2.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "inline pump",
+    "name": "Inline Pump",
+    "description": "A Inline Pump.",
+    "previewImageUrl": "Inline Pump.png",
+    "downloadUrl": "Inline Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "pump",
+    "name": "Pump",
+    "description": "A Pump.",
+    "previewImageUrl": "Pump.png",
+    "downloadUrl": "Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "gear pump",
+    "name": "Gear Pump",
+    "description": "A Gear Pump.",
+    "previewImageUrl": "Gear Pump.png",
+    "downloadUrl": "Gear Pump.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "id": "Marshal Faceplate Template Read Only",
+    "id": "marshal faceplate template read only",
     "name": "Marshal Faceplate Template Read Only",
     "description": "A Marshal Faceplate Template Read Only.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Marshal Faceplate Template Read Only.png",
+    "downloadUrl": "Marshal Faceplate Template Read Only.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Marshal",
+      "Faceplate",
+      "Template"
     ]
   },
   {
-    "id": "Marshal Faceplate Template Read Write",
+    "id": "marshal faceplate template read write",
     "name": "Marshal Faceplate Template Read Write",
     "description": "A Marshal Faceplate Template Read Write.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Marshal Faceplate Template Read Write.png",
+    "downloadUrl": "Marshal Faceplate Template Read Write.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Marshal",
+      "Faceplate",
+      "Template"
     ]
   }
 ]

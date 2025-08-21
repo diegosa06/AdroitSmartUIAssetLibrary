@@ -1,26 +1,26 @@
 [
   {
-    "id": "Computers 1",
-    "name": "Computers 1",
-    "description": "A Computers 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "computers 2",
+    "name": "Computers 2",
+    "description": "A Computers 2.",
+    "previewImageUrl": "Computers 2.png",
+    "downloadUrl": "Computers 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Computers",
+      "2",
+      "Automation"
     ]
   },
   {
-    "id": "Computers 2",
-    "name": "Computers 2",
-    "description": "A Computers 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "computers 1",
+    "name": "Computers 1",
+    "description": "A Computers 1.",
+    "previewImageUrl": "Computers 1.png",
+    "downloadUrl": "Computers 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Computers",
+      "1",
+      "Automation"
     ]
   }
 ]

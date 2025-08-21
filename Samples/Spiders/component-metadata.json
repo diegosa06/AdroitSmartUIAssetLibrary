@@ -1,38 +1,38 @@
 [
   {
-    "id": "All Spiders",
-    "name": "All Spiders",
-    "description": "A All Spiders.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Application Target 1",
-    "name": "Application Target 1",
-    "description": "A Application Target 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Application Target 2",
+    "id": "application target 2",
     "name": "Application Target 2",
     "description": "A Application Target 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Application Target 2.png",
+    "downloadUrl": "Application Target 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Application",
+      "Target",
+      "2"
+    ]
+  },
+  {
+    "id": "application target 1",
+    "name": "Application Target 1",
+    "description": "A Application Target 1.",
+    "previewImageUrl": "Application Target 1.png",
+    "downloadUrl": "Application Target 1.png",
+    "tags": [
+      "Application",
+      "Target",
+      "1"
+    ]
+  },
+  {
+    "id": "all spiders",
+    "name": "All Spiders",
+    "description": "A All Spiders.",
+    "previewImageUrl": "All Spiders.png",
+    "downloadUrl": "All Spiders.png",
+    "tags": [
+      "All",
+      "Spiders",
+      "Automation"
     ]
   }
 ]

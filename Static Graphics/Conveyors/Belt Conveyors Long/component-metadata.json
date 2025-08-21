@@ -1,74 +1,80 @@
 [
   {
-    "id": "Belt Conveyor Long",
-    "name": "Belt Conveyor Long",
-    "description": "A Belt Conveyor Long.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Long Down",
-    "name": "Belt Conveyor Long Down",
-    "description": "A Belt Conveyor Long Down.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Long Up",
-    "name": "Belt Conveyor Long Up",
-    "description": "A Belt Conveyor Long Up.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Long Wheels",
-    "name": "Belt Conveyor Long Wheels",
-    "description": "A Belt Conveyor Long Wheels.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Long Wheels Down",
-    "name": "Belt Conveyor Long Wheels Down",
-    "description": "A Belt Conveyor Long Wheels Down.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Belt Conveyor Long Wheels Up",
+    "id": "belt conveyor long wheels up",
     "name": "Belt Conveyor Long Wheels Up",
     "description": "A Belt Conveyor Long Wheels Up.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor Long Wheels Up.png",
+    "downloadUrl": "Belt Conveyor Long Wheels Up.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor long wheels",
+    "name": "Belt Conveyor Long Wheels",
+    "description": "A Belt Conveyor Long Wheels.",
+    "previewImageUrl": "Belt Conveyor Long Wheels.png",
+    "downloadUrl": "Belt Conveyor Long Wheels.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor long up",
+    "name": "Belt Conveyor Long Up",
+    "description": "A Belt Conveyor Long Up.",
+    "previewImageUrl": "Belt Conveyor Long Up.png",
+    "downloadUrl": "Belt Conveyor Long Up.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor long down",
+    "name": "Belt Conveyor Long Down",
+    "description": "A Belt Conveyor Long Down.",
+    "previewImageUrl": "Belt Conveyor Long Down.png",
+    "downloadUrl": "Belt Conveyor Long Down.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor long wheels down",
+    "name": "Belt Conveyor Long Wheels Down",
+    "description": "A Belt Conveyor Long Wheels Down.",
+    "previewImageUrl": "Belt Conveyor Long Wheels Down.png",
+    "downloadUrl": "Belt Conveyor Long Wheels Down.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "belt conveyor long",
+    "name": "Belt Conveyor Long",
+    "description": "A Belt Conveyor Long.",
+    "previewImageUrl": "Belt Conveyor Long.png",
+    "downloadUrl": "Belt Conveyor Long.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

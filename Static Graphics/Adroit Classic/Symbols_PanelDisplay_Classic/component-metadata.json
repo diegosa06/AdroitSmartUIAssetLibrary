@@ -1,26 +1,26 @@
 [
   {
-    "id": "Panel Displays",
-    "name": "Panel Displays",
-    "description": "A Panel Displays.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "symbols1",
+    "name": "Symbols1",
+    "description": "A Symbols1.",
+    "previewImageUrl": "Symbols1.png",
+    "downloadUrl": "Symbols1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Symbols1",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Symbols1",
-    "name": "Symbols1",
-    "description": "A Symbols1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "panel displays",
+    "name": "Panel Displays",
+    "description": "A Panel Displays.",
+    "previewImageUrl": "Panel Displays.png",
+    "downloadUrl": "Panel Displays.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Panel",
+      "Displays",
+      "Automation"
     ]
   }
 ]

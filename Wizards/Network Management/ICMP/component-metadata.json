@@ -1,98 +1,101 @@
 [
   {
-    "id": "ServerSwitchTouchDesktop",
-    "name": "ServerSwitchTouchDesktop",
-    "description": "A ServerSwitchTouchDesktop.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "DB",
-    "name": "DB",
-    "description": "A DB.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Desktop",
-    "name": "Desktop",
-    "description": "A Desktop.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "PLC",
-    "name": "PLC",
-    "description": "A PLC.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Server_Horizontal",
-    "name": "Server_Horizontal",
-    "description": "A Server_Horizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Server_Vertical",
-    "name": "Server_Vertical",
-    "description": "A Server_Vertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Switch",
+    "id": "switch",
     "name": "Switch",
     "description": "A Switch.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Switch.png",
+    "downloadUrl": "Switch.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
     ]
   },
   {
-    "id": "Touch",
+    "id": "server_vertical",
+    "name": "Server Vertical",
+    "description": "A Server Vertical.",
+    "previewImageUrl": "Server_Vertical.png",
+    "downloadUrl": "Server_Vertical.png",
+    "tags": [
+      "Server",
+      "Vertical",
+      "Automation"
+    ]
+  },
+  {
+    "id": "db",
+    "name": "DB",
+    "description": "A DB.",
+    "previewImageUrl": "DB.png",
+    "downloadUrl": "DB.png",
+    "tags": [
+      "DB",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "serverswitchtouchdesktop",
+    "name": "Serverswitchtouchdesktop",
+    "description": "A Serverswitchtouchdesktop.",
+    "previewImageUrl": "ServerSwitchTouchDesktop.png",
+    "downloadUrl": "ServerSwitchTouchDesktop.png",
+    "tags": [
+      "Switch",
+      "Control",
+      "Input",
+      "Electrical"
+    ]
+  },
+  {
+    "id": "plc",
+    "name": "PLC",
+    "description": "A PLC.",
+    "previewImageUrl": "PLC.png",
+    "downloadUrl": "PLC.png",
+    "tags": [
+      "PLC",
+      "Controller",
+      "Logic",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "touch",
     "name": "Touch",
     "description": "A Touch.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Touch.png",
+    "downloadUrl": "Touch.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Touch",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "server_horizontal",
+    "name": "Server Horizontal",
+    "description": "A Server Horizontal.",
+    "previewImageUrl": "Server_Horizontal.png",
+    "downloadUrl": "Server_Horizontal.png",
+    "tags": [
+      "Server",
+      "Horizontal",
+      "Automation"
+    ]
+  },
+  {
+    "id": "desktop",
+    "name": "Desktop",
+    "description": "A Desktop.",
+    "previewImageUrl": "Desktop.png",
+    "downloadUrl": "Desktop.png",
+    "tags": [
+      "Desktop",
+      "Automation",
+      "Automation"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "id": "Skip",
+    "id": "skip",
     "name": "Skip",
     "description": "A Skip.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Skip.png",
+    "downloadUrl": "Skip.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Skip",
+      "Automation",
+      "Automation"
     ]
   }
 ]

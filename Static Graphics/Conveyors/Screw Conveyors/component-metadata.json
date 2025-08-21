@@ -1,26 +1,28 @@
 [
   {
-    "id": "Screw Conveyor Motor Left",
+    "id": "screw conveyor motor left",
     "name": "Screw Conveyor Motor Left",
     "description": "A Screw Conveyor Motor Left.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Screw Conveyor Motor Left.png",
+    "downloadUrl": "Screw Conveyor Motor Left.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   },
   {
-    "id": "Screw Conveyor Motor Right",
+    "id": "screw conveyor motor right",
     "name": "Screw Conveyor Motor Right",
     "description": "A Screw Conveyor Motor Right.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Screw Conveyor Motor Right.png",
+    "downloadUrl": "Screw Conveyor Motor Right.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

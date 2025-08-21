@@ -1,110 +1,110 @@
 [
   {
-    "id": "Air Cooler",
-    "name": "Air Cooler",
-    "description": "A Air Cooler.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Boiler",
+    "id": "boiler",
     "name": "Boiler",
     "description": "A Boiler.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Boiler.png",
+    "downloadUrl": "Boiler.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Boiler",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Condenser",
+    "id": "condenser",
     "name": "Condenser",
     "description": "A Condenser.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Condenser.png",
+    "downloadUrl": "Condenser.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Condenser",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Cooling Tower",
-    "name": "Cooling Tower",
-    "description": "A Cooling Tower.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Fired Heater",
-    "name": "Fired Heater",
-    "description": "A Fired Heater.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Heat Exchanger",
+    "id": "heat exchanger",
     "name": "Heat Exchanger",
     "description": "A Heat Exchanger.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Heat Exchanger.png",
+    "downloadUrl": "Heat Exchanger.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Heat",
+      "Exchanger",
+      "Automation"
     ]
   },
   {
-    "id": "Heat Exchanger Lines",
-    "name": "Heat Exchanger Lines",
-    "description": "A Heat Exchanger Lines.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Heat Exchanger Plates",
-    "name": "Heat Exchanger Plates",
-    "description": "A Heat Exchanger Plates.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Heat Exchanger Tube",
+    "id": "heat exchanger tube",
     "name": "Heat Exchanger Tube",
     "description": "A Heat Exchanger Tube.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Heat Exchanger Tube.png",
+    "downloadUrl": "Heat Exchanger Tube.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Heat",
+      "Exchanger",
+      "Tube"
+    ]
+  },
+  {
+    "id": "fired heater",
+    "name": "Fired Heater",
+    "description": "A Fired Heater.",
+    "previewImageUrl": "Fired Heater.png",
+    "downloadUrl": "Fired Heater.png",
+    "tags": [
+      "Fired",
+      "Heater",
+      "Automation"
+    ]
+  },
+  {
+    "id": "cooling tower",
+    "name": "Cooling Tower",
+    "description": "A Cooling Tower.",
+    "previewImageUrl": "Cooling Tower.png",
+    "downloadUrl": "Cooling Tower.png",
+    "tags": [
+      "Cooling",
+      "Tower",
+      "Automation"
+    ]
+  },
+  {
+    "id": "heat exchanger plates",
+    "name": "Heat Exchanger Plates",
+    "description": "A Heat Exchanger Plates.",
+    "previewImageUrl": "Heat Exchanger Plates.png",
+    "downloadUrl": "Heat Exchanger Plates.png",
+    "tags": [
+      "Heat",
+      "Exchanger",
+      "Plates"
+    ]
+  },
+  {
+    "id": "air cooler",
+    "name": "Air Cooler",
+    "description": "A Air Cooler.",
+    "previewImageUrl": "Air Cooler.png",
+    "downloadUrl": "Air Cooler.png",
+    "tags": [
+      "Air",
+      "Cooler",
+      "Automation"
+    ]
+  },
+  {
+    "id": "heat exchanger lines",
+    "name": "Heat Exchanger Lines",
+    "description": "A Heat Exchanger Lines.",
+    "previewImageUrl": "Heat Exchanger Lines.png",
+    "downloadUrl": "Heat Exchanger Lines.png",
+    "tags": [
+      "Heat",
+      "Exchanger",
+      "Lines"
     ]
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "id": "AlarmEvent",
-    "name": "AlarmEvent",
-    "description": "A AlarmEvent.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "HOME",
-    "name": "HOME",
-    "description": "A HOME.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "TREND",
+    "id": "trend",
     "name": "TREND",
     "description": "A TREND.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "TREND.png",
+    "downloadUrl": "TREND.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "TREND",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "WEB",
+    "id": "web",
     "name": "WEB",
     "description": "A WEB.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "WEB.png",
+    "downloadUrl": "WEB.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "WEB",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "alarmevent",
+    "name": "Alarmevent",
+    "description": "A Alarmevent.",
+    "previewImageUrl": "AlarmEvent.png",
+    "downloadUrl": "AlarmEvent.png",
+    "tags": [
+      "Alarmevent",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "home",
+    "name": "HOME",
+    "description": "A HOME.",
+    "previewImageUrl": "HOME.png",
+    "downloadUrl": "HOME.png",
+    "tags": [
+      "HOME",
+      "Automation",
+      "Automation"
     ]
   }
 ]

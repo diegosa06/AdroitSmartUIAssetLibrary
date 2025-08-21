@@ -1,14 +1,14 @@
 [
   {
-    "id": "Simple Digital",
+    "id": "simple digital",
     "name": "Simple Digital",
     "description": "A Simple Digital.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Simple Digital.png",
+    "downloadUrl": "Simple Digital.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Digital",
+      "Automation"
     ]
   }
 ]

@@ -1,50 +1,54 @@
 [
   {
-    "id": "Belt Conveyor",
+    "id": "belt conveyor",
     "name": "Belt Conveyor",
     "description": "A Belt Conveyor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor.png",
+    "downloadUrl": "Belt Conveyor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   },
   {
-    "id": "Scraper Conveyor",
-    "name": "Scraper Conveyor",
-    "description": "A Scraper Conveyor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Screw Conveyor",
-    "name": "Screw Conveyor",
-    "description": "A Screw Conveyor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Vibration Conveyor",
+    "id": "vibration conveyor",
     "name": "Vibration Conveyor",
     "description": "A Vibration Conveyor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Vibration Conveyor.png",
+    "downloadUrl": "Vibration Conveyor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "scraper conveyor",
+    "name": "Scraper Conveyor",
+    "description": "A Scraper Conveyor.",
+    "previewImageUrl": "Scraper Conveyor.png",
+    "downloadUrl": "Scraper Conveyor.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "screw conveyor",
+    "name": "Screw Conveyor",
+    "description": "A Screw Conveyor.",
+    "previewImageUrl": "Screw Conveyor.png",
+    "downloadUrl": "Screw Conveyor.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

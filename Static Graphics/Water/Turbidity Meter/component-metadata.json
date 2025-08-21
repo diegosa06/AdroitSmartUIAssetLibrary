@@ -1,74 +1,74 @@
 [
   {
-    "id": "Blue Turbidity Meter Left",
-    "name": "Blue Turbidity Meter Left",
-    "description": "A Blue Turbidity Meter Left.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Blue Turbidity Meter Right",
-    "name": "Blue Turbidity Meter Right",
-    "description": "A Blue Turbidity Meter Right.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Blue Turbidity Meter Top",
+    "id": "blue turbidity meter top",
     "name": "Blue Turbidity Meter Top",
     "description": "A Blue Turbidity Meter Top.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Blue Turbidity Meter Top.png",
+    "downloadUrl": "Blue Turbidity Meter Top.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Blue",
+      "Turbidity",
+      "Meter"
     ]
   },
   {
-    "id": "Chrome Turbidity Meter Left",
-    "name": "Chrome Turbidity Meter Left",
-    "description": "A Chrome Turbidity Meter Left.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "blue turbidity meter left",
+    "name": "Blue Turbidity Meter Left",
+    "description": "A Blue Turbidity Meter Left.",
+    "previewImageUrl": "Blue Turbidity Meter Left.png",
+    "downloadUrl": "Blue Turbidity Meter Left.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Blue",
+      "Turbidity",
+      "Meter"
     ]
   },
   {
-    "id": "Chrome Turbidity Meter Right",
+    "id": "blue turbidity meter right",
+    "name": "Blue Turbidity Meter Right",
+    "description": "A Blue Turbidity Meter Right.",
+    "previewImageUrl": "Blue Turbidity Meter Right.png",
+    "downloadUrl": "Blue Turbidity Meter Right.png",
+    "tags": [
+      "Blue",
+      "Turbidity",
+      "Meter"
+    ]
+  },
+  {
+    "id": "chrome turbidity meter right",
     "name": "Chrome Turbidity Meter Right",
     "description": "A Chrome Turbidity Meter Right.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Chrome Turbidity Meter Right.png",
+    "downloadUrl": "Chrome Turbidity Meter Right.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Chrome",
+      "Turbidity",
+      "Meter"
     ]
   },
   {
-    "id": "Chrome Turbidity Meter Top",
+    "id": "chrome turbidity meter left",
+    "name": "Chrome Turbidity Meter Left",
+    "description": "A Chrome Turbidity Meter Left.",
+    "previewImageUrl": "Chrome Turbidity Meter Left.png",
+    "downloadUrl": "Chrome Turbidity Meter Left.png",
+    "tags": [
+      "Chrome",
+      "Turbidity",
+      "Meter"
+    ]
+  },
+  {
+    "id": "chrome turbidity meter top",
     "name": "Chrome Turbidity Meter Top",
     "description": "A Chrome Turbidity Meter Top.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Chrome Turbidity Meter Top.png",
+    "downloadUrl": "Chrome Turbidity Meter Top.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Chrome",
+      "Turbidity",
+      "Meter"
     ]
   }
 ]

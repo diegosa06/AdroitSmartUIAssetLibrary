@@ -1,146 +1,158 @@
 [
   {
-    "id": "Blue Horizontal Flange Motor",
-    "name": "Blue Horizontal Flange Motor",
-    "description": "A Blue Horizontal Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Blue Horizontal Mounted Motor",
-    "name": "Blue Horizontal Mounted Motor",
-    "description": "A Blue Horizontal Mounted Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Blue Vertical Flange Motor",
-    "name": "Blue Vertical Flange Motor",
-    "description": "A Blue Vertical Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Horizontal Flange Motor",
-    "name": "Chrome Horizontal Flange Motor",
-    "description": "A Chrome Horizontal Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Horizontal Mounted Motor",
-    "name": "Chrome Horizontal Mounted Motor",
-    "description": "A Chrome Horizontal Mounted Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Vertical Flange Motor",
-    "name": "Chrome Vertical Flange Motor",
-    "description": "A Chrome Vertical Flange Motor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 01",
-    "name": "Motor 01",
-    "description": "A Motor 01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 02",
-    "name": "Motor 02",
-    "description": "A Motor 02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 03",
-    "name": "Motor 03",
-    "description": "A Motor 03.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 04",
-    "name": "Motor 04",
-    "description": "A Motor 04.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 05",
-    "name": "Motor 05",
-    "description": "A Motor 05.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motor 06",
+    "id": "motor 06",
     "name": "Motor 06",
     "description": "A Motor 06.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Motor 06.png",
+    "downloadUrl": "Motor 06.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "chrome horizontal mounted motor",
+    "name": "Chrome Horizontal Mounted Motor",
+    "description": "A Chrome Horizontal Mounted Motor.",
+    "previewImageUrl": "Chrome Horizontal Mounted Motor.png",
+    "downloadUrl": "Chrome Horizontal Mounted Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "blue vertical flange motor",
+    "name": "Blue Vertical Flange Motor",
+    "description": "A Blue Vertical Flange Motor.",
+    "previewImageUrl": "Blue Vertical Flange Motor.png",
+    "downloadUrl": "Blue Vertical Flange Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "motor 01",
+    "name": "Motor 01",
+    "description": "A Motor 01.",
+    "previewImageUrl": "Motor 01.png",
+    "downloadUrl": "Motor 01.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "chrome vertical flange motor",
+    "name": "Chrome Vertical Flange Motor",
+    "description": "A Chrome Vertical Flange Motor.",
+    "previewImageUrl": "Chrome Vertical Flange Motor.png",
+    "downloadUrl": "Chrome Vertical Flange Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "blue horizontal flange motor",
+    "name": "Blue Horizontal Flange Motor",
+    "description": "A Blue Horizontal Flange Motor.",
+    "previewImageUrl": "Blue Horizontal Flange Motor.png",
+    "downloadUrl": "Blue Horizontal Flange Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "motor 03",
+    "name": "Motor 03",
+    "description": "A Motor 03.",
+    "previewImageUrl": "Motor 03.png",
+    "downloadUrl": "Motor 03.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "motor 05",
+    "name": "Motor 05",
+    "description": "A Motor 05.",
+    "previewImageUrl": "Motor 05.png",
+    "downloadUrl": "Motor 05.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "chrome horizontal flange motor",
+    "name": "Chrome Horizontal Flange Motor",
+    "description": "A Chrome Horizontal Flange Motor.",
+    "previewImageUrl": "Chrome Horizontal Flange Motor.png",
+    "downloadUrl": "Chrome Horizontal Flange Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "motor 02",
+    "name": "Motor 02",
+    "description": "A Motor 02.",
+    "previewImageUrl": "Motor 02.png",
+    "downloadUrl": "Motor 02.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "motor 04",
+    "name": "Motor 04",
+    "description": "A Motor 04.",
+    "previewImageUrl": "Motor 04.png",
+    "downloadUrl": "Motor 04.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "blue horizontal mounted motor",
+    "name": "Blue Horizontal Mounted Motor",
+    "description": "A Blue Horizontal Mounted Motor.",
+    "previewImageUrl": "Blue Horizontal Mounted Motor.png",
+    "downloadUrl": "Blue Horizontal Mounted Motor.png",
+    "tags": [
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   }
 ]

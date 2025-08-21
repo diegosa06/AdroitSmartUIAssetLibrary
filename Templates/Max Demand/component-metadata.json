@@ -1,26 +1,26 @@
 [
   {
-    "id": "Max Demand Faceplate Template",
-    "name": "Max Demand Faceplate Template",
-    "description": "A Max Demand Faceplate Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "max demand time schedule",
+    "name": "Max Demand Time Schedule",
+    "description": "A Max Demand Time Schedule.",
+    "previewImageUrl": "Max Demand Time Schedule.png",
+    "downloadUrl": "Max Demand Time Schedule.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Max",
+      "Demand",
+      "Time"
     ]
   },
   {
-    "id": "Max Demand Time Schedule",
-    "name": "Max Demand Time Schedule",
-    "description": "A Max Demand Time Schedule.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "max demand faceplate template",
+    "name": "Max Demand Faceplate Template",
+    "description": "A Max Demand Faceplate Template.",
+    "previewImageUrl": "Max Demand Faceplate Template.png",
+    "downloadUrl": "Max Demand Faceplate Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Max",
+      "Demand",
+      "Faceplate"
     ]
   }
 ]

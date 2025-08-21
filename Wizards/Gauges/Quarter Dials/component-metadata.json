@@ -1,38 +1,38 @@
 [
   {
-    "id": "Analog Quarter Dial 1",
+    "id": "analog quarter dial 1",
     "name": "Analog Quarter Dial 1",
     "description": "A Analog Quarter Dial 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Quarter Dial 1.png",
+    "downloadUrl": "Analog Quarter Dial 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Quarter",
+      "Dial"
     ]
   },
   {
-    "id": "Analog Quarter Dial 2",
+    "id": "analog quarter dial 2",
     "name": "Analog Quarter Dial 2",
     "description": "A Analog Quarter Dial 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Quarter Dial 2.png",
+    "downloadUrl": "Analog Quarter Dial 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Quarter",
+      "Dial"
     ]
   },
   {
-    "id": "Analog Quarter Dial 3",
+    "id": "analog quarter dial 3",
     "name": "Analog Quarter Dial 3",
     "description": "A Analog Quarter Dial 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Quarter Dial 3.png",
+    "downloadUrl": "Analog Quarter Dial 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Quarter",
+      "Dial"
     ]
   }
 ]

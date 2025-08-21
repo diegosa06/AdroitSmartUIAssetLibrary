@@ -1,38 +1,38 @@
 [
   {
-    "id": "wzdDigitalTextDisplay_NoPriority_v01",
-    "name": "wzdDigitalTextDisplay_NoPriority_v01",
-    "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdradio_digitaldisplay_priority3_v01",
+    "name": "Wzdradio Digitaldisplay Priority3 V01",
+    "description": "A Wzdradio Digitaldisplay Priority3 V01.",
+    "previewImageUrl": "wzdRadio_DigitalDisplay_Priority3_v01.png",
+    "downloadUrl": "wzdRadio_DigitalDisplay_Priority3_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdradio",
+      "Digitaldisplay",
+      "Priority3"
     ]
   },
   {
-    "id": "wzdRadio_DigitalDisplay_NoPriority_v01",
-    "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
-    "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzddigitaltextdisplay_nopriority_v01",
+    "name": "Wzddigitaltextdisplay Nopriority V01",
+    "description": "A Wzddigitaltextdisplay Nopriority V01.",
+    "previewImageUrl": "wzdDigitalTextDisplay_NoPriority_v01.png",
+    "downloadUrl": "wzdDigitalTextDisplay_NoPriority_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzddigitaltextdisplay",
+      "Nopriority",
+      "V01"
     ]
   },
   {
-    "id": "wzdRadio_DigitalDisplay_Priority3_v01",
-    "name": "wzdRadio_DigitalDisplay_Priority3_v01",
-    "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdradio_digitaldisplay_nopriority_v01",
+    "name": "Wzdradio Digitaldisplay Nopriority V01",
+    "description": "A Wzdradio Digitaldisplay Nopriority V01.",
+    "previewImageUrl": "wzdRadio_DigitalDisplay_NoPriority_v01.png",
+    "downloadUrl": "wzdRadio_DigitalDisplay_NoPriority_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdradio",
+      "Digitaldisplay",
+      "Nopriority"
     ]
   }
 ]

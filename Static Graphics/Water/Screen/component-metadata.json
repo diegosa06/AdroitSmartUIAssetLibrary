@@ -1,26 +1,26 @@
 [
   {
-    "id": "Water Screen Left Inlet",
+    "id": "water screen left inlet",
     "name": "Water Screen Left Inlet",
     "description": "A Water Screen Left Inlet.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Water Screen Left Inlet.png",
+    "downloadUrl": "Water Screen Left Inlet.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Water",
+      "Screen",
+      "Left"
     ]
   },
   {
-    "id": "Water Screen Right Inlet",
+    "id": "water screen right inlet",
     "name": "Water Screen Right Inlet",
     "description": "A Water Screen Right Inlet.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Water Screen Right Inlet.png",
+    "downloadUrl": "Water Screen Right Inlet.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Water",
+      "Screen",
+      "Right"
     ]
   }
 ]

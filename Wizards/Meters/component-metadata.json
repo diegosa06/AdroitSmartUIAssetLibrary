@@ -1,26 +1,26 @@
 [
   {
-    "id": "Simple Temperature Meter",
-    "name": "Simple Temperature Meter",
-    "description": "A Simple Temperature Meter.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "simple temperature meter_1",
+    "name": "Simple Temperature Meter 1",
+    "description": "A Simple Temperature Meter 1.",
+    "previewImageUrl": "Simple Temperature Meter_1.png",
+    "downloadUrl": "Simple Temperature Meter_1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Temperature",
+      "Meter"
     ]
   },
   {
-    "id": "Simple Temperature Meter_1",
-    "name": "Simple Temperature Meter_1",
-    "description": "A Simple Temperature Meter_1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "simple temperature meter",
+    "name": "Simple Temperature Meter",
+    "description": "A Simple Temperature Meter.",
+    "previewImageUrl": "Simple Temperature Meter.png",
+    "downloadUrl": "Simple Temperature Meter.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Temperature",
+      "Meter"
     ]
   }
 ]

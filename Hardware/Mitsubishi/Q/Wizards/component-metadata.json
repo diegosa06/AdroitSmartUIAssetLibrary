@@ -1,110 +1,110 @@
 [
   {
-    "id": "Q64AD_Wizard",
-    "name": "Q64AD_Wizard",
-    "description": "A Q64AD_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qnudvcpu_wizard",
+    "name": "QNUDVCPU Wizard",
+    "description": "A QNUDVCPU Wizard.",
+    "previewImageUrl": "QNUDVCPU_Wizard.png",
+    "downloadUrl": "QNUDVCPU_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QNUDVCPU",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "Q64DA_Wizard",
-    "name": "Q64DA_Wizard",
-    "description": "A Q64DA_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qy80_wizard",
+    "name": "QY80 Wizard",
+    "description": "A QY80 Wizard.",
+    "previewImageUrl": "QY80_Wizard.png",
+    "downloadUrl": "QY80_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QY80",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "Q6XP_Wizard",
-    "name": "Q6XP_Wizard",
-    "description": "A Q6XP_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "q64ad_wizard",
+    "name": "Q64AD Wizard",
+    "description": "A Q64AD Wizard.",
+    "previewImageUrl": "Q64AD_Wizard.png",
+    "downloadUrl": "Q64AD_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q64AD",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QJ71E71_Wizard",
-    "name": "QJ71E71_Wizard",
-    "description": "A QJ71E71_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "q6xp_wizard",
+    "name": "Q6XP Wizard",
+    "description": "A Q6XP Wizard.",
+    "previewImageUrl": "Q6XP_Wizard.png",
+    "downloadUrl": "Q6XP_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q6XP",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QNUDVCPU_Wizard",
-    "name": "QNUDVCPU_Wizard",
-    "description": "A QNUDVCPU_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "q64da_wizard",
+    "name": "Q64DA Wizard",
+    "description": "A Q64DA Wizard.",
+    "previewImageUrl": "Q64DA_Wizard.png",
+    "downloadUrl": "Q64DA_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q64DA",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QX80_Wizard",
-    "name": "QX80_Wizard",
-    "description": "A QX80_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qj71e71_wizard",
+    "name": "QJ71E71 Wizard",
+    "description": "A QJ71E71 Wizard.",
+    "previewImageUrl": "QJ71E71_Wizard.png",
+    "downloadUrl": "QJ71E71_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QJ71E71",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QX81_Wizard",
-    "name": "QX81_Wizard",
-    "description": "A QX81_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qx80_wizard",
+    "name": "QX80 Wizard",
+    "description": "A QX80 Wizard.",
+    "previewImageUrl": "QX80_Wizard.png",
+    "downloadUrl": "QX80_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QX80",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QY80_Wizard",
-    "name": "QY80_Wizard",
-    "description": "A QY80_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qy81p_wizard",
+    "name": "QY81P Wizard",
+    "description": "A QY81P Wizard.",
+    "previewImageUrl": "QY81P_Wizard.png",
+    "downloadUrl": "QY81P_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QY81P",
+      "Wizard",
+      "Automation"
     ]
   },
   {
-    "id": "QY81P_Wizard",
-    "name": "QY81P_Wizard",
-    "description": "A QY81P_Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qx81_wizard",
+    "name": "QX81 Wizard",
+    "description": "A QX81 Wizard.",
+    "previewImageUrl": "QX81_Wizard.png",
+    "downloadUrl": "QX81_Wizard.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QX81",
+      "Wizard",
+      "Automation"
     ]
   }
 ]

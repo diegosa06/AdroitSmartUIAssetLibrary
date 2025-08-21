@@ -1,14 +1,14 @@
 [
   {
-    "id": "Bag Packer",
+    "id": "bag packer",
     "name": "Bag Packer",
     "description": "A Bag Packer.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Bag Packer.png",
+    "downloadUrl": "Bag Packer.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Bag",
+      "Packer",
+      "Automation"
     ]
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "id": "Mixer",
+    "id": "mixer",
     "name": "Mixer",
     "description": "A Mixer.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Mixer.png",
+    "downloadUrl": "Mixer.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Mixer",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Stirer",
+    "id": "stirer",
     "name": "Stirer",
     "description": "A Stirer.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Stirer.png",
+    "downloadUrl": "Stirer.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Stirer",
+      "Automation",
+      "Automation"
     ]
   }
 ]

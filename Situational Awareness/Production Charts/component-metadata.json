@@ -1,38 +1,38 @@
 [
   {
-    "id": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
-    "name": "wzdProductionChart_ShiftAgent_DynamicTarget_v01",
-    "description": "A wzdProductionChart_ShiftAgent_DynamicTarget_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdproductionchart_statictime_statictarget_v01",
+    "name": "Wzdproductionchart Statictime Statictarget V01",
+    "description": "A Wzdproductionchart Statictime Statictarget V01.",
+    "previewImageUrl": "wzdProductionChart_StaticTime_StaticTarget_v01.png",
+    "downloadUrl": "wzdProductionChart_StaticTime_StaticTarget_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdproductionchart",
+      "Statictime",
+      "Statictarget"
     ]
   },
   {
-    "id": "wzdProductionChart_StaticTime_DynamicTarget_v01",
-    "name": "wzdProductionChart_StaticTime_DynamicTarget_v01",
-    "description": "A wzdProductionChart_StaticTime_DynamicTarget_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdproductionchart_shiftagent_dynamictarget_v01",
+    "name": "Wzdproductionchart Shiftagent Dynamictarget V01",
+    "description": "A Wzdproductionchart Shiftagent Dynamictarget V01.",
+    "previewImageUrl": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.png",
+    "downloadUrl": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdproductionchart",
+      "Shiftagent",
+      "Dynamictarget"
     ]
   },
   {
-    "id": "wzdProductionChart_StaticTime_StaticTarget_v01",
-    "name": "wzdProductionChart_StaticTime_StaticTarget_v01",
-    "description": "A wzdProductionChart_StaticTime_StaticTarget_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdproductionchart_statictime_dynamictarget_v01",
+    "name": "Wzdproductionchart Statictime Dynamictarget V01",
+    "description": "A Wzdproductionchart Statictime Dynamictarget V01.",
+    "previewImageUrl": "wzdProductionChart_StaticTime_DynamicTarget_v01.png",
+    "downloadUrl": "wzdProductionChart_StaticTime_DynamicTarget_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdproductionchart",
+      "Statictime",
+      "Dynamictarget"
     ]
   }
 ]

@@ -1,14 +1,15 @@
 [
   {
-    "id": "Belt Conveyor Components",
+    "id": "belt conveyor components",
     "name": "Belt Conveyor Components",
     "description": "A Belt Conveyor Components.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Belt Conveyor Components.png",
+    "downloadUrl": "Belt Conveyor Components.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

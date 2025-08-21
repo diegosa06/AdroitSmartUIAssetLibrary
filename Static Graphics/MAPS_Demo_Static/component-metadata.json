@@ -1,14 +1,14 @@
 [
   {
-    "id": "MAPS_Batching_Plant_Statics",
-    "name": "MAPS_Batching_Plant_Statics",
-    "description": "A MAPS_Batching_Plant_Statics.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "maps_batching_plant_statics",
+    "name": "MAPS Batching Plant Statics",
+    "description": "A MAPS Batching Plant Statics.",
+    "previewImageUrl": "MAPS_Batching_Plant_Statics.png",
+    "downloadUrl": "MAPS_Batching_Plant_Statics.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "MAPS",
+      "Batching",
+      "Plant"
     ]
   }
 ]

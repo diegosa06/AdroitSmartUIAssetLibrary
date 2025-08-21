@@ -1,26 +1,26 @@
 [
   {
-    "id": "Horizontal Slider",
+    "id": "horizontal slider",
     "name": "Horizontal Slider",
     "description": "A Horizontal Slider.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Horizontal Slider.png",
+    "downloadUrl": "Horizontal Slider.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Horizontal",
+      "Slider",
+      "Automation"
     ]
   },
   {
-    "id": "Vertical Slider",
+    "id": "vertical slider",
     "name": "Vertical Slider",
     "description": "A Vertical Slider.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Vertical Slider.png",
+    "downloadUrl": "Vertical Slider.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vertical",
+      "Slider",
+      "Automation"
     ]
   }
 ]

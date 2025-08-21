@@ -1,62 +1,67 @@
 [
   {
-    "id": "Crusher 01",
+    "id": "crusher 01",
     "name": "Crusher 01",
     "description": "A Crusher 01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Crusher 01.png",
+    "downloadUrl": "Crusher 01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Crusher 02",
-    "name": "Crusher 02",
-    "description": "A Crusher 02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Mill 01",
+    "id": "mill 01",
     "name": "Mill 01",
     "description": "A Mill 01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Mill 01.png",
+    "downloadUrl": "Mill 01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Mill 02",
+    "id": "mill 02",
     "name": "Mill 02",
     "description": "A Mill 02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Mill 02.png",
+    "downloadUrl": "Mill 02.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
     ]
   },
   {
-    "id": "Mobile Crusher",
+    "id": "mobile crusher",
     "name": "Mobile Crusher",
     "description": "A Mobile Crusher.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Mobile Crusher.png",
+    "downloadUrl": "Mobile Crusher.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "crusher 02",
+    "name": "Crusher 02",
+    "description": "A Crusher 02.",
+    "previewImageUrl": "Crusher 02.png",
+    "downloadUrl": "Crusher 02.png",
+    "tags": [
+      "Crusher",
+      "Crushing",
+      "Size Reduction",
+      "Mining"
     ]
   }
 ]

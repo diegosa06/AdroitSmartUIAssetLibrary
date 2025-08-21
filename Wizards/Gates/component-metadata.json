@@ -1,26 +1,26 @@
 [
   {
-    "id": "4 State Gate",
-    "name": "4 State Gate",
-    "description": "A 4 State Gate.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "gate",
+    "name": "Gate",
+    "description": "A Gate.",
+    "previewImageUrl": "Gate.png",
+    "downloadUrl": "Gate.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Gate",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Gate",
-    "name": "Gate",
-    "description": "A Gate.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "4 state gate",
+    "name": "4 State Gate",
+    "description": "A 4 State Gate.",
+    "previewImageUrl": "4 State Gate.png",
+    "downloadUrl": "4 State Gate.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "4",
+      "State",
+      "Gate"
     ]
   }
 ]

@@ -1,26 +1,28 @@
 [
   {
-    "id": "Belt Conveyor Horizontal",
-    "name": "Belt Conveyor Horizontal",
-    "description": "A Belt Conveyor Horizontal.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "belt conveyor vertical",
+    "name": "Belt Conveyor Vertical",
+    "description": "A Belt Conveyor Vertical.",
+    "previewImageUrl": "Belt Conveyor Vertical.png",
+    "downloadUrl": "Belt Conveyor Vertical.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   },
   {
-    "id": "Belt Conveyor Vertical",
-    "name": "Belt Conveyor Vertical",
-    "description": "A Belt Conveyor Vertical.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "belt conveyor horizontal",
+    "name": "Belt Conveyor Horizontal",
+    "description": "A Belt Conveyor Horizontal.",
+    "previewImageUrl": "Belt Conveyor Horizontal.png",
+    "downloadUrl": "Belt Conveyor Horizontal.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
     ]
   }
 ]

@@ -1,74 +1,74 @@
 [
   {
-    "id": "wzdAnalogueIndicator_Large_Horizontal_v01",
-    "name": "wzdAnalogueIndicator_Large_Horizontal_v01",
-    "description": "A wzdAnalogueIndicator_Large_Horizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_large_vertical_v01",
+    "name": "Wzdanalogueindicator Large Vertical V01",
+    "description": "A Wzdanalogueindicator Large Vertical V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Large_Vertical_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Large_Vertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Large",
+      "Vertical"
     ]
   },
   {
-    "id": "wzdAnalogueIndicator_Large_Vertical_v01",
-    "name": "wzdAnalogueIndicator_Large_Vertical_v01",
-    "description": "A wzdAnalogueIndicator_Large_Vertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_medium_horizontal_v01",
+    "name": "Wzdanalogueindicator Medium Horizontal V01",
+    "description": "A Wzdanalogueindicator Medium Horizontal V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Medium_Horizontal_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Medium_Horizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Medium",
+      "Horizontal"
     ]
   },
   {
-    "id": "wzdAnalogueIndicator_Medium_Horizontal_v01",
-    "name": "wzdAnalogueIndicator_Medium_Horizontal_v01",
-    "description": "A wzdAnalogueIndicator_Medium_Horizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_large_horizontal_v01",
+    "name": "Wzdanalogueindicator Large Horizontal V01",
+    "description": "A Wzdanalogueindicator Large Horizontal V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Large_Horizontal_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Large_Horizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Large",
+      "Horizontal"
     ]
   },
   {
-    "id": "wzdAnalogueIndicator_Medium_Vertical_v01",
-    "name": "wzdAnalogueIndicator_Medium_Vertical_v01",
-    "description": "A wzdAnalogueIndicator_Medium_Vertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_small_horizontal_v01",
+    "name": "Wzdanalogueindicator Small Horizontal V01",
+    "description": "A Wzdanalogueindicator Small Horizontal V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Small_Horizontal_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Small_Horizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Small",
+      "Horizontal"
     ]
   },
   {
-    "id": "wzdAnalogueIndicator_Small_Horizontal_v01",
-    "name": "wzdAnalogueIndicator_Small_Horizontal_v01",
-    "description": "A wzdAnalogueIndicator_Small_Horizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_small_vertical_v01",
+    "name": "Wzdanalogueindicator Small Vertical V01",
+    "description": "A Wzdanalogueindicator Small Vertical V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Small_Vertical_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Small_Vertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Small",
+      "Vertical"
     ]
   },
   {
-    "id": "wzdAnalogueIndicator_Small_Vertical_v01",
-    "name": "wzdAnalogueIndicator_Small_Vertical_v01",
-    "description": "A wzdAnalogueIndicator_Small_Vertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdanalogueindicator_medium_vertical_v01",
+    "name": "Wzdanalogueindicator Medium Vertical V01",
+    "description": "A Wzdanalogueindicator Medium Vertical V01.",
+    "previewImageUrl": "wzdAnalogueIndicator_Medium_Vertical_v01.png",
+    "downloadUrl": "wzdAnalogueIndicator_Medium_Vertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdanalogueindicator",
+      "Medium",
+      "Vertical"
     ]
   }
 ]

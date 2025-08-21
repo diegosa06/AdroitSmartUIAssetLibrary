@@ -1,14 +1,14 @@
 [
   {
-    "id": "wzdSparkLine_v01",
-    "name": "wzdSparkLine_v01",
-    "description": "A wzdSparkLine_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdsparkline_v01",
+    "name": "Wzdsparkline V01",
+    "description": "A Wzdsparkline V01.",
+    "previewImageUrl": "wzdSparkLine_v01.png",
+    "downloadUrl": "wzdSparkLine_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Wzdsparkline",
+      "V01",
+      "Automation"
     ]
   }
 ]

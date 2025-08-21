@@ -1,86 +1,86 @@
 [
   {
-    "id": "Cyclone",
+    "id": "cyclone",
     "name": "Cyclone",
     "description": "A Cyclone.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Cyclone.png",
+    "downloadUrl": "Cyclone.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Cyclone",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Dryer",
-    "name": "Dryer",
-    "description": "A Dryer.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Electromagnet",
-    "name": "Electromagnet",
-    "description": "A Electromagnet.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Elevator 1",
+    "id": "elevator 1",
     "name": "Elevator 1",
     "description": "A Elevator 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Elevator 1.png",
+    "downloadUrl": "Elevator 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Elevator",
+      "1",
+      "Automation"
     ]
   },
   {
-    "id": "Elevator 2",
+    "id": "elevator 2",
     "name": "Elevator 2",
     "description": "A Elevator 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Elevator 2.png",
+    "downloadUrl": "Elevator 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Elevator",
+      "2",
+      "Automation"
     ]
   },
   {
-    "id": "Filter",
+    "id": "dryer",
+    "name": "Dryer",
+    "description": "A Dryer.",
+    "previewImageUrl": "Dryer.png",
+    "downloadUrl": "Dryer.png",
+    "tags": [
+      "Dryer",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "electromagnet",
+    "name": "Electromagnet",
+    "description": "A Electromagnet.",
+    "previewImageUrl": "Electromagnet.png",
+    "downloadUrl": "Electromagnet.png",
+    "tags": [
+      "Electromagnet",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "filter",
     "name": "Filter",
     "description": "A Filter.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Filter.png",
+    "downloadUrl": "Filter.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Filter",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Rotary Feeder",
+    "id": "rotary feeder",
     "name": "Rotary Feeder",
     "description": "A Rotary Feeder.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Rotary Feeder.png",
+    "downloadUrl": "Rotary Feeder.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Rotary",
+      "Feeder",
+      "Automation"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "id": "Counter Faceplate Template",
+    "id": "counter faceplate template",
     "name": "Counter Faceplate Template",
     "description": "A Counter Faceplate Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Counter Faceplate Template.png",
+    "downloadUrl": "Counter Faceplate Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Counter",
+      "Faceplate",
+      "Template"
     ]
   }
 ]

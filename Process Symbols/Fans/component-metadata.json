@@ -1,110 +1,119 @@
 [
   {
-    "id": "Axial Fan 1",
+    "id": "axial fan 1",
     "name": "Axial Fan 1",
     "description": "A Axial Fan 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Axial Fan 1.png",
+    "downloadUrl": "Axial Fan 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
     ]
   },
   {
-    "id": "Axial Fan 2",
-    "name": "Axial Fan 2",
-    "description": "A Axial Fan 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Centrifugal Fan",
-    "name": "Centrifugal Fan",
-    "description": "A Centrifugal Fan.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Compressor Turbine",
+    "id": "compressor turbine",
     "name": "Compressor Turbine",
     "description": "A Compressor Turbine.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Compressor Turbine.png",
+    "downloadUrl": "Compressor Turbine.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
     ]
   },
   {
-    "id": "Fan Blades",
+    "id": "fan blades",
     "name": "Fan Blades",
     "description": "A Fan Blades.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Fan Blades.png",
+    "downloadUrl": "Fan Blades.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
     ]
   },
   {
-    "id": "Motor Driven Turbine",
+    "id": "motor driven turbine",
     "name": "Motor Driven Turbine",
     "description": "A Motor Driven Turbine.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Motor Driven Turbine.png",
+    "downloadUrl": "Motor Driven Turbine.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Selectable Fan 1",
-    "name": "Selectable Fan 1",
-    "description": "A Selectable Fan 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Selectable Fan 2",
+    "id": "selectable fan 2",
     "name": "Selectable Fan 2",
     "description": "A Selectable Fan 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Selectable Fan 2.png",
+    "downloadUrl": "Selectable Fan 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
     ]
   },
   {
-    "id": "Triple Fan Blades",
+    "id": "selectable fan 1",
+    "name": "Selectable Fan 1",
+    "description": "A Selectable Fan 1.",
+    "previewImageUrl": "Selectable Fan 1.png",
+    "downloadUrl": "Selectable Fan 1.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "triple fan blades",
     "name": "Triple Fan Blades",
     "description": "A Triple Fan Blades.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Triple Fan Blades.png",
+    "downloadUrl": "Triple Fan Blades.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "centrifugal fan",
+    "name": "Centrifugal Fan",
+    "description": "A Centrifugal Fan.",
+    "previewImageUrl": "Centrifugal Fan.png",
+    "downloadUrl": "Centrifugal Fan.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
+    ]
+  },
+  {
+    "id": "axial fan 2",
+    "name": "Axial Fan 2",
+    "description": "A Axial Fan 2.",
+    "previewImageUrl": "Axial Fan 2.png",
+    "downloadUrl": "Axial Fan 2.png",
+    "tags": [
+      "Fan",
+      "Airflow",
+      "Ventilation",
+      "HVAC"
     ]
   }
 ]

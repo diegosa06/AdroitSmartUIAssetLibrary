@@ -1,62 +1,67 @@
 [
   {
-    "id": "Pump01",
+    "id": "pump01",
     "name": "Pump01",
     "description": "A Pump01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Pump01.png",
+    "downloadUrl": "Pump01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Pump02",
+    "id": "pump02",
     "name": "Pump02",
     "description": "A Pump02.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Pump02.png",
+    "downloadUrl": "Pump02.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Pump03",
+    "id": "pump03",
     "name": "Pump03",
     "description": "A Pump03.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Pump03.png",
+    "downloadUrl": "Pump03.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Pump04",
+    "id": "simple pump start-stop",
+    "name": "Simple Pump Start-Stop",
+    "description": "A Simple Pump Start-Stop.",
+    "previewImageUrl": "Simple Pump start-stop.png",
+    "downloadUrl": "Simple Pump start-stop.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "pump04",
     "name": "Pump04",
     "description": "A Pump04.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Pump04.png",
+    "downloadUrl": "Pump04.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Simple Pump start-stop",
-    "name": "Simple Pump start-stop",
-    "description": "A Simple Pump start-stop.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
     ]
   }
 ]

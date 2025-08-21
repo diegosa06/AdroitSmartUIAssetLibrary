@@ -1,26 +1,28 @@
 [
   {
-    "id": "Belt",
-    "name": "Belt",
-    "description": "A Belt.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "pulley",
+    "name": "Pulley",
+    "description": "A Pulley.",
+    "previewImageUrl": "Pulley.png",
+    "downloadUrl": "Pulley.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Pulley",
+      "Transmission",
+      "Rotation",
+      "Mechanical"
     ]
   },
   {
-    "id": "Pulley",
-    "name": "Pulley",
-    "description": "A Pulley.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "belt",
+    "name": "Belt",
+    "description": "A Belt.",
+    "previewImageUrl": "Belt.png",
+    "downloadUrl": "Belt.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Belt",
+      "Transmission",
+      "Material Handling",
+      "Mining"
     ]
   }
 ]

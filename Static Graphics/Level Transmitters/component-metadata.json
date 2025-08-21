@@ -1,50 +1,50 @@
 [
   {
-    "id": "Blue Ultra Sonic Level Large",
-    "name": "Blue Ultra Sonic Level Large",
-    "description": "A Blue Ultra Sonic Level Large.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Blue Ultra Sonic Level Small",
-    "name": "Blue Ultra Sonic Level Small",
-    "description": "A Blue Ultra Sonic Level Small.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Ultra Sonic Level Large",
-    "name": "Chrome Ultra Sonic Level Large",
-    "description": "A Chrome Ultra Sonic Level Large.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Chrome Ultra Sonic Level Small",
+    "id": "chrome ultra sonic level small",
     "name": "Chrome Ultra Sonic Level Small",
     "description": "A Chrome Ultra Sonic Level Small.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Chrome Ultra Sonic Level Small.png",
+    "downloadUrl": "Chrome Ultra Sonic Level Small.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Chrome",
+      "Ultra",
+      "Sonic"
+    ]
+  },
+  {
+    "id": "blue ultra sonic level small",
+    "name": "Blue Ultra Sonic Level Small",
+    "description": "A Blue Ultra Sonic Level Small.",
+    "previewImageUrl": "Blue Ultra Sonic Level Small.png",
+    "downloadUrl": "Blue Ultra Sonic Level Small.png",
+    "tags": [
+      "Blue",
+      "Ultra",
+      "Sonic"
+    ]
+  },
+  {
+    "id": "blue ultra sonic level large",
+    "name": "Blue Ultra Sonic Level Large",
+    "description": "A Blue Ultra Sonic Level Large.",
+    "previewImageUrl": "Blue Ultra Sonic Level Large.png",
+    "downloadUrl": "Blue Ultra Sonic Level Large.png",
+    "tags": [
+      "Blue",
+      "Ultra",
+      "Sonic"
+    ]
+  },
+  {
+    "id": "chrome ultra sonic level large",
+    "name": "Chrome Ultra Sonic Level Large",
+    "description": "A Chrome Ultra Sonic Level Large.",
+    "previewImageUrl": "Chrome Ultra Sonic Level Large.png",
+    "downloadUrl": "Chrome Ultra Sonic Level Large.png",
+    "tags": [
+      "Chrome",
+      "Ultra",
+      "Sonic"
     ]
   }
 ]

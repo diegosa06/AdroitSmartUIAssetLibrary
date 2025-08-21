@@ -1,26 +1,26 @@
 [
   {
-    "id": "Simple Analog",
+    "id": "simple analog",
     "name": "Simple Analog",
     "description": "A Simple Analog.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Simple Analog.png",
+    "downloadUrl": "Simple Analog.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Analog",
+      "Automation"
     ]
   },
   {
-    "id": "Simple Analog_1",
-    "name": "Simple Analog_1",
-    "description": "A Simple Analog_1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "simple analog_1",
+    "name": "Simple Analog 1",
+    "description": "A Simple Analog 1.",
+    "previewImageUrl": "Simple Analog_1.png",
+    "downloadUrl": "Simple Analog_1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Simple",
+      "Analog",
+      "1"
     ]
   }
 ]

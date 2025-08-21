@@ -1,38 +1,38 @@
 [
   {
-    "id": "Analog Dial 1",
+    "id": "analog dial 1",
     "name": "Analog Dial 1",
     "description": "A Analog Dial 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Dial 1.png",
+    "downloadUrl": "Analog Dial 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Dial",
+      "1"
     ]
   },
   {
-    "id": "Analog Dial 2",
+    "id": "analog dial 2",
     "name": "Analog Dial 2",
     "description": "A Analog Dial 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Dial 2.png",
+    "downloadUrl": "Analog Dial 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Dial",
+      "2"
     ]
   },
   {
-    "id": "Analog Dial 3",
+    "id": "analog dial 3",
     "name": "Analog Dial 3",
     "description": "A Analog Dial 3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Analog Dial 3.png",
+    "downloadUrl": "Analog Dial 3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Analog",
+      "Dial",
+      "3"
     ]
   }
 ]

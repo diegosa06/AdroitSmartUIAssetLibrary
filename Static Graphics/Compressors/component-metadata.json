@@ -1,50 +1,54 @@
 [
   {
-    "id": "Compressor1",
+    "id": "compressor1",
     "name": "Compressor1",
     "description": "A Compressor1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Compressor1.png",
+    "downloadUrl": "Compressor1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
     ]
   },
   {
-    "id": "Compressor2",
-    "name": "Compressor2",
-    "description": "A Compressor2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Compressor3",
+    "id": "compressor3",
     "name": "Compressor3",
     "description": "A Compressor3.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Compressor3.png",
+    "downloadUrl": "Compressor3.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
     ]
   },
   {
-    "id": "TankCompressor",
-    "name": "TankCompressor",
-    "description": "A TankCompressor.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "tankcompressor",
+    "name": "Tankcompressor",
+    "description": "A Tankcompressor.",
+    "previewImageUrl": "TankCompressor.png",
+    "downloadUrl": "TankCompressor.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Tank",
+      "Storage",
+      "Containment",
+      "Process"
+    ]
+  },
+  {
+    "id": "compressor2",
+    "name": "Compressor2",
+    "description": "A Compressor2.",
+    "previewImageUrl": "Compressor2.png",
+    "downloadUrl": "Compressor2.png",
+    "tags": [
+      "Compressor",
+      "Air",
+      "Pressure",
+      "Industrial"
     ]
   }
 ]

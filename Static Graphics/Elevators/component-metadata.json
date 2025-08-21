@@ -1,26 +1,26 @@
 [
   {
-    "id": "BucketElevatorLeft",
-    "name": "BucketElevatorLeft",
-    "description": "A BucketElevatorLeft.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "bucketelevatorright",
+    "name": "Bucketelevatorright",
+    "description": "A Bucketelevatorright.",
+    "previewImageUrl": "BucketElevatorRight.png",
+    "downloadUrl": "BucketElevatorRight.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Bucketelevatorright",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "BucketElevatorRight",
-    "name": "BucketElevatorRight",
-    "description": "A BucketElevatorRight.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "bucketelevatorleft",
+    "name": "Bucketelevatorleft",
+    "description": "A Bucketelevatorleft.",
+    "previewImageUrl": "BucketElevatorLeft.png",
+    "downloadUrl": "BucketElevatorLeft.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Bucketelevatorleft",
+      "Automation",
+      "Automation"
     ]
   }
 ]

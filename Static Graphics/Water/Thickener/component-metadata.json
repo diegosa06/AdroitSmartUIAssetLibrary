@@ -1,14 +1,14 @@
 [
   {
-    "id": "Picket Fence Thickener",
+    "id": "picket fence thickener",
     "name": "Picket Fence Thickener",
     "description": "A Picket Fence Thickener.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Picket Fence Thickener.png",
+    "downloadUrl": "Picket Fence Thickener.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Picket",
+      "Fence",
+      "Thickener"
     ]
   }
 ]

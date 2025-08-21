@@ -1,86 +1,87 @@
 [
   {
-    "id": "Flowmeter 1",
-    "name": "Flowmeter 1",
-    "description": "A Flowmeter 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Flowmeter 2",
-    "name": "Flowmeter 2",
-    "description": "A Flowmeter 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Indicator",
-    "name": "Indicator",
-    "description": "A Indicator.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Levelmeter 1",
-    "name": "Levelmeter 1",
-    "description": "A Levelmeter 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Levelmeter 2",
-    "name": "Levelmeter 2",
-    "description": "A Levelmeter 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Light",
+    "id": "light",
     "name": "Light",
     "description": "A Light.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Light.png",
+    "downloadUrl": "Light.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Light",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "PLC",
+    "id": "levelmeter 1",
+    "name": "Levelmeter 1",
+    "description": "A Levelmeter 1.",
+    "previewImageUrl": "Levelmeter 1.png",
+    "downloadUrl": "Levelmeter 1.png",
+    "tags": [
+      "Levelmeter",
+      "1",
+      "Automation"
+    ]
+  },
+  {
+    "id": "flowmeter 1",
+    "name": "Flowmeter 1",
+    "description": "A Flowmeter 1.",
+    "previewImageUrl": "Flowmeter 1.png",
+    "downloadUrl": "Flowmeter 1.png",
+    "tags": [
+      "Flowmeter",
+      "1",
+      "Automation"
+    ]
+  },
+  {
+    "id": "plc",
     "name": "PLC",
     "description": "A PLC.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "PLC.png",
+    "downloadUrl": "PLC.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "PLC",
+      "Controller",
+      "Logic",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "levelmeter 2",
+    "name": "Levelmeter 2",
+    "description": "A Levelmeter 2.",
+    "previewImageUrl": "Levelmeter 2.png",
+    "downloadUrl": "Levelmeter 2.png",
+    "tags": [
+      "Levelmeter",
+      "2",
+      "Automation"
+    ]
+  },
+  {
+    "id": "indicator",
+    "name": "Indicator",
+    "description": "A Indicator.",
+    "previewImageUrl": "Indicator.png",
+    "downloadUrl": "Indicator.png",
+    "tags": [
+      "Indicator",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "flowmeter 2",
+    "name": "Flowmeter 2",
+    "description": "A Flowmeter 2.",
+    "previewImageUrl": "Flowmeter 2.png",
+    "downloadUrl": "Flowmeter 2.png",
+    "tags": [
+      "Flowmeter",
+      "2",
+      "Automation"
     ]
   }
 ]

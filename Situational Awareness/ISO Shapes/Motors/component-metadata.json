@@ -1,26 +1,28 @@
 [
   {
-    "id": "wzdMotorHorizontal_v01",
-    "name": "wzdMotorHorizontal_v01",
-    "description": "A wzdMotorHorizontal_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdmotorhorizontal_v01",
+    "name": "Wzdmotorhorizontal V01",
+    "description": "A Wzdmotorhorizontal V01.",
+    "previewImageUrl": "wzdMotorHorizontal_v01.png",
+    "downloadUrl": "wzdMotorHorizontal_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "wzdMotorVertical_v01",
-    "name": "wzdMotorVertical_v01",
-    "description": "A wzdMotorVertical_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdmotorvertical_v01",
+    "name": "Wzdmotorvertical V01",
+    "description": "A Wzdmotorvertical V01.",
+    "previewImageUrl": "wzdMotorVertical_v01.png",
+    "downloadUrl": "wzdMotorVertical_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   }
 ]

@@ -1,158 +1,165 @@
 [
   {
-    "id": "Actuators",
-    "name": "Actuators",
-    "description": "A Actuators.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Conveyors Simple",
-    "name": "Conveyors Simple",
-    "description": "A Conveyors Simple.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Gradient Filled Shapes",
+    "id": "gradient filled shapes",
     "name": "Gradient Filled Shapes",
     "description": "A Gradient Filled Shapes.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Gradient Filled Shapes.png",
+    "downloadUrl": "Gradient Filled Shapes.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Gradient",
+      "Filled",
+      "Shapes"
     ]
   },
   {
-    "id": "Heat Exchangers",
-    "name": "Heat Exchangers",
-    "description": "A Heat Exchangers.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Instruments",
-    "name": "Instruments",
-    "description": "A Instruments.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Material Handling ",
-    "name": "Material Handling ",
-    "description": "A Material Handling .",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Mills and Crushers",
-    "name": "Mills and Crushers",
-    "description": "A Mills and Crushers.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Motors",
+    "id": "motors",
     "name": "Motors",
     "description": "A Motors.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Motors.png",
+    "downloadUrl": "Motors.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Pipework ",
-    "name": "Pipework ",
-    "description": "A Pipework .",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "vessels and seperators",
+    "name": "Vessels And Seperators",
+    "description": "A Vessels And Seperators.",
+    "previewImageUrl": "Vessels and Seperators.png",
+    "downloadUrl": "Vessels and Seperators.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vessel",
+      "Pressure",
+      "Containment",
+      "Process"
     ]
   },
   {
-    "id": "Pumps and Fans",
-    "name": "Pumps and Fans",
-    "description": "A Pumps and Fans.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "heat exchangers",
+    "name": "Heat Exchangers",
+    "description": "A Heat Exchangers.",
+    "previewImageUrl": "Heat Exchangers.png",
+    "downloadUrl": "Heat Exchangers.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Heat",
+      "Exchangers",
+      "Automation"
     ]
   },
   {
-    "id": "Strainers",
+    "id": "actuators",
+    "name": "Actuators",
+    "description": "A Actuators.",
+    "previewImageUrl": "Actuators.png",
+    "downloadUrl": "Actuators.png",
+    "tags": [
+      "Actuators",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "strainers",
     "name": "Strainers",
     "description": "A Strainers.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Strainers.png",
+    "downloadUrl": "Strainers.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Strainers",
+      "Automation",
+      "Automation"
     ]
   },
   {
-    "id": "Valves ",
+    "id": "pipework ",
+    "name": "Pipework ",
+    "description": "A Pipework .",
+    "previewImageUrl": "Pipework .png",
+    "downloadUrl": "Pipework .png",
+    "tags": [
+      "Pipe",
+      "Conduit",
+      "Flow",
+      "Process"
+    ]
+  },
+  {
+    "id": "mills and crushers",
+    "name": "Mills And Crushers",
+    "description": "A Mills And Crushers.",
+    "previewImageUrl": "Mills and Crushers.png",
+    "downloadUrl": "Mills and Crushers.png",
+    "tags": [
+      "Mill",
+      "Grinding",
+      "Size Reduction",
+      "Mining"
+    ]
+  },
+  {
+    "id": "pumps and fans",
+    "name": "Pumps And Fans",
+    "description": "A Pumps And Fans.",
+    "previewImageUrl": "Pumps and Fans.png",
+    "downloadUrl": "Pumps and Fans.png",
+    "tags": [
+      "Pump",
+      "Fluid",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
+    "id": "conveyors simple",
+    "name": "Conveyors Simple",
+    "description": "A Conveyors Simple.",
+    "previewImageUrl": "Conveyors Simple.png",
+    "downloadUrl": "Conveyors Simple.png",
+    "tags": [
+      "Conveyor",
+      "Material Handling",
+      "Transport",
+      "Mining"
+    ]
+  },
+  {
+    "id": "instruments",
+    "name": "Instruments",
+    "description": "A Instruments.",
+    "previewImageUrl": "Instruments.png",
+    "downloadUrl": "Instruments.png",
+    "tags": [
+      "Instruments",
+      "Automation",
+      "Automation"
+    ]
+  },
+  {
+    "id": "valves ",
     "name": "Valves ",
     "description": "A Valves .",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Valves .png",
+    "downloadUrl": "Valves .png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
     ]
   },
   {
-    "id": "Vessels and Seperators",
-    "name": "Vessels and Seperators",
-    "description": "A Vessels and Seperators.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "material handling ",
+    "name": "Material Handling ",
+    "description": "A Material Handling .",
+    "previewImageUrl": "Material Handling .png",
+    "downloadUrl": "Material Handling .png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Material",
+      "Handling",
+      "Automation"
     ]
   }
 ]

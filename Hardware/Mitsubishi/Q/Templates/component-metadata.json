@@ -1,98 +1,98 @@
 [
   {
-    "id": "Q64AD_Template",
-    "name": "Q64AD_Template",
-    "description": "A Q64AD_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qj71e71_template",
+    "name": "QJ71E71 Template",
+    "description": "A QJ71E71 Template.",
+    "previewImageUrl": "QJ71E71_Template.png",
+    "downloadUrl": "QJ71E71_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QJ71E71",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "Q64DA_Template",
-    "name": "Q64DA_Template",
-    "description": "A Q64DA_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qnudvcpu_template",
+    "name": "QNUDVCPU Template",
+    "description": "A QNUDVCPU Template.",
+    "previewImageUrl": "QNUDVCPU_Template.png",
+    "downloadUrl": "QNUDVCPU_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QNUDVCPU",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QJ71E71_Template",
-    "name": "QJ71E71_Template",
-    "description": "A QJ71E71_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "q64da_template",
+    "name": "Q64DA Template",
+    "description": "A Q64DA Template.",
+    "previewImageUrl": "Q64DA_Template.png",
+    "downloadUrl": "Q64DA_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q64DA",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QNUDVCPU_Template",
-    "name": "QNUDVCPU_Template",
-    "description": "A QNUDVCPU_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qy81p_template",
+    "name": "QY81P Template",
+    "description": "A QY81P Template.",
+    "previewImageUrl": "QY81P_Template.png",
+    "downloadUrl": "QY81P_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QY81P",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QX80_Template",
-    "name": "QX80_Template",
-    "description": "A QX80_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qx80_template",
+    "name": "QX80 Template",
+    "description": "A QX80 Template.",
+    "previewImageUrl": "QX80_Template.png",
+    "downloadUrl": "QX80_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QX80",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QX81_Template",
-    "name": "QX81_Template",
-    "description": "A QX81_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qy80_template",
+    "name": "QY80 Template",
+    "description": "A QY80 Template.",
+    "previewImageUrl": "QY80_Template.png",
+    "downloadUrl": "QY80_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QY80",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QY80_Template",
-    "name": "QY80_Template",
-    "description": "A QY80_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "qx81_template",
+    "name": "QX81 Template",
+    "description": "A QX81 Template.",
+    "previewImageUrl": "QX81_Template.png",
+    "downloadUrl": "QX81_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "QX81",
+      "Template",
+      "Automation"
     ]
   },
   {
-    "id": "QY81P_Template",
-    "name": "QY81P_Template",
-    "description": "A QY81P_Template.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "q64ad_template",
+    "name": "Q64AD Template",
+    "description": "A Q64AD Template.",
+    "previewImageUrl": "Q64AD_Template.png",
+    "downloadUrl": "Q64AD_Template.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Q64AD",
+      "Template",
+      "Automation"
     ]
   }
 ]

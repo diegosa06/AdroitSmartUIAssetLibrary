@@ -1,26 +1,26 @@
 [
   {
-    "id": "Start Button 2",
+    "id": "start button 2",
     "name": "Start Button 2",
     "description": "A Start Button 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Start Button 2.png",
+    "downloadUrl": "Start Button 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Start",
+      "Button",
+      "2"
     ]
   },
   {
-    "id": "Stop Button 2",
+    "id": "stop button 2",
     "name": "Stop Button 2",
     "description": "A Stop Button 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Stop Button 2.png",
+    "downloadUrl": "Stop Button 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Stop",
+      "Button",
+      "2"
     ]
   }
 ]

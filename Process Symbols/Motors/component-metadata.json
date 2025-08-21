@@ -1,38 +1,41 @@
 [
   {
-    "id": "Drive",
-    "name": "Drive",
-    "description": "A Drive.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ]
-  },
-  {
-    "id": "Electric Motor 1",
+    "id": "electric motor 1",
     "name": "Electric Motor 1",
     "description": "A Electric Motor 1.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Electric Motor 1.png",
+    "downloadUrl": "Electric Motor 1.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
     ]
   },
   {
-    "id": "Electric Motor 2",
+    "id": "electric motor 2",
     "name": "Electric Motor 2",
     "description": "A Electric Motor 2.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "previewImageUrl": "Electric Motor 2.png",
+    "downloadUrl": "Electric Motor 2.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Motor",
+      "Drive",
+      "Motion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "drive",
+    "name": "Drive",
+    "description": "A Drive.",
+    "previewImageUrl": "Drive.png",
+    "downloadUrl": "Drive.png",
+    "tags": [
+      "Drive",
+      "VFD",
+      "Motor Control",
+      "Manufacturing"
     ]
   }
 ]

@@ -1,38 +1,41 @@
 [
   {
-    "id": "wzdProcessVessel_Large_v01",
-    "name": "wzdProcessVessel_Large_v01",
-    "description": "A wzdProcessVessel_Large_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdprocessvessel_small_v01",
+    "name": "Wzdprocessvessel Small V01",
+    "description": "A Wzdprocessvessel Small V01.",
+    "previewImageUrl": "wzdProcessVessel_Small_v01.png",
+    "downloadUrl": "wzdProcessVessel_Small_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vessel",
+      "Pressure",
+      "Containment",
+      "Process"
     ]
   },
   {
-    "id": "wzdProcessVessel_Medium_v01",
-    "name": "wzdProcessVessel_Medium_v01",
-    "description": "A wzdProcessVessel_Medium_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdprocessvessel_large_v01",
+    "name": "Wzdprocessvessel Large V01",
+    "description": "A Wzdprocessvessel Large V01.",
+    "previewImageUrl": "wzdProcessVessel_Large_v01.png",
+    "downloadUrl": "wzdProcessVessel_Large_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vessel",
+      "Pressure",
+      "Containment",
+      "Process"
     ]
   },
   {
-    "id": "wzdProcessVessel_Small_v01",
-    "name": "wzdProcessVessel_Small_v01",
-    "description": "A wzdProcessVessel_Small_v01.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
+    "id": "wzdprocessvessel_medium_v01",
+    "name": "Wzdprocessvessel Medium V01",
+    "description": "A Wzdprocessvessel Medium V01.",
+    "previewImageUrl": "wzdProcessVessel_Medium_v01.png",
+    "downloadUrl": "wzdProcessVessel_Medium_v01.png",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Vessel",
+      "Pressure",
+      "Containment",
+      "Process"
     ]
   }
 ]
