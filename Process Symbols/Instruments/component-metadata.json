@@ -6,9 +6,9 @@
     "previewImageUrl": "Light.png",
     "downloadUrl": "Light.png",
     "tags": [
-      "Light",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Levelmeter 1.png",
     "downloadUrl": "Levelmeter 1.png",
     "tags": [
-      "Levelmeter",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Flowmeter 1.png",
     "downloadUrl": "Flowmeter 1.png",
     "tags": [
-      "Flowmeter",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -55,9 +55,9 @@
     "previewImageUrl": "Levelmeter 2.png",
     "downloadUrl": "Levelmeter 2.png",
     "tags": [
-      "Levelmeter",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -67,9 +67,9 @@
     "previewImageUrl": "Indicator.png",
     "downloadUrl": "Indicator.png",
     "tags": [
-      "Indicator",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -79,9 +79,9 @@
     "previewImageUrl": "Flowmeter 2.png",
     "downloadUrl": "Flowmeter 2.png",
     "tags": [
-      "Flowmeter",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

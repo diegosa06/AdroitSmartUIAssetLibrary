@@ -6,9 +6,9 @@
     "previewImageUrl": "wzdProductionChart_StaticTime_StaticTarget_v01.png",
     "downloadUrl": "wzdProductionChart_StaticTime_StaticTarget_v01.png",
     "tags": [
-      "Wzdproductionchart",
-      "Statictime",
-      "Statictarget"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.png",
     "downloadUrl": "wzdProductionChart_ShiftAgent_DynamicTarget_v01.png",
     "tags": [
-      "Wzdproductionchart",
-      "Shiftagent",
-      "Dynamictarget"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "wzdProductionChart_StaticTime_DynamicTarget_v01.png",
     "downloadUrl": "wzdProductionChart_StaticTime_DynamicTarget_v01.png",
     "tags": [
-      "Wzdproductionchart",
-      "Statictime",
-      "Dynamictarget"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

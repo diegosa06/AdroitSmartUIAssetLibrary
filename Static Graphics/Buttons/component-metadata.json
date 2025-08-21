@@ -6,9 +6,9 @@
     "previewImageUrl": "SCADA Buttons.png",
     "downloadUrl": "SCADA Buttons.png",
     "tags": [
-      "SCADA",
-      "Buttons",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Reset Button.png",
     "downloadUrl": "Reset Button.png",
     "tags": [
-      "Reset",
-      "Button",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Windows Buttons.png",
     "downloadUrl": "Windows Buttons.png",
     "tags": [
-      "Windows",
-      "Buttons",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "Start Button.png",
     "downloadUrl": "Start Button.png",
     "tags": [
-      "Start",
-      "Button",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -54,9 +54,9 @@
     "previewImageUrl": "Stop Button.png",
     "downloadUrl": "Stop Button.png",
     "tags": [
-      "Stop",
-      "Button",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "previewImageUrl": "Buttons.png",
     "downloadUrl": "Buttons.png",
     "tags": [
-      "Buttons",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

@@ -6,9 +6,9 @@
     "previewImageUrl": "Vehicles 3.png",
     "downloadUrl": "Vehicles 3.png",
     "tags": [
-      "Vehicles",
-      "3",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Vehicles 1.png",
     "downloadUrl": "Vehicles 1.png",
     "tags": [
-      "Vehicles",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Vehicles 2.png",
     "downloadUrl": "Vehicles 2.png",
     "tags": [
-      "Vehicles",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

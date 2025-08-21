@@ -6,9 +6,9 @@
     "previewImageUrl": "Load Hopper.png",
     "downloadUrl": "Load Hopper.png",
     "tags": [
-      "Load",
-      "Hopper",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Feed Hopper.png",
     "downloadUrl": "Feed Hopper.png",
     "tags": [
-      "Feed",
-      "Hopper",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Material Silo 3.png",
     "downloadUrl": "Material Silo 3.png",
     "tags": [
-      "Material",
-      "Silo",
-      "3"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "Cyclone.png",
     "downloadUrl": "Cyclone.png",
     "tags": [
-      "Cyclone",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -54,9 +54,9 @@
     "previewImageUrl": "Water Reservoir.png",
     "downloadUrl": "Water Reservoir.png",
     "tags": [
-      "Water",
-      "Reservoir",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "previewImageUrl": "Storage Hopper.png",
     "downloadUrl": "Storage Hopper.png",
     "tags": [
-      "Storage",
-      "Hopper",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -78,9 +78,9 @@
     "previewImageUrl": "Shute.png",
     "downloadUrl": "Shute.png",
     "tags": [
-      "Shute",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -181,9 +181,9 @@
     "previewImageUrl": "Material Silo 1.png",
     "downloadUrl": "Material Silo 1.png",
     "tags": [
-      "Material",
-      "Silo",
-      "1"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -206,9 +206,9 @@
     "previewImageUrl": "Sterilising Hopper.png",
     "downloadUrl": "Sterilising Hopper.png",
     "tags": [
-      "Sterilising",
-      "Hopper",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -231,9 +231,9 @@
     "previewImageUrl": "Material Silo 2.png",
     "downloadUrl": "Material Silo 2.png",
     "tags": [
-      "Material",
-      "Silo",
-      "2"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -243,9 +243,9 @@
     "previewImageUrl": "Flat Top Hopper.png",
     "downloadUrl": "Flat Top Hopper.png",
     "tags": [
-      "Flat",
-      "Top",
-      "Hopper"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -268,9 +268,9 @@
     "previewImageUrl": "Raised Hopper.png",
     "downloadUrl": "Raised Hopper.png",
     "tags": [
-      "Raised",
-      "Hopper",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

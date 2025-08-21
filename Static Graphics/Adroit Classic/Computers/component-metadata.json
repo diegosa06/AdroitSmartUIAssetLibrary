@@ -6,9 +6,9 @@
     "previewImageUrl": "Computers 2.png",
     "downloadUrl": "Computers 2.png",
     "tags": [
-      "Computers",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Computers 1.png",
     "downloadUrl": "Computers 1.png",
     "tags": [
-      "Computers",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

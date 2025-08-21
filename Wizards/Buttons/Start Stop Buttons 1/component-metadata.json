@@ -6,9 +6,9 @@
     "previewImageUrl": "Start Button 1.png",
     "downloadUrl": "Start Button 1.png",
     "tags": [
-      "Start",
-      "Button",
-      "1"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Stop Button 1.png",
     "downloadUrl": "Stop Button 1.png",
     "tags": [
-      "Stop",
-      "Button",
-      "1"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

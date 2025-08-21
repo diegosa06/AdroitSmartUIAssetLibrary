@@ -6,9 +6,9 @@
     "previewImageUrl": "Mixer.png",
     "downloadUrl": "Mixer.png",
     "tags": [
-      "Mixer",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Stirer.png",
     "downloadUrl": "Stirer.png",
     "tags": [
-      "Stirer",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

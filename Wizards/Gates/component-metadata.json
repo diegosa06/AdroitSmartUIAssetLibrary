@@ -6,9 +6,9 @@
     "previewImageUrl": "Gate.png",
     "downloadUrl": "Gate.png",
     "tags": [
-      "Gate",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "4 State Gate.png",
     "downloadUrl": "4 State Gate.png",
     "tags": [
-      "4",
-      "State",
-      "Gate"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

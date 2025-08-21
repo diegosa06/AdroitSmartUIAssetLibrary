@@ -6,9 +6,9 @@
     "previewImageUrl": "Centrifugal.png",
     "downloadUrl": "Centrifugal.png",
     "tags": [
-      "Centrifugal",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Seperator.png",
     "downloadUrl": "Seperator.png",
     "tags": [
-      "Seperator",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Clarifier.png",
     "downloadUrl": "Clarifier.png",
     "tags": [
-      "Clarifier",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "Sieve.png",
     "downloadUrl": "Sieve.png",
     "tags": [
-      "Sieve",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -54,9 +54,9 @@
     "previewImageUrl": "Magnetic Seperator.png",
     "downloadUrl": "Magnetic Seperator.png",
     "tags": [
-      "Magnetic",
-      "Seperator",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "previewImageUrl": "Elutriator.png",
     "downloadUrl": "Elutriator.png",
     "tags": [
-      "Elutriator",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

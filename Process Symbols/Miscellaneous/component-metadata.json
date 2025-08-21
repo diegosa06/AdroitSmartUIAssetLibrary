@@ -6,9 +6,9 @@
     "previewImageUrl": "Cyclone.png",
     "downloadUrl": "Cyclone.png",
     "tags": [
-      "Cyclone",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Elevator 1.png",
     "downloadUrl": "Elevator 1.png",
     "tags": [
-      "Elevator",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Elevator 2.png",
     "downloadUrl": "Elevator 2.png",
     "tags": [
-      "Elevator",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "Dryer.png",
     "downloadUrl": "Dryer.png",
     "tags": [
-      "Dryer",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -54,9 +54,9 @@
     "previewImageUrl": "Electromagnet.png",
     "downloadUrl": "Electromagnet.png",
     "tags": [
-      "Electromagnet",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "previewImageUrl": "Filter.png",
     "downloadUrl": "Filter.png",
     "tags": [
-      "Filter",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -78,9 +78,9 @@
     "previewImageUrl": "Rotary Feeder.png",
     "downloadUrl": "Rotary Feeder.png",
     "tags": [
-      "Rotary",
-      "Feeder",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

@@ -6,9 +6,9 @@
     "previewImageUrl": "Chrome Skip bin.png",
     "downloadUrl": "Chrome Skip bin.png",
     "tags": [
-      "Chrome",
-      "Skip",
-      "Bin"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Yellow Skip bin.png",
     "downloadUrl": "Yellow Skip bin.png",
     "tags": [
-      "Yellow",
-      "Skip",
-      "Bin"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

@@ -6,9 +6,9 @@
     "previewImageUrl": "Neon Lamp.png",
     "downloadUrl": "Neon Lamp.png",
     "tags": [
-      "Neon",
-      "Lamp",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -31,9 +31,9 @@
     "previewImageUrl": "Variable Capacitor.png",
     "downloadUrl": "Variable Capacitor.png",
     "tags": [
-      "Variable",
-      "Capacitor",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -56,9 +56,9 @@
     "previewImageUrl": "Circuit Breaker.png",
     "downloadUrl": "Circuit Breaker.png",
     "tags": [
-      "Circuit",
-      "Breaker",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -68,9 +68,9 @@
     "previewImageUrl": "Electrostatic Speaker.png",
     "downloadUrl": "Electrostatic Speaker.png",
     "tags": [
-      "Electrostatic",
-      "Speaker",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -80,9 +80,9 @@
     "previewImageUrl": "SP Momentary NC.png",
     "downloadUrl": "SP Momentary NC.png",
     "tags": [
-      "SP",
-      "Momentary",
-      "NC"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -105,9 +105,9 @@
     "previewImageUrl": "Inductor.png",
     "downloadUrl": "Inductor.png",
     "tags": [
-      "Inductor",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -143,9 +143,9 @@
     "previewImageUrl": "AC Generator.png",
     "downloadUrl": "AC Generator.png",
     "tags": [
-      "AC",
-      "Generator",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -155,9 +155,9 @@
     "previewImageUrl": "Lamp 1.png",
     "downloadUrl": "Lamp 1.png",
     "tags": [
-      "Lamp",
-      "1",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -167,9 +167,9 @@
     "previewImageUrl": "Lamp 2.png",
     "downloadUrl": "Lamp 2.png",
     "tags": [
-      "Lamp",
-      "2",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -179,9 +179,9 @@
     "previewImageUrl": "Lamp 3.png",
     "downloadUrl": "Lamp 3.png",
     "tags": [
-      "Lamp",
-      "3",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -204,9 +204,9 @@
     "previewImageUrl": "Polled Capacitor.png",
     "downloadUrl": "Polled Capacitor.png",
     "tags": [
-      "Polled",
-      "Capacitor",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -242,9 +242,9 @@
     "previewImageUrl": "Closed Contactor.png",
     "downloadUrl": "Closed Contactor.png",
     "tags": [
-      "Closed",
-      "Contactor",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -267,9 +267,9 @@
     "previewImageUrl": "Variable Capacitor Filled.png",
     "downloadUrl": "Variable Capacitor Filled.png",
     "tags": [
-      "Variable",
-      "Capacitor",
-      "Filled"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -305,9 +305,9 @@
     "previewImageUrl": "Open Contactor.png",
     "downloadUrl": "Open Contactor.png",
     "tags": [
-      "Open",
-      "Contactor",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -317,9 +317,9 @@
     "previewImageUrl": "Capacitor.png",
     "downloadUrl": "Capacitor.png",
     "tags": [
-      "Capacitor",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -329,9 +329,9 @@
     "previewImageUrl": "Speaker.png",
     "downloadUrl": "Speaker.png",
     "tags": [
-      "Speaker",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -341,9 +341,9 @@
     "previewImageUrl": "DC Generator.png",
     "downloadUrl": "DC Generator.png",
     "tags": [
-      "DC",
-      "Generator",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -366,9 +366,9 @@
     "previewImageUrl": "SP Momentary NO.png",
     "downloadUrl": "SP Momentary NO.png",
     "tags": [
-      "SP",
-      "Momentary",
-      "NO"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

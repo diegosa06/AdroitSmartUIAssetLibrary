@@ -19,9 +19,9 @@
     "previewImageUrl": "Barrel.png",
     "downloadUrl": "Barrel.png",
     "tags": [
-      "Barrel",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -44,9 +44,9 @@
     "previewImageUrl": "Classifier.png",
     "downloadUrl": "Classifier.png",
     "tags": [
-      "Classifier",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -56,9 +56,9 @@
     "previewImageUrl": "Tray Column.png",
     "downloadUrl": "Tray Column.png",
     "tags": [
-      "Tray",
-      "Column",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -68,9 +68,9 @@
     "previewImageUrl": "Gas Holder.png",
     "downloadUrl": "Gas Holder.png",
     "tags": [
-      "Gas",
-      "Holder",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -80,9 +80,9 @@
     "previewImageUrl": "Silo.png",
     "downloadUrl": "Silo.png",
     "tags": [
-      "Silo",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -131,9 +131,9 @@
     "previewImageUrl": "Gas Cylinder.png",
     "downloadUrl": "Gas Cylinder.png",
     "tags": [
-      "Gas",
-      "Cylinder",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -143,9 +143,9 @@
     "previewImageUrl": "Column.png",
     "downloadUrl": "Column.png",
     "tags": [
-      "Column",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -181,9 +181,9 @@
     "previewImageUrl": "Autoclave.png",
     "downloadUrl": "Autoclave.png",
     "tags": [
-      "Autoclave",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -193,9 +193,9 @@
     "previewImageUrl": "Fluid Contacting.png",
     "downloadUrl": "Fluid Contacting.png",
     "tags": [
-      "Fluid",
-      "Contacting",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -205,9 +205,9 @@
     "previewImageUrl": "Blender.png",
     "downloadUrl": "Blender.png",
     "tags": [
-      "Blender",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -217,9 +217,9 @@
     "previewImageUrl": "Storage Sphere.png",
     "downloadUrl": "Storage Sphere.png",
     "tags": [
-      "Storage",
-      "Sphere",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -229,9 +229,9 @@
     "previewImageUrl": "Bag.png",
     "downloadUrl": "Bag.png",
     "tags": [
-      "Bag",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

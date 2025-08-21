@@ -6,9 +6,9 @@
     "previewImageUrl": "Off Button.png",
     "downloadUrl": "Off Button.png",
     "tags": [
-      "Off",
-      "Button",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "On Button.png",
     "downloadUrl": "On Button.png",
     "tags": [
-      "On",
-      "Button",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

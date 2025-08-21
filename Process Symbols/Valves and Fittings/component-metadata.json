@@ -32,9 +32,9 @@
     "previewImageUrl": "Level.png",
     "downloadUrl": "Level.png",
     "tags": [
-      "Level",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -70,9 +70,9 @@
     "previewImageUrl": "Diverter.png",
     "downloadUrl": "Diverter.png",
     "tags": [
-      "Diverter",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -121,9 +121,9 @@
     "previewImageUrl": "Inlet Outlet.png",
     "downloadUrl": "Inlet Outlet.png",
     "tags": [
-      "Inlet",
-      "Outlet",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -211,9 +211,9 @@
     "previewImageUrl": "Limit.png",
     "downloadUrl": "Limit.png",
     "tags": [
-      "Limit",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {

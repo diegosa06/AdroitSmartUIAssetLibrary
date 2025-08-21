@@ -6,9 +6,9 @@
     "previewImageUrl": "Application Target 2.png",
     "downloadUrl": "Application Target 2.png",
     "tags": [
-      "Application",
-      "Target",
-      "2"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Application Target 1.png",
     "downloadUrl": "Application Target 1.png",
     "tags": [
-      "Application",
-      "Target",
-      "1"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "All Spiders.png",
     "downloadUrl": "All Spiders.png",
     "tags": [
-      "All",
-      "Spiders",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

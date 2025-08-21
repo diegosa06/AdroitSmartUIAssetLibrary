@@ -6,9 +6,9 @@
     "previewImageUrl": "TREND.png",
     "downloadUrl": "TREND.png",
     "tags": [
-      "TREND",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "WEB.png",
     "downloadUrl": "WEB.png",
     "tags": [
-      "WEB",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "AlarmEvent.png",
     "downloadUrl": "AlarmEvent.png",
     "tags": [
-      "Alarmevent",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "HOME.png",
     "downloadUrl": "HOME.png",
     "tags": [
-      "HOME",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

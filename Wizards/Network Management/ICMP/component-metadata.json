@@ -19,9 +19,9 @@
     "previewImageUrl": "Server_Vertical.png",
     "downloadUrl": "Server_Vertical.png",
     "tags": [
-      "Server",
-      "Vertical",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -31,9 +31,9 @@
     "previewImageUrl": "DB.png",
     "downloadUrl": "DB.png",
     "tags": [
-      "DB",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -69,9 +69,9 @@
     "previewImageUrl": "Touch.png",
     "downloadUrl": "Touch.png",
     "tags": [
-      "Touch",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -81,9 +81,9 @@
     "previewImageUrl": "Server_Horizontal.png",
     "downloadUrl": "Server_Horizontal.png",
     "tags": [
-      "Server",
-      "Horizontal",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -93,9 +93,9 @@
     "previewImageUrl": "Desktop.png",
     "downloadUrl": "Desktop.png",
     "tags": [
-      "Desktop",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]

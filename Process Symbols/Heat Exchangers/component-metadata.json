@@ -6,9 +6,9 @@
     "previewImageUrl": "Boiler.png",
     "downloadUrl": "Boiler.png",
     "tags": [
-      "Boiler",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -18,9 +18,9 @@
     "previewImageUrl": "Condenser.png",
     "downloadUrl": "Condenser.png",
     "tags": [
-      "Condenser",
-      "Automation",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "previewImageUrl": "Heat Exchanger.png",
     "downloadUrl": "Heat Exchanger.png",
     "tags": [
-      "Heat",
-      "Exchanger",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -42,9 +42,9 @@
     "previewImageUrl": "Heat Exchanger Tube.png",
     "downloadUrl": "Heat Exchanger Tube.png",
     "tags": [
-      "Heat",
-      "Exchanger",
-      "Tube"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -54,9 +54,9 @@
     "previewImageUrl": "Fired Heater.png",
     "downloadUrl": "Fired Heater.png",
     "tags": [
-      "Fired",
-      "Heater",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -66,9 +66,9 @@
     "previewImageUrl": "Cooling Tower.png",
     "downloadUrl": "Cooling Tower.png",
     "tags": [
-      "Cooling",
-      "Tower",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -78,9 +78,9 @@
     "previewImageUrl": "Heat Exchanger Plates.png",
     "downloadUrl": "Heat Exchanger Plates.png",
     "tags": [
-      "Heat",
-      "Exchanger",
-      "Plates"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -90,9 +90,9 @@
     "previewImageUrl": "Air Cooler.png",
     "downloadUrl": "Air Cooler.png",
     "tags": [
-      "Air",
-      "Cooler",
-      "Automation"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   },
   {
@@ -102,9 +102,9 @@
     "previewImageUrl": "Heat Exchanger Lines.png",
     "downloadUrl": "Heat Exchanger Lines.png",
     "tags": [
-      "Heat",
-      "Exchanger",
-      "Lines"
+      "Tag1",
+      "Tag2",
+      "Tag3"
     ]
   }
 ]
