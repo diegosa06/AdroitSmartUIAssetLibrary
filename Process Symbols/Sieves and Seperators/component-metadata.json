@@ -3,72 +3,60 @@
     "id": "centrifugal",
     "name": "Centrifugal",
     "description": "A Centrifugal.",
-    "previewImageUrl": "Centrifugal.png",
-    "downloadUrl": "Centrifugal.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "seperator",
     "name": "Seperator",
     "description": "A Seperator.",
-    "previewImageUrl": "Seperator.png",
-    "downloadUrl": "Seperator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "clarifier",
     "name": "Clarifier",
     "description": "A Clarifier.",
-    "previewImageUrl": "Clarifier.png",
-    "downloadUrl": "Clarifier.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "sieve",
     "name": "Sieve",
     "description": "A Sieve.",
-    "previewImageUrl": "Sieve.png",
-    "downloadUrl": "Sieve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "magnetic seperator",
     "name": "Magnetic Seperator",
     "description": "A Magnetic Seperator.",
-    "previewImageUrl": "Magnetic Seperator.png",
-    "downloadUrl": "Magnetic Seperator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "elutriator",
     "name": "Elutriator",
     "description": "A Elutriator.",
-    "previewImageUrl": "Elutriator.png",
-    "downloadUrl": "Elutriator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

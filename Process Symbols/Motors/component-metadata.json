@@ -3,8 +3,8 @@
     "id": "electric motor 1",
     "name": "Electric Motor 1",
     "description": "A Electric Motor 1.",
-    "previewImageUrl": "Electric Motor 1.png",
-    "downloadUrl": "Electric Motor 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -16,8 +16,8 @@
     "id": "electric motor 2",
     "name": "Electric Motor 2",
     "description": "A Electric Motor 2.",
-    "previewImageUrl": "Electric Motor 2.png",
-    "downloadUrl": "Electric Motor 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -29,8 +29,8 @@
     "id": "drive",
     "name": "Drive",
     "description": "A Drive.",
-    "previewImageUrl": "Drive.png",
-    "downloadUrl": "Drive.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Drive",
       "VFD",

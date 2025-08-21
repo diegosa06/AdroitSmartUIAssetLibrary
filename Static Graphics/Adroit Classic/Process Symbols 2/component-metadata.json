@@ -3,104 +3,88 @@
     "id": "seperator cement",
     "name": "Seperator Cement",
     "description": "A Seperator Cement.",
-    "previewImageUrl": "Seperator Cement.png",
-    "downloadUrl": "Seperator Cement.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "dust collection",
     "name": "Dust Collection",
     "description": "A Dust Collection.",
-    "previewImageUrl": "Dust Collection.png",
-    "downloadUrl": "Dust Collection.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "sluice",
     "name": "Sluice",
     "description": "A Sluice.",
-    "previewImageUrl": "Sluice.png",
-    "downloadUrl": "Sluice.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "preheater",
     "name": "Preheater",
     "description": "A Preheater.",
-    "previewImageUrl": "Preheater.png",
-    "downloadUrl": "Preheater.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "air slides",
     "name": "Air Slides",
     "description": "A Air Slides.",
-    "previewImageUrl": "Air Slides.png",
-    "downloadUrl": "Air Slides.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "gates",
     "name": "Gates",
     "description": "A Gates.",
-    "previewImageUrl": "Gates.png",
-    "downloadUrl": "Gates.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electro filter",
     "name": "Electro Filter",
     "description": "A Electro Filter.",
-    "previewImageUrl": "Electro Filter.png",
-    "downloadUrl": "Electro Filter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mixers",
     "name": "Mixers",
     "description": "A Mixers.",
-    "previewImageUrl": "Mixers.png",
-    "downloadUrl": "Mixers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "pumps",
     "name": "Pumps",
     "description": "A Pumps.",
-    "previewImageUrl": "Pumps.png",
-    "downloadUrl": "Pumps.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -112,20 +96,18 @@
     "id": "weighers",
     "name": "Weighers",
     "description": "A Weighers.",
-    "previewImageUrl": "Weighers.png",
-    "downloadUrl": "Weighers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fan",
     "name": "Fan",
     "description": "A Fan.",
-    "previewImageUrl": "Fan.png",
-    "downloadUrl": "Fan.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fan",
       "Airflow",
@@ -137,12 +119,10 @@
     "id": "bins and hoppers",
     "name": "Bins And Hoppers",
     "description": "A Bins And Hoppers.",
-    "previewImageUrl": "Bins and Hoppers.png",
-    "downloadUrl": "Bins and Hoppers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

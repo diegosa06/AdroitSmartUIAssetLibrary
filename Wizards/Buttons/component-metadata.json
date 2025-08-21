@@ -3,20 +3,18 @@
     "id": "open close toggle",
     "name": "Open Close Toggle",
     "description": "A Open Close Toggle.",
-    "previewImageUrl": "Open Close Toggle.png",
-    "downloadUrl": "Open Close Toggle.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "motor onoff switch",
     "name": "Motor Onoff Switch",
     "description": "A Motor Onoff Switch.",
-    "previewImageUrl": "Motor OnOff Switch.png",
-    "downloadUrl": "Motor OnOff Switch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -28,68 +26,58 @@
     "id": "startstop buttons 2",
     "name": "Startstop Buttons 2",
     "description": "A Startstop Buttons 2.",
-    "previewImageUrl": "StartStop Buttons 2.png",
-    "downloadUrl": "StartStop Buttons 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "startstop buttons 1",
     "name": "Startstop Buttons 1",
     "description": "A Startstop Buttons 1.",
-    "previewImageUrl": "StartStop Buttons 1.png",
-    "downloadUrl": "StartStop Buttons 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "siren button",
     "name": "Siren Button",
     "description": "A Siren Button.",
-    "previewImageUrl": "Siren Button.png",
-    "downloadUrl": "Siren Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "start stop toggle",
     "name": "Start Stop Toggle",
     "description": "A Start Stop Toggle.",
-    "previewImageUrl": "Start Stop Toggle.png",
-    "downloadUrl": "Start Stop Toggle.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "emergency stop",
     "name": "Emergency Stop",
     "description": "A Emergency Stop.",
-    "previewImageUrl": "Emergency Stop.png",
-    "downloadUrl": "Emergency Stop.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "onoff switch 1",
     "name": "Onoff Switch 1",
     "description": "A Onoff Switch 1.",
-    "previewImageUrl": "OnOff Switch 1.png",
-    "downloadUrl": "OnOff Switch 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -101,8 +89,8 @@
     "id": "onoff switch 2",
     "name": "Onoff Switch 2",
     "description": "A Onoff Switch 2.",
-    "previewImageUrl": "OnOff Switch 2.png",
-    "downloadUrl": "OnOff Switch 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",

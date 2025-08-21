@@ -3,20 +3,18 @@
     "id": "neon lamp",
     "name": "Neon Lamp",
     "description": "A Neon Lamp.",
-    "previewImageUrl": "Neon Lamp.png",
-    "downloadUrl": "Neon Lamp.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "spdt toggle switch",
     "name": "SPDT Toggle Switch",
     "description": "A SPDT Toggle Switch.",
-    "previewImageUrl": "SPDT Toggle Switch.png",
-    "downloadUrl": "SPDT Toggle Switch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -28,20 +26,18 @@
     "id": "variable capacitor",
     "name": "Variable Capacitor",
     "description": "A Variable Capacitor.",
-    "previewImageUrl": "Variable Capacitor.png",
-    "downloadUrl": "Variable Capacitor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "transformer",
     "name": "Transformer",
     "description": "A Transformer.",
-    "previewImageUrl": "Transformer.png",
-    "downloadUrl": "Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -53,44 +49,38 @@
     "id": "circuit breaker",
     "name": "Circuit Breaker",
     "description": "A Circuit Breaker.",
-    "previewImageUrl": "Circuit Breaker.png",
-    "downloadUrl": "Circuit Breaker.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electrostatic speaker",
     "name": "Electrostatic Speaker",
     "description": "A Electrostatic Speaker.",
-    "previewImageUrl": "Electrostatic Speaker.png",
-    "downloadUrl": "Electrostatic Speaker.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "sp momentary nc",
     "name": "SP Momentary NC",
     "description": "A SP Momentary NC.",
-    "previewImageUrl": "SP Momentary NC.png",
-    "downloadUrl": "SP Momentary NC.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "motor",
     "name": "Motor",
     "description": "A Motor.",
-    "previewImageUrl": "Motor.png",
-    "downloadUrl": "Motor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -102,20 +92,18 @@
     "id": "inductor",
     "name": "Inductor",
     "description": "A Inductor.",
-    "previewImageUrl": "Inductor.png",
-    "downloadUrl": "Inductor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "photo resistor filled",
     "name": "Photo Resistor Filled",
     "description": "A Photo Resistor Filled.",
-    "previewImageUrl": "Photo Resistor Filled.png",
-    "downloadUrl": "Photo Resistor Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -127,8 +115,8 @@
     "id": "momentary switch 2-ckt",
     "name": "Momentary Switch 2-Ckt",
     "description": "A Momentary Switch 2-Ckt.",
-    "previewImageUrl": "Momentary Switch 2-Ckt.png",
-    "downloadUrl": "Momentary Switch 2-Ckt.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -140,56 +128,48 @@
     "id": "ac generator",
     "name": "AC Generator",
     "description": "A AC Generator.",
-    "previewImageUrl": "AC Generator.png",
-    "downloadUrl": "AC Generator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "lamp 1",
     "name": "Lamp 1",
     "description": "A Lamp 1.",
-    "previewImageUrl": "Lamp 1.png",
-    "downloadUrl": "Lamp 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "lamp 2",
     "name": "Lamp 2",
     "description": "A Lamp 2.",
-    "previewImageUrl": "Lamp 2.png",
-    "downloadUrl": "Lamp 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "lamp 3",
     "name": "Lamp 3",
     "description": "A Lamp 3.",
-    "previewImageUrl": "Lamp 3.png",
-    "downloadUrl": "Lamp 3.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "photo resistor",
     "name": "Photo Resistor",
     "description": "A Photo Resistor.",
-    "previewImageUrl": "Photo Resistor.png",
-    "downloadUrl": "Photo Resistor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -201,20 +181,18 @@
     "id": "polled capacitor",
     "name": "Polled Capacitor",
     "description": "A Polled Capacitor.",
-    "previewImageUrl": "Polled Capacitor.png",
-    "downloadUrl": "Polled Capacitor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "momentary switch nc",
     "name": "Momentary Switch NC",
     "description": "A Momentary Switch NC.",
-    "previewImageUrl": "Momentary Switch NC.png",
-    "downloadUrl": "Momentary Switch NC.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -226,8 +204,8 @@
     "id": "if transformer",
     "name": "IF Transformer",
     "description": "A IF Transformer.",
-    "previewImageUrl": "IF Transformer.png",
-    "downloadUrl": "IF Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -239,20 +217,18 @@
     "id": "closed contactor",
     "name": "Closed Contactor",
     "description": "A Closed Contactor.",
-    "previewImageUrl": "Closed Contactor.png",
-    "downloadUrl": "Closed Contactor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "variable resistor",
     "name": "Variable Resistor",
     "description": "A Variable Resistor.",
-    "previewImageUrl": "Variable Resistor.png",
-    "downloadUrl": "Variable Resistor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -264,20 +240,18 @@
     "id": "variable capacitor filled",
     "name": "Variable Capacitor Filled",
     "description": "A Variable Capacitor Filled.",
-    "previewImageUrl": "Variable Capacitor Filled.png",
-    "downloadUrl": "Variable Capacitor Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "coil transformer",
     "name": "Coil Transformer",
     "description": "A Coil Transformer.",
-    "previewImageUrl": "Coil Transformer.png",
-    "downloadUrl": "Coil Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -289,8 +263,8 @@
     "id": "momentary switch no",
     "name": "Momentary Switch NO",
     "description": "A Momentary Switch NO.",
-    "previewImageUrl": "Momentary Switch NO.png",
-    "downloadUrl": "Momentary Switch NO.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -302,56 +276,48 @@
     "id": "open contactor",
     "name": "Open Contactor",
     "description": "A Open Contactor.",
-    "previewImageUrl": "Open Contactor.png",
-    "downloadUrl": "Open Contactor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "capacitor",
     "name": "Capacitor",
     "description": "A Capacitor.",
-    "previewImageUrl": "Capacitor.png",
-    "downloadUrl": "Capacitor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "speaker",
     "name": "Speaker",
     "description": "A Speaker.",
-    "previewImageUrl": "Speaker.png",
-    "downloadUrl": "Speaker.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "dc generator",
     "name": "DC Generator",
     "description": "A DC Generator.",
-    "previewImageUrl": "DC Generator.png",
-    "downloadUrl": "DC Generator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "variable resistor filled",
     "name": "Variable Resistor Filled",
     "description": "A Variable Resistor Filled.",
-    "previewImageUrl": "Variable Resistor Filled.png",
-    "downloadUrl": "Variable Resistor Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -363,12 +329,10 @@
     "id": "sp momentary no",
     "name": "SP Momentary NO",
     "description": "A SP Momentary NO.",
-    "previewImageUrl": "SP Momentary NO.png",
-    "downloadUrl": "SP Momentary NO.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

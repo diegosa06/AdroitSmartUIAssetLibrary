@@ -3,8 +3,8 @@
     "id": "centrifugal pump 1",
     "name": "Centrifugal Pump 1",
     "description": "A Centrifugal Pump 1.",
-    "previewImageUrl": "Centrifugal Pump 1.png",
-    "downloadUrl": "Centrifugal Pump 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -16,20 +16,18 @@
     "id": "positive disp",
     "name": "Positive Disp",
     "description": "A Positive Disp.",
-    "previewImageUrl": "Positive Disp.png",
-    "downloadUrl": "Positive Disp.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "diaphragm pump",
     "name": "Diaphragm Pump",
     "description": "A Diaphragm Pump.",
-    "previewImageUrl": "Diaphragm Pump.png",
-    "downloadUrl": "Diaphragm Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -41,8 +39,8 @@
     "id": "screw pump",
     "name": "Screw Pump",
     "description": "A Screw Pump.",
-    "previewImageUrl": "Screw Pump.png",
-    "downloadUrl": "Screw Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -54,20 +52,18 @@
     "id": "injector ejector",
     "name": "Injector Ejector",
     "description": "A Injector Ejector.",
-    "previewImageUrl": "Injector Ejector.png",
-    "downloadUrl": "Injector Ejector.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "selectable pump 2",
     "name": "Selectable Pump 2",
     "description": "A Selectable Pump 2.",
-    "previewImageUrl": "Selectable Pump 2.png",
-    "downloadUrl": "Selectable Pump 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -79,8 +75,8 @@
     "id": "rotary pump 1",
     "name": "Rotary Pump 1",
     "description": "A Rotary Pump 1.",
-    "previewImageUrl": "Rotary Pump 1.png",
-    "downloadUrl": "Rotary Pump 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -92,8 +88,8 @@
     "id": "proportional pump",
     "name": "Proportional Pump",
     "description": "A Proportional Pump.",
-    "previewImageUrl": "Proportional Pump.png",
-    "downloadUrl": "Proportional Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -105,8 +101,8 @@
     "id": "helical rotor pump",
     "name": "Helical Rotor Pump",
     "description": "A Helical Rotor Pump.",
-    "previewImageUrl": "Helical Rotor Pump.png",
-    "downloadUrl": "Helical Rotor Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -118,8 +114,8 @@
     "id": "reciprocating pump 1",
     "name": "Reciprocating Pump 1",
     "description": "A Reciprocating Pump 1.",
-    "previewImageUrl": "Reciprocating Pump 1.png",
-    "downloadUrl": "Reciprocating Pump 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -131,8 +127,8 @@
     "id": "positive disp pump",
     "name": "Positive Disp Pump",
     "description": "A Positive Disp Pump.",
-    "previewImageUrl": "Positive Disp Pump.png",
-    "downloadUrl": "Positive Disp Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -144,8 +140,8 @@
     "id": "reciprocating pump 2",
     "name": "Reciprocating Pump 2",
     "description": "A Reciprocating Pump 2.",
-    "previewImageUrl": "Reciprocating Pump 2.png",
-    "downloadUrl": "Reciprocating Pump 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -157,8 +153,8 @@
     "id": "rotary pump 2",
     "name": "Rotary Pump 2",
     "description": "A Rotary Pump 2.",
-    "previewImageUrl": "Rotary Pump 2.png",
-    "downloadUrl": "Rotary Pump 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -170,20 +166,18 @@
     "id": "spray",
     "name": "Spray",
     "description": "A Spray.",
-    "previewImageUrl": "Spray.png",
-    "downloadUrl": "Spray.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "selectable pump 1",
     "name": "Selectable Pump 1",
     "description": "A Selectable Pump 1.",
-    "previewImageUrl": "Selectable Pump 1.png",
-    "downloadUrl": "Selectable Pump 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -195,8 +189,8 @@
     "id": "liquid jet pump",
     "name": "Liquid Jet Pump",
     "description": "A Liquid Jet Pump.",
-    "previewImageUrl": "Liquid Jet Pump.png",
-    "downloadUrl": "Liquid Jet Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -208,8 +202,8 @@
     "id": "centrifugal pump 2",
     "name": "Centrifugal Pump 2",
     "description": "A Centrifugal Pump 2.",
-    "previewImageUrl": "Centrifugal Pump 2.png",
-    "downloadUrl": "Centrifugal Pump 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -221,8 +215,8 @@
     "id": "inline pump",
     "name": "Inline Pump",
     "description": "A Inline Pump.",
-    "previewImageUrl": "Inline Pump.png",
-    "downloadUrl": "Inline Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -234,8 +228,8 @@
     "id": "pump",
     "name": "Pump",
     "description": "A Pump.",
-    "previewImageUrl": "Pump.png",
-    "downloadUrl": "Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -247,8 +241,8 @@
     "id": "gear pump",
     "name": "Gear Pump",
     "description": "A Gear Pump.",
-    "previewImageUrl": "Gear Pump.png",
-    "downloadUrl": "Gear Pump.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",

@@ -3,84 +3,70 @@
     "id": "cyclone",
     "name": "Cyclone",
     "description": "A Cyclone.",
-    "previewImageUrl": "Cyclone.png",
-    "downloadUrl": "Cyclone.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "elevator 1",
     "name": "Elevator 1",
     "description": "A Elevator 1.",
-    "previewImageUrl": "Elevator 1.png",
-    "downloadUrl": "Elevator 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "elevator 2",
     "name": "Elevator 2",
     "description": "A Elevator 2.",
-    "previewImageUrl": "Elevator 2.png",
-    "downloadUrl": "Elevator 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "dryer",
     "name": "Dryer",
     "description": "A Dryer.",
-    "previewImageUrl": "Dryer.png",
-    "downloadUrl": "Dryer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electromagnet",
     "name": "Electromagnet",
     "description": "A Electromagnet.",
-    "previewImageUrl": "Electromagnet.png",
-    "downloadUrl": "Electromagnet.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "filter",
     "name": "Filter",
     "description": "A Filter.",
-    "previewImageUrl": "Filter.png",
-    "downloadUrl": "Filter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "rotary feeder",
     "name": "Rotary Feeder",
     "description": "A Rotary Feeder.",
-    "previewImageUrl": "Rotary Feeder.png",
-    "downloadUrl": "Rotary Feeder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

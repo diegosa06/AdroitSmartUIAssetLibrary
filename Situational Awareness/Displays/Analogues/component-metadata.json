@@ -3,36 +3,30 @@
     "id": "wzdanaloguedisplay_nopriority_v01",
     "name": "Wzdanaloguedisplay Nopriority V01",
     "description": "A Wzdanaloguedisplay Nopriority V01.",
-    "previewImageUrl": "wzdAnalogueDisplay_NoPriority_v01.png",
-    "downloadUrl": "wzdAnalogueDisplay_NoPriority_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanaloguedisplay_priority3_v01",
     "name": "Wzdanaloguedisplay Priority3 V01",
     "description": "A Wzdanaloguedisplay Priority3 V01.",
-    "previewImageUrl": "wzdAnalogueDisplay_Priority3_v01.png",
-    "downloadUrl": "wzdAnalogueDisplay_Priority3_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanaloguedisplay_priority5_v01",
     "name": "Wzdanaloguedisplay Priority5 V01",
     "description": "A Wzdanaloguedisplay Priority5 V01.",
-    "previewImageUrl": "wzdAnalogueDisplay_Priority5_v01.png",
-    "downloadUrl": "wzdAnalogueDisplay_Priority5_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,8 +3,8 @@
     "id": "motors1",
     "name": "Motors1",
     "description": "A Motors1.",
-    "previewImageUrl": "Motors1.png",
-    "downloadUrl": "Motors1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -16,8 +16,8 @@
     "id": "motors2",
     "name": "Motors2",
     "description": "A Motors2.",
-    "previewImageUrl": "Motors2.png",
-    "downloadUrl": "Motors2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",

@@ -3,12 +3,10 @@
     "id": "isa shapes",
     "name": "ISA Shapes",
     "description": "A ISA Shapes.",
-    "previewImageUrl": "ISA Shapes.png",
-    "downloadUrl": "ISA Shapes.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

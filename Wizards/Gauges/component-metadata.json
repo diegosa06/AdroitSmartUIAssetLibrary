@@ -3,12 +3,10 @@
     "id": "o_chart_oee",
     "name": "O Chart OEE",
     "description": "A O Chart OEE.",
-    "previewImageUrl": "O_Chart_OEE.png",
-    "downloadUrl": "O_Chart_OEE.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

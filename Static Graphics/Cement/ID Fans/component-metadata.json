@@ -3,8 +3,8 @@
     "id": "id fan up",
     "name": "ID Fan Up",
     "description": "A ID Fan Up.",
-    "previewImageUrl": "ID Fan Up.png",
-    "downloadUrl": "ID Fan Up.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fan",
       "Airflow",
@@ -16,8 +16,8 @@
     "id": "id fan left",
     "name": "ID Fan Left",
     "description": "A ID Fan Left.",
-    "previewImageUrl": "ID Fan Left.png",
-    "downloadUrl": "ID Fan Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fan",
       "Airflow",
@@ -29,8 +29,8 @@
     "id": "id fan down",
     "name": "ID Fan Down",
     "description": "A ID Fan Down.",
-    "previewImageUrl": "ID Fan Down.png",
-    "downloadUrl": "ID Fan Down.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fan",
       "Airflow",
@@ -42,8 +42,8 @@
     "id": "id fan right",
     "name": "ID Fan Right",
     "description": "A ID Fan Right.",
-    "previewImageUrl": "ID Fan Right.png",
-    "downloadUrl": "ID Fan Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fan",
       "Airflow",

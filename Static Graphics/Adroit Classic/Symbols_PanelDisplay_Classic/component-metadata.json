@@ -3,24 +3,20 @@
     "id": "symbols1",
     "name": "Symbols1",
     "description": "A Symbols1.",
-    "previewImageUrl": "Symbols1.png",
-    "downloadUrl": "Symbols1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "panel displays",
     "name": "Panel Displays",
     "description": "A Panel Displays.",
-    "previewImageUrl": "Panel Displays.png",
-    "downloadUrl": "Panel Displays.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

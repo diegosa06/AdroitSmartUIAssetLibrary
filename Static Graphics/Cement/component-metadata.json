@@ -3,20 +3,18 @@
     "id": "cement bag palletizer",
     "name": "Cement Bag Palletizer",
     "description": "A Cement Bag Palletizer.",
-    "previewImageUrl": "Cement Bag Palletizer.png",
-    "downloadUrl": "Cement Bag Palletizer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "screw conveyor left",
     "name": "Screw Conveyor Left",
     "description": "A Screw Conveyor Left.",
-    "previewImageUrl": "Screw Conveyor Left.png",
-    "downloadUrl": "Screw Conveyor Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -28,20 +26,18 @@
     "id": "coal tippler",
     "name": "Coal Tippler",
     "description": "A Coal Tippler.",
-    "previewImageUrl": "Coal Tippler.png",
-    "downloadUrl": "Coal Tippler.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "bucket conveyor head pulley",
     "name": "Bucket Conveyor Head Pulley",
     "description": "A Bucket Conveyor Head Pulley.",
-    "previewImageUrl": "Bucket Conveyor Head Pulley.png",
-    "downloadUrl": "Bucket Conveyor Head Pulley.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -53,32 +49,28 @@
     "id": "vertical cyclone",
     "name": "Vertical Cyclone",
     "description": "A Vertical Cyclone.",
-    "previewImageUrl": "Vertical Cyclone.png",
-    "downloadUrl": "Vertical Cyclone.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "weigh feeder",
     "name": "Weigh Feeder",
     "description": "A Weigh Feeder.",
-    "previewImageUrl": "Weigh Feeder.png",
-    "downloadUrl": "Weigh Feeder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "screw conveyor right",
     "name": "Screw Conveyor Right",
     "description": "A Screw Conveyor Right.",
-    "previewImageUrl": "Screw Conveyor Right.png",
-    "downloadUrl": "Screw Conveyor Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -90,84 +82,70 @@
     "id": "kiln",
     "name": "Kiln",
     "description": "A Kiln.",
-    "previewImageUrl": "Kiln.png",
-    "downloadUrl": "Kiln.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mine truck",
     "name": "Mine Truck",
     "description": "A Mine Truck.",
-    "previewImageUrl": "Mine Truck.png",
-    "downloadUrl": "Mine Truck.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "preheater",
     "name": "Preheater",
     "description": "A Preheater.",
-    "previewImageUrl": "Preheater.png",
-    "downloadUrl": "Preheater.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electro filter",
     "name": "Electro Filter",
     "description": "A Electro Filter.",
-    "previewImageUrl": "Electro Filter.png",
-    "downloadUrl": "Electro Filter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "circular reclaimer",
     "name": "Circular Reclaimer",
     "description": "A Circular Reclaimer.",
-    "previewImageUrl": "Circular Reclaimer.png",
-    "downloadUrl": "Circular Reclaimer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "short base kiln",
     "name": "Short Base Kiln",
     "description": "A Short Base Kiln.",
-    "previewImageUrl": "Short Base Kiln.png",
-    "downloadUrl": "Short Base Kiln.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "stacker",
     "name": "Stacker",
     "description": "A Stacker.",
-    "previewImageUrl": "Stacker.png",
-    "downloadUrl": "Stacker.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

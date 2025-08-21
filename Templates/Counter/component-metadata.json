@@ -3,12 +3,10 @@
     "id": "counter faceplate template",
     "name": "Counter Faceplate Template",
     "description": "A Counter Faceplate Template.",
-    "previewImageUrl": "Counter Faceplate Template.png",
-    "downloadUrl": "Counter Faceplate Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

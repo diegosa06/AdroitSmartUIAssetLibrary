@@ -3,8 +3,8 @@
     "id": "motor drive",
     "name": "Motor Drive",
     "description": "A Motor Drive.",
-    "previewImageUrl": "Motor Drive.png",
-    "downloadUrl": "Motor Drive.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -16,8 +16,8 @@
     "id": "diaphragm valve",
     "name": "Diaphragm Valve",
     "description": "A Diaphragm Valve.",
-    "previewImageUrl": "Diaphragm Valve.png",
-    "downloadUrl": "Diaphragm Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -29,20 +29,18 @@
     "id": "level",
     "name": "Level",
     "description": "A Level.",
-    "previewImageUrl": "Level.png",
-    "downloadUrl": "Level.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "3 way valve",
     "name": "3 Way Valve",
     "description": "A 3 Way Valve.",
-    "previewImageUrl": "3 Way Valve.png",
-    "downloadUrl": "3 Way Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -54,8 +52,8 @@
     "id": "needle valve",
     "name": "Needle Valve",
     "description": "A Needle Valve.",
-    "previewImageUrl": "Needle Valve.png",
-    "downloadUrl": "Needle Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -67,20 +65,18 @@
     "id": "diverter",
     "name": "Diverter",
     "description": "A Diverter.",
-    "previewImageUrl": "Diverter.png",
-    "downloadUrl": "Diverter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "check valve",
     "name": "Check Valve",
     "description": "A Check Valve.",
-    "previewImageUrl": "Check Valve.png",
-    "downloadUrl": "Check Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -92,8 +88,8 @@
     "id": "actuating drive",
     "name": "Actuating Drive",
     "description": "A Actuating Drive.",
-    "previewImageUrl": "Actuating Drive.png",
-    "downloadUrl": "Actuating Drive.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Drive",
       "VFD",
@@ -105,8 +101,8 @@
     "id": "screw down valve",
     "name": "Screw Down Valve",
     "description": "A Screw Down Valve.",
-    "previewImageUrl": "Screw Down Valve.png",
-    "downloadUrl": "Screw Down Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -118,20 +114,18 @@
     "id": "inlet outlet",
     "name": "Inlet Outlet",
     "description": "A Inlet Outlet.",
-    "previewImageUrl": "Inlet Outlet.png",
-    "downloadUrl": "Inlet Outlet.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "angle valve",
     "name": "Angle Valve",
     "description": "A Angle Valve.",
-    "previewImageUrl": "Angle Valve.png",
-    "downloadUrl": "Angle Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -143,8 +137,8 @@
     "id": "powered valve",
     "name": "Powered Valve",
     "description": "A Powered Valve.",
-    "previewImageUrl": "Powered Valve.png",
-    "downloadUrl": "Powered Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -156,8 +150,8 @@
     "id": "stop check valve",
     "name": "Stop Check Valve",
     "description": "A Stop Check Valve.",
-    "previewImageUrl": "Stop Check Valve.png",
-    "downloadUrl": "Stop Check Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -169,8 +163,8 @@
     "id": "relief valve",
     "name": "Relief Valve",
     "description": "A Relief Valve.",
-    "previewImageUrl": "Relief Valve.png",
-    "downloadUrl": "Relief Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -182,8 +176,8 @@
     "id": "globe valve",
     "name": "Globe Valve",
     "description": "A Globe Valve.",
-    "previewImageUrl": "Globe Valve.png",
-    "downloadUrl": "Globe Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -195,8 +189,8 @@
     "id": "mixing valve",
     "name": "Mixing Valve",
     "description": "A Mixing Valve.",
-    "previewImageUrl": "Mixing Valve.png",
-    "downloadUrl": "Mixing Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -208,20 +202,18 @@
     "id": "limit",
     "name": "Limit",
     "description": "A Limit.",
-    "previewImageUrl": "Limit.png",
-    "downloadUrl": "Limit.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "relief angle valve",
     "name": "Relief Angle Valve",
     "description": "A Relief Angle Valve.",
-    "previewImageUrl": "Relief Angle Valve.png",
-    "downloadUrl": "Relief Angle Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -233,8 +225,8 @@
     "id": "gate valve",
     "name": "Gate Valve",
     "description": "A Gate Valve.",
-    "previewImageUrl": "Gate Valve.png",
-    "downloadUrl": "Gate Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -246,8 +238,8 @@
     "id": "3 way plug valve",
     "name": "3 Way Plug Valve",
     "description": "A 3 Way Plug Valve.",
-    "previewImageUrl": "3 Way Plug Valve.png",
-    "downloadUrl": "3 Way Plug Valve.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",

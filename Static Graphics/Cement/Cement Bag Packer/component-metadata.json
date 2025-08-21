@@ -3,12 +3,10 @@
     "id": "bag packer",
     "name": "Bag Packer",
     "description": "A Bag Packer.",
-    "previewImageUrl": "Bag Packer.png",
-    "downloadUrl": "Bag Packer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

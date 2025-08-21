@@ -3,48 +3,40 @@
     "id": "vertical axis agitator",
     "name": "Vertical Axis Agitator",
     "description": "A Vertical Axis Agitator.",
-    "previewImageUrl": "Vertical Axis Agitator.png",
-    "downloadUrl": "Vertical Axis Agitator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "horizontal axis agitator",
     "name": "Horizontal Axis Agitator",
     "description": "A Horizontal Axis Agitator.",
-    "previewImageUrl": "Horizontal Axis Agitator.png",
-    "downloadUrl": "Horizontal Axis Agitator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue water aerator",
     "name": "Blue Water Aerator",
     "description": "A Blue Water Aerator.",
-    "previewImageUrl": "Blue Water Aerator.png",
-    "downloadUrl": "Blue Water Aerator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome water aerator",
     "name": "Chrome Water Aerator",
     "description": "A Chrome Water Aerator.",
-    "previewImageUrl": "Chrome Water Aerator.png",
-    "downloadUrl": "Chrome Water Aerator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,12 +3,10 @@
     "id": "q03udvcpudetails",
     "name": "Q03udvcpudetails",
     "description": "A Q03udvcpudetails.",
-    "previewImageUrl": "Q03UDVCPUDetails.png",
-    "downloadUrl": "Q03UDVCPUDetails.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

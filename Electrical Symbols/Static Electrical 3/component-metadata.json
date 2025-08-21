@@ -3,8 +3,8 @@
     "id": "sp toggle switch nc",
     "name": "SP Toggle Switch NC",
     "description": "A SP Toggle Switch NC.",
-    "previewImageUrl": "SP Toggle Switch NC.png",
-    "downloadUrl": "SP Toggle Switch NC.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -16,92 +16,78 @@
     "id": "mu symbol",
     "name": "MU Symbol",
     "description": "A MU Symbol.",
-    "previewImageUrl": "MU Symbol.png",
-    "downloadUrl": "MU Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "microphone_jack",
     "name": "Microphone Jack",
     "description": "A Microphone Jack.",
-    "previewImageUrl": "Microphone_Jack.png",
-    "downloadUrl": "Microphone_Jack.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "photovoltaic cell",
     "name": "Photovoltaic Cell",
     "description": "A Photovoltaic Cell.",
-    "previewImageUrl": "Photovoltaic Cell.png",
-    "downloadUrl": "Photovoltaic Cell.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "polled receptacle",
     "name": "Polled Receptacle",
     "description": "A Polled Receptacle.",
-    "previewImageUrl": "Polled Receptacle.png",
-    "downloadUrl": "Polled Receptacle.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "photovoltaic cell filled",
     "name": "Photovoltaic Cell Filled",
     "description": "A Photovoltaic Cell Filled.",
-    "previewImageUrl": "Photovoltaic Cell Filled.png",
-    "downloadUrl": "Photovoltaic Cell Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "coax_jack",
     "name": "Coax Jack",
     "description": "A Coax Jack.",
-    "previewImageUrl": "Coax_Jack.png",
-    "downloadUrl": "Coax_Jack.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "alpha symbol",
     "name": "Alpha Symbol",
     "description": "A Alpha Symbol.",
-    "previewImageUrl": "Alpha Symbol.png",
-    "downloadUrl": "Alpha Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fuse",
     "name": "Fuse",
     "description": "A Fuse.",
-    "previewImageUrl": "Fuse.png",
-    "downloadUrl": "Fuse.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fuse",
       "Protection",
@@ -113,8 +99,8 @@
     "id": "thermal switch",
     "name": "Thermal Switch",
     "description": "A Thermal Switch.",
-    "previewImageUrl": "Thermal Switch.png",
-    "downloadUrl": "Thermal Switch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -126,116 +112,98 @@
     "id": "pi symbol",
     "name": "Pi Symbol",
     "description": "A Pi Symbol.",
-    "previewImageUrl": "Pi Symbol.png",
-    "downloadUrl": "Pi Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "antenna",
     "name": "Antenna",
     "description": "A Antenna.",
-    "previewImageUrl": "Antenna.png",
-    "downloadUrl": "Antenna.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "ohm symbol",
     "name": "Ohm Symbol",
     "description": "A Ohm Symbol.",
-    "previewImageUrl": "Ohm Symbol.png",
-    "downloadUrl": "Ohm Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "battery",
     "name": "Battery",
     "description": "A Battery.",
-    "previewImageUrl": "Battery.png",
-    "downloadUrl": "Battery.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electret",
     "name": "Electret",
     "description": "A Electret.",
-    "previewImageUrl": "Electret.png",
-    "downloadUrl": "Electret.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "crystal",
     "name": "Crystal",
     "description": "A Crystal.",
-    "previewImageUrl": "Crystal.png",
-    "downloadUrl": "Crystal.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "epsilon symbol",
     "name": "Epsilon Symbol",
     "description": "A Epsilon Symbol.",
-    "previewImageUrl": "Epsilon Symbol.png",
-    "downloadUrl": "Epsilon Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "ac receptacle",
     "name": "AC Receptacle",
     "description": "A AC Receptacle.",
-    "previewImageUrl": "AC Receptacle.png",
-    "downloadUrl": "AC Receptacle.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "crystal transducer",
     "name": "Crystal Transducer",
     "description": "A Crystal Transducer.",
-    "previewImageUrl": "Crystal Transducer.png",
-    "downloadUrl": "Crystal Transducer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "sp toggle switch no",
     "name": "SP Toggle Switch NO",
     "description": "A SP Toggle Switch NO.",
-    "previewImageUrl": "SP Toggle Switch NO.png",
-    "downloadUrl": "SP Toggle Switch NO.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -247,60 +215,50 @@
     "id": "polled receptacle filled",
     "name": "Polled Receptacle Filled",
     "description": "A Polled Receptacle Filled.",
-    "previewImageUrl": "Polled Receptacle Filled.png",
-    "downloadUrl": "Polled Receptacle Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "delta symbol",
     "name": "Delta Symbol",
     "description": "A Delta Symbol.",
-    "previewImageUrl": "Delta Symbol.png",
-    "downloadUrl": "Delta Symbol.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "rheostat",
     "name": "Rheostat",
     "description": "A Rheostat.",
-    "previewImageUrl": "Rheostat.png",
-    "downloadUrl": "Rheostat.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "meter",
     "name": "Meter",
     "description": "A Meter.",
-    "previewImageUrl": "Meter.png",
-    "downloadUrl": "Meter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "ac receptacle filled",
     "name": "AC Receptacle Filled",
     "description": "A AC Receptacle Filled.",
-    "previewImageUrl": "AC Receptacle Filled.png",
-    "downloadUrl": "AC Receptacle Filled.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

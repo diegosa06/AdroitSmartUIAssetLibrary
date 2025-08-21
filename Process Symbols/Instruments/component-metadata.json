@@ -3,44 +3,38 @@
     "id": "light",
     "name": "Light",
     "description": "A Light.",
-    "previewImageUrl": "Light.png",
-    "downloadUrl": "Light.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "levelmeter 1",
     "name": "Levelmeter 1",
     "description": "A Levelmeter 1.",
-    "previewImageUrl": "Levelmeter 1.png",
-    "downloadUrl": "Levelmeter 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "flowmeter 1",
     "name": "Flowmeter 1",
     "description": "A Flowmeter 1.",
-    "previewImageUrl": "Flowmeter 1.png",
-    "downloadUrl": "Flowmeter 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "plc",
     "name": "PLC",
     "description": "A PLC.",
-    "previewImageUrl": "PLC.png",
-    "downloadUrl": "PLC.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "PLC",
       "Controller",
@@ -52,36 +46,30 @@
     "id": "levelmeter 2",
     "name": "Levelmeter 2",
     "description": "A Levelmeter 2.",
-    "previewImageUrl": "Levelmeter 2.png",
-    "downloadUrl": "Levelmeter 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "indicator",
     "name": "Indicator",
     "description": "A Indicator.",
-    "previewImageUrl": "Indicator.png",
-    "downloadUrl": "Indicator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "flowmeter 2",
     "name": "Flowmeter 2",
     "description": "A Flowmeter 2.",
-    "previewImageUrl": "Flowmeter 2.png",
-    "downloadUrl": "Flowmeter 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

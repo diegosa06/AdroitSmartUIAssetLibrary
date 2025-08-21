@@ -3,72 +3,60 @@
     "id": "chrome do meter left",
     "name": "Chrome DO Meter Left",
     "description": "A Chrome DO Meter Left.",
-    "previewImageUrl": "Chrome DO Meter Left.png",
-    "downloadUrl": "Chrome DO Meter Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue do meter left",
     "name": "Blue DO Meter Left",
     "description": "A Blue DO Meter Left.",
-    "previewImageUrl": "Blue DO Meter Left.png",
-    "downloadUrl": "Blue DO Meter Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue do meter top",
     "name": "Blue DO Meter Top",
     "description": "A Blue DO Meter Top.",
-    "previewImageUrl": "Blue DO Meter Top.png",
-    "downloadUrl": "Blue DO Meter Top.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome do meter right",
     "name": "Chrome DO Meter Right",
     "description": "A Chrome DO Meter Right.",
-    "previewImageUrl": "Chrome DO Meter Right.png",
-    "downloadUrl": "Chrome DO Meter Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue do meter right",
     "name": "Blue DO Meter Right",
     "description": "A Blue DO Meter Right.",
-    "previewImageUrl": "Blue DO Meter Right.png",
-    "downloadUrl": "Blue DO Meter Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome do meter top",
     "name": "Chrome DO Meter Top",
     "description": "A Chrome DO Meter Top.",
-    "previewImageUrl": "Chrome DO Meter Top.png",
-    "downloadUrl": "Chrome DO Meter Top.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

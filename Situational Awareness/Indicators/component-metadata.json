@@ -3,72 +3,60 @@
     "id": "wzdanalogueindicator_large_vertical_v01",
     "name": "Wzdanalogueindicator Large Vertical V01",
     "description": "A Wzdanalogueindicator Large Vertical V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Large_Vertical_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Large_Vertical_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanalogueindicator_medium_horizontal_v01",
     "name": "Wzdanalogueindicator Medium Horizontal V01",
     "description": "A Wzdanalogueindicator Medium Horizontal V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Medium_Horizontal_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Medium_Horizontal_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanalogueindicator_large_horizontal_v01",
     "name": "Wzdanalogueindicator Large Horizontal V01",
     "description": "A Wzdanalogueindicator Large Horizontal V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Large_Horizontal_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Large_Horizontal_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanalogueindicator_small_horizontal_v01",
     "name": "Wzdanalogueindicator Small Horizontal V01",
     "description": "A Wzdanalogueindicator Small Horizontal V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Small_Horizontal_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Small_Horizontal_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanalogueindicator_small_vertical_v01",
     "name": "Wzdanalogueindicator Small Vertical V01",
     "description": "A Wzdanalogueindicator Small Vertical V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Small_Vertical_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Small_Vertical_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdanalogueindicator_medium_vertical_v01",
     "name": "Wzdanalogueindicator Medium Vertical V01",
     "description": "A Wzdanalogueindicator Medium Vertical V01.",
-    "previewImageUrl": "wzdAnalogueIndicator_Medium_Vertical_v01.png",
-    "downloadUrl": "wzdAnalogueIndicator_Medium_Vertical_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

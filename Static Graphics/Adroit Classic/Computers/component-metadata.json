@@ -3,24 +3,20 @@
     "id": "computers 2",
     "name": "Computers 2",
     "description": "A Computers 2.",
-    "previewImageUrl": "Computers 2.png",
-    "downloadUrl": "Computers 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "computers 1",
     "name": "Computers 1",
     "description": "A Computers 1.",
-    "previewImageUrl": "Computers 1.png",
-    "downloadUrl": "Computers 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

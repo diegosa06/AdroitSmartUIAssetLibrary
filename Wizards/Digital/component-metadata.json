@@ -3,12 +3,10 @@
     "id": "simple digital",
     "name": "Simple Digital",
     "description": "A Simple Digital.",
-    "previewImageUrl": "Simple Digital.png",
-    "downloadUrl": "Simple Digital.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

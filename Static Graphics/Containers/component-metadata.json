@@ -3,12 +3,10 @@
     "id": "skip",
     "name": "Skip",
     "description": "A Skip.",
-    "previewImageUrl": "Skip.png",
-    "downloadUrl": "Skip.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,8 +3,8 @@
     "id": "compressor1",
     "name": "Compressor1",
     "description": "A Compressor1.",
-    "previewImageUrl": "Compressor1.png",
-    "downloadUrl": "Compressor1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Compressor",
       "Air",
@@ -16,8 +16,8 @@
     "id": "compressor3",
     "name": "Compressor3",
     "description": "A Compressor3.",
-    "previewImageUrl": "Compressor3.png",
-    "downloadUrl": "Compressor3.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Compressor",
       "Air",
@@ -29,8 +29,8 @@
     "id": "tankcompressor",
     "name": "Tankcompressor",
     "description": "A Tankcompressor.",
-    "previewImageUrl": "TankCompressor.png",
-    "downloadUrl": "TankCompressor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -42,8 +42,8 @@
     "id": "compressor2",
     "name": "Compressor2",
     "description": "A Compressor2.",
-    "previewImageUrl": "Compressor2.png",
-    "downloadUrl": "Compressor2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Compressor",
       "Air",

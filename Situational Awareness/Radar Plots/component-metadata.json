@@ -3,24 +3,20 @@
     "id": "wzdradarplot_3_v01",
     "name": "Wzdradarplot 3 V01",
     "description": "A Wzdradarplot 3 V01.",
-    "previewImageUrl": "wzdRadarPlot_3_v01.png",
-    "downloadUrl": "wzdRadarPlot_3_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdradarplot_6_v01",
     "name": "Wzdradarplot 6 V01",
     "description": "A Wzdradarplot 6 V01.",
-    "previewImageUrl": "wzdRadarPlot_6_v01.png",
-    "downloadUrl": "wzdRadarPlot_6_v01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

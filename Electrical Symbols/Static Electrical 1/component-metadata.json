@@ -3,8 +3,8 @@
     "id": "transformer with on load tap changer",
     "name": "Transformer With On Load Tap Changer",
     "description": "A Transformer With On Load Tap Changer.",
-    "previewImageUrl": "Transformer With On Load Tap Changer.png",
-    "downloadUrl": "Transformer With On Load Tap Changer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -16,32 +16,28 @@
     "id": "star connected winding",
     "name": "Star Connected Winding",
     "description": "A Star Connected Winding.",
-    "previewImageUrl": "Star Connected Winding.png",
-    "downloadUrl": "Star Connected Winding.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "ac generator or alternator",
     "name": "AC Generator Or Alternator",
     "description": "A AC Generator Or Alternator.",
-    "previewImageUrl": "AC Generator or Alternator.png",
-    "downloadUrl": "AC Generator or Alternator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "artificial neutral or earthing transformer",
     "name": "Artificial Neutral Or Earthing Transformer",
     "description": "A Artificial Neutral Or Earthing Transformer.",
-    "previewImageUrl": "Artificial Neutral or Earthing Transformer.png",
-    "downloadUrl": "Artificial Neutral or Earthing Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -53,44 +49,38 @@
     "id": "metering",
     "name": "Metering",
     "description": "A Metering.",
-    "previewImageUrl": "Metering.png",
-    "downloadUrl": "Metering.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "spark gap or overvoltage limiter",
     "name": "Spark Gap Or Overvoltage Limiter",
     "description": "A Spark Gap Or Overvoltage Limiter.",
-    "previewImageUrl": "Spark Gap or Overvoltage Limiter.png",
-    "downloadUrl": "Spark Gap or Overvoltage Limiter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "earth electrode",
     "name": "Earth Electrode",
     "description": "A Earth Electrode.",
-    "previewImageUrl": "Earth Electrode.png",
-    "downloadUrl": "Earth Electrode.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "current transformer",
     "name": "Current Transformer",
     "description": "A Current Transformer.",
-    "previewImageUrl": "Current Transformer.png",
-    "downloadUrl": "Current Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -102,92 +92,78 @@
     "id": "impedance",
     "name": "Impedance",
     "description": "A Impedance.",
-    "previewImageUrl": "Impedance.png",
-    "downloadUrl": "Impedance.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "thyristor",
     "name": "Thyristor",
     "description": "A Thyristor.",
-    "previewImageUrl": "Thyristor.png",
-    "downloadUrl": "Thyristor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "source of current",
     "name": "Source Of Current",
     "description": "A Source Of Current.",
-    "previewImageUrl": "Source of Current.png",
-    "downloadUrl": "Source of Current.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "asychronous generator",
     "name": "Asychronous Generator",
     "description": "A Asychronous Generator.",
-    "previewImageUrl": "Asychronous Generator.png",
-    "downloadUrl": "Asychronous Generator.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "rectifier",
     "name": "Rectifier",
     "description": "A Rectifier.",
-    "previewImageUrl": "Rectifier.png",
-    "downloadUrl": "Rectifier.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "short circuit",
     "name": "Short Circuit",
     "description": "A Short Circuit.",
-    "previewImageUrl": "Short Circuit.png",
-    "downloadUrl": "Short Circuit.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "delta connected winding",
     "name": "Delta Connected Winding",
     "description": "A Delta Connected Winding.",
-    "previewImageUrl": "Delta Connected Winding.png",
-    "downloadUrl": "Delta Connected Winding.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "transformer",
     "name": "Transformer",
     "description": "A Transformer.",
-    "previewImageUrl": "Transformer.png",
-    "downloadUrl": "Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -199,20 +175,18 @@
     "id": "supply incoming feeder",
     "name": "Supply Incoming Feeder",
     "description": "A Supply Incoming Feeder.",
-    "previewImageUrl": "Supply Incoming Feeder.png",
-    "downloadUrl": "Supply Incoming Feeder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "three-phase line or cable",
     "name": "Three-Phase Line Or Cable",
     "description": "A Three-Phase Line Or Cable.",
-    "previewImageUrl": "Three-Phase Line or Cable.png",
-    "downloadUrl": "Three-Phase Line or Cable.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Cable",
       "Conductor",
@@ -224,32 +198,28 @@
     "id": "outgoing feeder",
     "name": "Outgoing Feeder",
     "description": "A Outgoing Feeder.",
-    "previewImageUrl": "Outgoing Feeder.png",
-    "downloadUrl": "Outgoing Feeder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "electrical power outlet",
     "name": "Electrical Power Outlet",
     "description": "A Electrical Power Outlet.",
-    "previewImageUrl": "Electrical Power Outlet.png",
-    "downloadUrl": "Electrical Power Outlet.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "single-phase line or cable",
     "name": "Single-Phase Line Or Cable",
     "description": "A Single-Phase Line Or Cable.",
-    "previewImageUrl": "Single-Phase Line or Cable.png",
-    "downloadUrl": "Single-Phase Line or Cable.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Cable",
       "Conductor",
@@ -261,56 +231,48 @@
     "id": "iron ore reactor",
     "name": "Iron Ore Reactor",
     "description": "A Iron Ore Reactor.",
-    "previewImageUrl": "Iron Ore Reactor.png",
-    "downloadUrl": "Iron Ore Reactor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "varistor or surge arrester",
     "name": "Varistor Or Surge Arrester",
     "description": "A Varistor Or Surge Arrester.",
-    "previewImageUrl": "Varistor or Surge Arrester.png",
-    "downloadUrl": "Varistor or Surge Arrester.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "measuring device",
     "name": "Measuring Device",
     "description": "A Measuring Device.",
-    "previewImageUrl": "Measuring Device.png",
-    "downloadUrl": "Measuring Device.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "capacitor",
     "name": "Capacitor",
     "description": "A Capacitor.",
-    "previewImageUrl": "Capacitor.png",
-    "downloadUrl": "Capacitor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "voltage transformer",
     "name": "Voltage Transformer",
     "description": "A Voltage Transformer.",
-    "previewImageUrl": "Voltage Transformer.png",
-    "downloadUrl": "Voltage Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -322,8 +284,8 @@
     "id": "variable resistor",
     "name": "Variable Resistor",
     "description": "A Variable Resistor.",
-    "previewImageUrl": "Variable Resistor.png",
-    "downloadUrl": "Variable Resistor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -335,8 +297,8 @@
     "id": "resistor",
     "name": "Resistor",
     "description": "A Resistor.",
-    "previewImageUrl": "Resistor.png",
-    "downloadUrl": "Resistor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Resistor",
       "Resistance",
@@ -348,8 +310,8 @@
     "id": "inverter",
     "name": "Inverter",
     "description": "A Inverter.",
-    "previewImageUrl": "Inverter.png",
-    "downloadUrl": "Inverter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Inverter",
       "DC/AC",
@@ -361,20 +323,18 @@
     "id": "battery",
     "name": "Battery",
     "description": "A Battery.",
-    "previewImageUrl": "Battery.png",
-    "downloadUrl": "Battery.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "reactor or transformer",
     "name": "Reactor Or Transformer",
     "description": "A Reactor Or Transformer.",
-    "previewImageUrl": "Reactor or Transformer.png",
-    "downloadUrl": "Reactor or Transformer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Transformer",
       "Voltage",
@@ -386,8 +346,8 @@
     "id": "motor",
     "name": "Motor",
     "description": "A Motor.",
-    "previewImageUrl": "Motor.png",
-    "downloadUrl": "Motor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -399,20 +359,18 @@
     "id": "diode",
     "name": "Diode",
     "description": "A Diode.",
-    "previewImageUrl": "Diode.png",
-    "downloadUrl": "Diode.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fuse",
     "name": "Fuse",
     "description": "A Fuse.",
-    "previewImageUrl": "Fuse.png",
-    "downloadUrl": "Fuse.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Fuse",
       "Protection",

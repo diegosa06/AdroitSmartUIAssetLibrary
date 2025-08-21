@@ -3,72 +3,60 @@
     "id": "blue turbidity meter top",
     "name": "Blue Turbidity Meter Top",
     "description": "A Blue Turbidity Meter Top.",
-    "previewImageUrl": "Blue Turbidity Meter Top.png",
-    "downloadUrl": "Blue Turbidity Meter Top.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue turbidity meter left",
     "name": "Blue Turbidity Meter Left",
     "description": "A Blue Turbidity Meter Left.",
-    "previewImageUrl": "Blue Turbidity Meter Left.png",
-    "downloadUrl": "Blue Turbidity Meter Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blue turbidity meter right",
     "name": "Blue Turbidity Meter Right",
     "description": "A Blue Turbidity Meter Right.",
-    "previewImageUrl": "Blue Turbidity Meter Right.png",
-    "downloadUrl": "Blue Turbidity Meter Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome turbidity meter right",
     "name": "Chrome Turbidity Meter Right",
     "description": "A Chrome Turbidity Meter Right.",
-    "previewImageUrl": "Chrome Turbidity Meter Right.png",
-    "downloadUrl": "Chrome Turbidity Meter Right.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome turbidity meter left",
     "name": "Chrome Turbidity Meter Left",
     "description": "A Chrome Turbidity Meter Left.",
-    "previewImageUrl": "Chrome Turbidity Meter Left.png",
-    "downloadUrl": "Chrome Turbidity Meter Left.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome turbidity meter top",
     "name": "Chrome Turbidity Meter Top",
     "description": "A Chrome Turbidity Meter Top.",
-    "previewImageUrl": "Chrome Turbidity Meter Top.png",
-    "downloadUrl": "Chrome Turbidity Meter Top.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,20 +3,18 @@
     "id": "gradient filled shapes",
     "name": "Gradient Filled Shapes",
     "description": "A Gradient Filled Shapes.",
-    "previewImageUrl": "Gradient Filled Shapes.png",
-    "downloadUrl": "Gradient Filled Shapes.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "motors",
     "name": "Motors",
     "description": "A Motors.",
-    "previewImageUrl": "Motors.png",
-    "downloadUrl": "Motors.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -28,8 +26,8 @@
     "id": "vessels and seperators",
     "name": "Vessels And Seperators",
     "description": "A Vessels And Seperators.",
-    "previewImageUrl": "Vessels and Seperators.png",
-    "downloadUrl": "Vessels and Seperators.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Vessel",
       "Pressure",
@@ -41,44 +39,38 @@
     "id": "heat exchangers",
     "name": "Heat Exchangers",
     "description": "A Heat Exchangers.",
-    "previewImageUrl": "Heat Exchangers.png",
-    "downloadUrl": "Heat Exchangers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "actuators",
     "name": "Actuators",
     "description": "A Actuators.",
-    "previewImageUrl": "Actuators.png",
-    "downloadUrl": "Actuators.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "strainers",
     "name": "Strainers",
     "description": "A Strainers.",
-    "previewImageUrl": "Strainers.png",
-    "downloadUrl": "Strainers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "pipework ",
     "name": "Pipework ",
     "description": "A Pipework .",
-    "previewImageUrl": "Pipework .png",
-    "downloadUrl": "Pipework .png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pipe",
       "Conduit",
@@ -90,8 +82,8 @@
     "id": "mills and crushers",
     "name": "Mills And Crushers",
     "description": "A Mills And Crushers.",
-    "previewImageUrl": "Mills and Crushers.png",
-    "downloadUrl": "Mills and Crushers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Mill",
       "Grinding",
@@ -103,8 +95,8 @@
     "id": "pumps and fans",
     "name": "Pumps And Fans",
     "description": "A Pumps And Fans.",
-    "previewImageUrl": "Pumps and Fans.png",
-    "downloadUrl": "Pumps and Fans.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Pump",
       "Fluid",
@@ -116,8 +108,8 @@
     "id": "conveyors simple",
     "name": "Conveyors Simple",
     "description": "A Conveyors Simple.",
-    "previewImageUrl": "Conveyors Simple.png",
-    "downloadUrl": "Conveyors Simple.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -129,20 +121,18 @@
     "id": "instruments",
     "name": "Instruments",
     "description": "A Instruments.",
-    "previewImageUrl": "Instruments.png",
-    "downloadUrl": "Instruments.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "valves ",
     "name": "Valves ",
     "description": "A Valves .",
-    "previewImageUrl": "Valves .png",
-    "downloadUrl": "Valves .png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -154,12 +144,10 @@
     "id": "material handling ",
     "name": "Material Handling ",
     "description": "A Material Handling .",
-    "previewImageUrl": "Material Handling .png",
-    "downloadUrl": "Material Handling .png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

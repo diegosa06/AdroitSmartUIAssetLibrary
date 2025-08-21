@@ -3,24 +3,20 @@
     "id": "start button 1",
     "name": "Start Button 1",
     "description": "A Start Button 1.",
-    "previewImageUrl": "Start Button 1.png",
-    "downloadUrl": "Start Button 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "stop button 1",
     "name": "Stop Button 1",
     "description": "A Stop Button 1.",
-    "previewImageUrl": "Stop Button 1.png",
-    "downloadUrl": "Stop Button 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

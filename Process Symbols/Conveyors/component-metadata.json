@@ -3,8 +3,8 @@
     "id": "belt conveyor",
     "name": "Belt Conveyor",
     "description": "A Belt Conveyor.",
-    "previewImageUrl": "Belt Conveyor.png",
-    "downloadUrl": "Belt Conveyor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -16,8 +16,8 @@
     "id": "vibration conveyor",
     "name": "Vibration Conveyor",
     "description": "A Vibration Conveyor.",
-    "previewImageUrl": "Vibration Conveyor.png",
-    "downloadUrl": "Vibration Conveyor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -29,8 +29,8 @@
     "id": "scraper conveyor",
     "name": "Scraper Conveyor",
     "description": "A Scraper Conveyor.",
-    "previewImageUrl": "Scraper Conveyor.png",
-    "downloadUrl": "Scraper Conveyor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -42,8 +42,8 @@
     "id": "screw conveyor",
     "name": "Screw Conveyor",
     "description": "A Screw Conveyor.",
-    "previewImageUrl": "Screw Conveyor.png",
-    "downloadUrl": "Screw Conveyor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",

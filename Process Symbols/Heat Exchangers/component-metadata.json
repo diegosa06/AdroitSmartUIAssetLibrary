@@ -3,108 +3,90 @@
     "id": "boiler",
     "name": "Boiler",
     "description": "A Boiler.",
-    "previewImageUrl": "Boiler.png",
-    "downloadUrl": "Boiler.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "condenser",
     "name": "Condenser",
     "description": "A Condenser.",
-    "previewImageUrl": "Condenser.png",
-    "downloadUrl": "Condenser.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger",
     "name": "Heat Exchanger",
     "description": "A Heat Exchanger.",
-    "previewImageUrl": "Heat Exchanger.png",
-    "downloadUrl": "Heat Exchanger.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger tube",
     "name": "Heat Exchanger Tube",
     "description": "A Heat Exchanger Tube.",
-    "previewImageUrl": "Heat Exchanger Tube.png",
-    "downloadUrl": "Heat Exchanger Tube.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fired heater",
     "name": "Fired Heater",
     "description": "A Fired Heater.",
-    "previewImageUrl": "Fired Heater.png",
-    "downloadUrl": "Fired Heater.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "cooling tower",
     "name": "Cooling Tower",
     "description": "A Cooling Tower.",
-    "previewImageUrl": "Cooling Tower.png",
-    "downloadUrl": "Cooling Tower.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger plates",
     "name": "Heat Exchanger Plates",
     "description": "A Heat Exchanger Plates.",
-    "previewImageUrl": "Heat Exchanger Plates.png",
-    "downloadUrl": "Heat Exchanger Plates.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "air cooler",
     "name": "Air Cooler",
     "description": "A Air Cooler.",
-    "previewImageUrl": "Air Cooler.png",
-    "downloadUrl": "Air Cooler.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger lines",
     "name": "Heat Exchanger Lines",
     "description": "A Heat Exchanger Lines.",
-    "previewImageUrl": "Heat Exchanger Lines.png",
-    "downloadUrl": "Heat Exchanger Lines.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

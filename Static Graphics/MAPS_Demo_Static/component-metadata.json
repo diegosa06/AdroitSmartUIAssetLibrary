@@ -3,12 +3,10 @@
     "id": "maps_batching_plant_statics",
     "name": "MAPS Batching Plant Statics",
     "description": "A MAPS Batching Plant Statics.",
-    "previewImageUrl": "MAPS_Batching_Plant_Statics.png",
-    "downloadUrl": "MAPS_Batching_Plant_Statics.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

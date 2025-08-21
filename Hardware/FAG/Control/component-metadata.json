@@ -3,48 +3,40 @@
     "id": "trend",
     "name": "TREND",
     "description": "A TREND.",
-    "previewImageUrl": "TREND.png",
-    "downloadUrl": "TREND.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "web",
     "name": "WEB",
     "description": "A WEB.",
-    "previewImageUrl": "WEB.png",
-    "downloadUrl": "WEB.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "alarmevent",
     "name": "Alarmevent",
     "description": "A Alarmevent.",
-    "previewImageUrl": "AlarmEvent.png",
-    "downloadUrl": "AlarmEvent.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "home",
     "name": "HOME",
     "description": "A HOME.",
-    "previewImageUrl": "HOME.png",
-    "downloadUrl": "HOME.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

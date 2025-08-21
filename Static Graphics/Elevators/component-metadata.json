@@ -3,24 +3,20 @@
     "id": "bucketelevatorright",
     "name": "Bucketelevatorright",
     "description": "A Bucketelevatorright.",
-    "previewImageUrl": "BucketElevatorRight.png",
-    "downloadUrl": "BucketElevatorRight.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "bucketelevatorleft",
     "name": "Bucketelevatorleft",
     "description": "A Bucketelevatorleft.",
-    "previewImageUrl": "BucketElevatorLeft.png",
-    "downloadUrl": "BucketElevatorLeft.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

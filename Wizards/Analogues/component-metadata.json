@@ -3,24 +3,20 @@
     "id": "simple analog",
     "name": "Simple Analog",
     "description": "A Simple Analog.",
-    "previewImageUrl": "Simple Analog.png",
-    "downloadUrl": "Simple Analog.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "simple analog_1",
     "name": "Simple Analog 1",
     "description": "A Simple Analog 1.",
-    "previewImageUrl": "Simple Analog_1.png",
-    "downloadUrl": "Simple Analog_1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

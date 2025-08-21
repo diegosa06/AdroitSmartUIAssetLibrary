@@ -3,12 +3,10 @@
     "id": "cold store",
     "name": "Cold Store",
     "description": "A Cold Store.",
-    "previewImageUrl": "Cold Store.png",
-    "downloadUrl": "Cold Store.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,12 +3,10 @@
     "id": "coolers",
     "name": "Coolers",
     "description": "A Coolers.",
-    "previewImageUrl": "Coolers.png",
-    "downloadUrl": "Coolers.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

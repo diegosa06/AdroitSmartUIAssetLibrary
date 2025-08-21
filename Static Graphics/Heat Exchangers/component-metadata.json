@@ -3,72 +3,60 @@
     "id": "heat exchanger 04",
     "name": "Heat Exchanger 04",
     "description": "A Heat Exchanger 04.",
-    "previewImageUrl": "Heat Exchanger 04.png",
-    "downloadUrl": "Heat Exchanger 04.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger 06",
     "name": "Heat Exchanger 06",
     "description": "A Heat Exchanger 06.",
-    "previewImageUrl": "Heat Exchanger 06.png",
-    "downloadUrl": "Heat Exchanger 06.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger 03",
     "name": "Heat Exchanger 03",
     "description": "A Heat Exchanger 03.",
-    "previewImageUrl": "Heat Exchanger 03.png",
-    "downloadUrl": "Heat Exchanger 03.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger 05",
     "name": "Heat Exchanger 05",
     "description": "A Heat Exchanger 05.",
-    "previewImageUrl": "Heat Exchanger 05.png",
-    "downloadUrl": "Heat Exchanger 05.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger 01",
     "name": "Heat Exchanger 01",
     "description": "A Heat Exchanger 01.",
-    "previewImageUrl": "Heat Exchanger 01.png",
-    "downloadUrl": "Heat Exchanger 01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "heat exchanger 02",
     "name": "Heat Exchanger 02",
     "description": "A Heat Exchanger 02.",
-    "previewImageUrl": "Heat Exchanger 02.png",
-    "downloadUrl": "Heat Exchanger 02.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

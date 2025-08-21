@@ -3,48 +3,40 @@
     "id": "signs 3",
     "name": "Signs 3",
     "description": "A Signs 3.",
-    "previewImageUrl": "Signs 3.png",
-    "downloadUrl": "Signs 3.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "signs 4",
     "name": "Signs 4",
     "description": "A Signs 4.",
-    "previewImageUrl": "Signs 4.png",
-    "downloadUrl": "Signs 4.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "signs 2",
     "name": "Signs 2",
     "description": "A Signs 2.",
-    "previewImageUrl": "Signs 2.png",
-    "downloadUrl": "Signs 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "signs 1",
     "name": "Signs 1",
     "description": "A Signs 1.",
-    "previewImageUrl": "Signs 1.png",
-    "downloadUrl": "Signs 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

@@ -3,96 +3,80 @@
     "id": "qj71e71_template",
     "name": "QJ71E71 Template",
     "description": "A QJ71E71 Template.",
-    "previewImageUrl": "QJ71E71_Template.png",
-    "downloadUrl": "QJ71E71_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "qnudvcpu_template",
     "name": "QNUDVCPU Template",
     "description": "A QNUDVCPU Template.",
-    "previewImageUrl": "QNUDVCPU_Template.png",
-    "downloadUrl": "QNUDVCPU_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "q64da_template",
     "name": "Q64DA Template",
     "description": "A Q64DA Template.",
-    "previewImageUrl": "Q64DA_Template.png",
-    "downloadUrl": "Q64DA_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "qy81p_template",
     "name": "QY81P Template",
     "description": "A QY81P Template.",
-    "previewImageUrl": "QY81P_Template.png",
-    "downloadUrl": "QY81P_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "qx80_template",
     "name": "QX80 Template",
     "description": "A QX80 Template.",
-    "previewImageUrl": "QX80_Template.png",
-    "downloadUrl": "QX80_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "qy80_template",
     "name": "QY80 Template",
     "description": "A QY80 Template.",
-    "previewImageUrl": "QY80_Template.png",
-    "downloadUrl": "QY80_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "qx81_template",
     "name": "QX81 Template",
     "description": "A QX81 Template.",
-    "previewImageUrl": "QX81_Template.png",
-    "downloadUrl": "QX81_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "q64ad_template",
     "name": "Q64AD Template",
     "description": "A Q64AD Template.",
-    "previewImageUrl": "Q64AD_Template.png",
-    "downloadUrl": "Q64AD_Template.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

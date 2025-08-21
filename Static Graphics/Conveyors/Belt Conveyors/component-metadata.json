@@ -3,8 +3,8 @@
     "id": "belt conveyor vertical",
     "name": "Belt Conveyor Vertical",
     "description": "A Belt Conveyor Vertical.",
-    "previewImageUrl": "Belt Conveyor Vertical.png",
-    "downloadUrl": "Belt Conveyor Vertical.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",
@@ -16,8 +16,8 @@
     "id": "belt conveyor horizontal",
     "name": "Belt Conveyor Horizontal",
     "description": "A Belt Conveyor Horizontal.",
-    "previewImageUrl": "Belt Conveyor Horizontal.png",
-    "downloadUrl": "Belt Conveyor Horizontal.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Conveyor",
       "Material Handling",

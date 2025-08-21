@@ -3,20 +3,18 @@
     "id": "vent",
     "name": "Vent",
     "description": "A Vent.",
-    "previewImageUrl": "Vent.png",
-    "downloadUrl": "Vent.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "valve component 06",
     "name": "Valve Component 06",
     "description": "A Valve Component 06.",
-    "previewImageUrl": "Valve Component 06.png",
-    "downloadUrl": "Valve Component 06.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -28,8 +26,8 @@
     "id": "valve component 02",
     "name": "Valve Component 02",
     "description": "A Valve Component 02.",
-    "previewImageUrl": "Valve Component 02.png",
-    "downloadUrl": "Valve Component 02.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -41,44 +39,38 @@
     "id": "flange 01",
     "name": "Flange 01",
     "description": "A Flange 01.",
-    "previewImageUrl": "Flange 01.png",
-    "downloadUrl": "Flange 01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "panel",
     "name": "Panel",
     "description": "A Panel.",
-    "previewImageUrl": "Panel.png",
-    "downloadUrl": "Panel.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "flange 02",
     "name": "Flange 02",
     "description": "A Flange 02.",
-    "previewImageUrl": "Flange 02.png",
-    "downloadUrl": "Flange 02.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "valve component 05",
     "name": "Valve Component 05",
     "description": "A Valve Component 05.",
-    "previewImageUrl": "Valve Component 05.png",
-    "downloadUrl": "Valve Component 05.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -90,8 +82,8 @@
     "id": "valve component 04",
     "name": "Valve Component 04",
     "description": "A Valve Component 04.",
-    "previewImageUrl": "Valve Component 04.png",
-    "downloadUrl": "Valve Component 04.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -103,8 +95,8 @@
     "id": "switch",
     "name": "Switch",
     "description": "A Switch.",
-    "previewImageUrl": "Switch.png",
-    "downloadUrl": "Switch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -116,8 +108,8 @@
     "id": "valve component 03",
     "name": "Valve Component 03",
     "description": "A Valve Component 03.",
-    "previewImageUrl": "Valve Component 03.png",
-    "downloadUrl": "Valve Component 03.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",
@@ -129,20 +121,18 @@
     "id": "flange 03",
     "name": "Flange 03",
     "description": "A Flange 03.",
-    "previewImageUrl": "Flange 03.png",
-    "downloadUrl": "Flange 03.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "valve component 01",
     "name": "Valve Component 01",
     "description": "A Valve Component 01.",
-    "previewImageUrl": "Valve Component 01.png",
-    "downloadUrl": "Valve Component 01.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Valve",
       "Flow Control",

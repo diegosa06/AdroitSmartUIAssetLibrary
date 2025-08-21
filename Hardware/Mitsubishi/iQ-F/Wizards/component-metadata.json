@@ -3,96 +3,80 @@
     "id": "fx5uc-32m_wizard",
     "name": "FX5UC-32M Wizard",
     "description": "A FX5UC-32M Wizard.",
-    "previewImageUrl": "FX5UC-32M_Wizard.png",
-    "downloadUrl": "FX5UC-32M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5-cclief_wizard",
     "name": "FX5-CCLIEF Wizard",
     "description": "A FX5-CCLIEF Wizard.",
-    "previewImageUrl": "FX5-CCLIEF_Wizard.png",
-    "downloadUrl": "FX5-CCLIEF_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5-80ssc_wizard",
     "name": "FX5-80SSC Wizard",
     "description": "A FX5-80SSC Wizard.",
-    "previewImageUrl": "FX5-80SSC_Wizard.png",
-    "downloadUrl": "FX5-80SSC_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5u-80m_wizard",
     "name": "FX5U-80M Wizard",
     "description": "A FX5U-80M Wizard.",
-    "previewImageUrl": "FX5U-80M_Wizard.png",
-    "downloadUrl": "FX5U-80M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5uc-96m_wizard",
     "name": "FX5UC-96M Wizard",
     "description": "A FX5UC-96M Wizard.",
-    "previewImageUrl": "FX5UC-96M_Wizard.png",
-    "downloadUrl": "FX5UC-96M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5uc-64m_wizard",
     "name": "FX5UC-64M Wizard",
     "description": "A FX5UC-64M Wizard.",
-    "previewImageUrl": "FX5UC-64M_Wizard.png",
-    "downloadUrl": "FX5UC-64M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5u-64m_wizard",
     "name": "FX5U-64M Wizard",
     "description": "A FX5U-64M Wizard.",
-    "previewImageUrl": "FX5U-64M_Wizard.png",
-    "downloadUrl": "FX5U-64M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fx5u-32m_wizard",
     "name": "FX5U-32M Wizard",
     "description": "A FX5U-32M Wizard.",
-    "previewImageUrl": "FX5U-32M_Wizard.png",
-    "downloadUrl": "FX5U-32M_Wizard.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

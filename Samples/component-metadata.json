@@ -3,108 +3,90 @@
     "id": "passinput",
     "name": "Passinput",
     "description": "A Passinput.",
-    "previewImageUrl": "PassInput.png",
-    "downloadUrl": "PassInput.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "find tag reference in project",
     "name": "Find Tag Reference In Project",
     "description": "A Find Tag Reference In Project.",
-    "previewImageUrl": "Find Tag Reference In Project.png",
-    "downloadUrl": "Find Tag Reference In Project.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "gf_numericalkeypad_template_call",
     "name": "GF Numericalkeypad Template Call",
     "description": "A GF Numericalkeypad Template Call.",
-    "previewImageUrl": "GF_NumericalKeypad_Template_Call.png",
-    "downloadUrl": "GF_NumericalKeypad_Template_Call.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "setpointchg",
     "name": "Setpointchg",
     "description": "A Setpointchg.",
-    "previewImageUrl": "SetpointChg.png",
-    "downloadUrl": "SetpointChg.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "numericalinputkeyboard2",
     "name": "Numericalinputkeyboard2",
     "description": "A Numericalinputkeyboard2.",
-    "previewImageUrl": "NumericalInputKeyboard2.png",
-    "downloadUrl": "NumericalInputKeyboard2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "demo plant",
     "name": "Demo Plant",
     "description": "A Demo Plant.",
-    "previewImageUrl": "Demo Plant.png",
-    "downloadUrl": "Demo Plant.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "login",
     "name": "Login",
     "description": "A Login.",
-    "previewImageUrl": "Login.png",
-    "downloadUrl": "Login.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "graphic form publishing",
     "name": "Graphic Form Publishing",
     "description": "A Graphic Form Publishing.",
-    "previewImageUrl": "Graphic Form Publishing.png",
-    "downloadUrl": "Graphic Form Publishing.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "numericalinput",
     "name": "Numericalinput",
     "description": "A Numericalinput.",
-    "previewImageUrl": "NumericalInput.png",
-    "downloadUrl": "NumericalInput.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

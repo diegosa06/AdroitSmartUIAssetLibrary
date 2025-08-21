@@ -3,24 +3,20 @@
     "id": "mixer",
     "name": "Mixer",
     "description": "A Mixer.",
-    "previewImageUrl": "Mixer.png",
-    "downloadUrl": "Mixer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "stirer",
     "name": "Stirer",
     "description": "A Stirer.",
-    "previewImageUrl": "Stirer.png",
-    "downloadUrl": "Stirer.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

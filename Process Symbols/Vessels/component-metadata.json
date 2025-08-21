@@ -3,8 +3,8 @@
     "id": "tank",
     "name": "Tank",
     "description": "A Tank.",
-    "previewImageUrl": "Tank.png",
-    "downloadUrl": "Tank.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -16,20 +16,18 @@
     "id": "barrel",
     "name": "Barrel",
     "description": "A Barrel.",
-    "previewImageUrl": "Barrel.png",
-    "downloadUrl": "Barrel.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "open tank",
     "name": "Open Tank",
     "description": "A Open Tank.",
-    "previewImageUrl": "Open Tank.png",
-    "downloadUrl": "Open Tank.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -41,56 +39,48 @@
     "id": "classifier",
     "name": "Classifier",
     "description": "A Classifier.",
-    "previewImageUrl": "Classifier.png",
-    "downloadUrl": "Classifier.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "tray column",
     "name": "Tray Column",
     "description": "A Tray Column.",
-    "previewImageUrl": "Tray Column.png",
-    "downloadUrl": "Tray Column.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "gas holder",
     "name": "Gas Holder",
     "description": "A Gas Holder.",
-    "previewImageUrl": "Gas Holder.png",
-    "downloadUrl": "Gas Holder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "silo",
     "name": "Silo",
     "description": "A Silo.",
-    "previewImageUrl": "Silo.png",
-    "downloadUrl": "Silo.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "carrying vessel",
     "name": "Carrying Vessel",
     "description": "A Carrying Vessel.",
-    "previewImageUrl": "Carrying Vessel.png",
-    "downloadUrl": "Carrying Vessel.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Vessel",
       "Pressure",
@@ -102,8 +92,8 @@
     "id": "vessel",
     "name": "Vessel",
     "description": "A Vessel.",
-    "previewImageUrl": "Vessel.png",
-    "downloadUrl": "Vessel.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Vessel",
       "Pressure",
@@ -115,8 +105,8 @@
     "id": "covered tank",
     "name": "Covered Tank",
     "description": "A Covered Tank.",
-    "previewImageUrl": "Covered Tank.png",
-    "downloadUrl": "Covered Tank.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -128,32 +118,28 @@
     "id": "gas cylinder",
     "name": "Gas Cylinder",
     "description": "A Gas Cylinder.",
-    "previewImageUrl": "Gas Cylinder.png",
-    "downloadUrl": "Gas Cylinder.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "column",
     "name": "Column",
     "description": "A Column.",
-    "previewImageUrl": "Column.png",
-    "downloadUrl": "Column.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "reaction vessel",
     "name": "Reaction Vessel",
     "description": "A Reaction Vessel.",
-    "previewImageUrl": "Reaction Vessel.png",
-    "downloadUrl": "Reaction Vessel.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Vessel",
       "Pressure",
@@ -165,8 +151,8 @@
     "id": "closed tank",
     "name": "Closed Tank",
     "description": "A Closed Tank.",
-    "previewImageUrl": "Closed Tank.png",
-    "downloadUrl": "Closed Tank.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -178,60 +164,50 @@
     "id": "autoclave",
     "name": "Autoclave",
     "description": "A Autoclave.",
-    "previewImageUrl": "Autoclave.png",
-    "downloadUrl": "Autoclave.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "fluid contacting",
     "name": "Fluid Contacting",
     "description": "A Fluid Contacting.",
-    "previewImageUrl": "Fluid Contacting.png",
-    "downloadUrl": "Fluid Contacting.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "blender",
     "name": "Blender",
     "description": "A Blender.",
-    "previewImageUrl": "Blender.png",
-    "downloadUrl": "Blender.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "storage sphere",
     "name": "Storage Sphere",
     "description": "A Storage Sphere.",
-    "previewImageUrl": "Storage Sphere.png",
-    "downloadUrl": "Storage Sphere.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "bag",
     "name": "Bag",
     "description": "A Bag.",
-    "previewImageUrl": "Bag.png",
-    "downloadUrl": "Bag.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

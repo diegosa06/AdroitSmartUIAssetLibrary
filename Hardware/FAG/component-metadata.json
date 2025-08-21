@@ -3,24 +3,20 @@
     "id": "wzdwsfag",
     "name": "Wzdwsfag",
     "description": "A Wzdwsfag.",
-    "previewImageUrl": "wzdWSFAG.png",
-    "downloadUrl": "wzdWSFAG.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "wzdfag",
     "name": "Wzdfag",
     "description": "A Wzdfag.",
-    "previewImageUrl": "wzdFAG.png",
-    "downloadUrl": "wzdFAG.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

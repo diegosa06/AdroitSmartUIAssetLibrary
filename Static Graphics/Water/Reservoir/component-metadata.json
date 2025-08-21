@@ -3,8 +3,8 @@
     "id": "water reservoir tank 1",
     "name": "Water Reservoir Tank 1",
     "description": "A Water Reservoir Tank 1.",
-    "previewImageUrl": "Water Reservoir Tank 1.png",
-    "downloadUrl": "Water Reservoir Tank 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -16,8 +16,8 @@
     "id": "water tower tank 2",
     "name": "Water Tower Tank 2",
     "description": "A Water Tower Tank 2.",
-    "previewImageUrl": "Water Tower Tank 2.png",
-    "downloadUrl": "Water Tower Tank 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -29,8 +29,8 @@
     "id": "water tower tank 3",
     "name": "Water Tower Tank 3",
     "description": "A Water Tower Tank 3.",
-    "previewImageUrl": "Water Tower Tank 3.png",
-    "downloadUrl": "Water Tower Tank 3.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -42,20 +42,18 @@
     "id": "reservoir dam wall",
     "name": "Reservoir Dam Wall",
     "description": "A Reservoir Dam Wall.",
-    "previewImageUrl": "Reservoir Dam Wall.png",
-    "downloadUrl": "Reservoir Dam Wall.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "water tower tank 4",
     "name": "Water Tower Tank 4",
     "description": "A Water Tower Tank 4.",
-    "previewImageUrl": "Water Tower Tank 4.png",
-    "downloadUrl": "Water Tower Tank 4.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -67,32 +65,28 @@
     "id": "reservoir round dam",
     "name": "Reservoir Round Dam",
     "description": "A Reservoir Round Dam.",
-    "previewImageUrl": "Reservoir Round Dam.png",
-    "downloadUrl": "Reservoir Round Dam.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "reservoir dam",
     "name": "Reservoir Dam",
     "description": "A Reservoir Dam.",
-    "previewImageUrl": "Reservoir Dam.png",
-    "downloadUrl": "Reservoir Dam.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "water reservoir tank 2",
     "name": "Water Reservoir Tank 2",
     "description": "A Water Reservoir Tank 2.",
-    "previewImageUrl": "Water Reservoir Tank 2.png",
-    "downloadUrl": "Water Reservoir Tank 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",
@@ -104,8 +98,8 @@
     "id": "water tower tank 1",
     "name": "Water Tower Tank 1",
     "description": "A Water Tower Tank 1.",
-    "previewImageUrl": "Water Tower Tank 1.png",
-    "downloadUrl": "Water Tower Tank 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Tank",
       "Storage",

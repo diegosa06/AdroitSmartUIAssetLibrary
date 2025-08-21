@@ -3,8 +3,8 @@
     "id": "switch",
     "name": "Switch",
     "description": "A Switch.",
-    "previewImageUrl": "Switch.png",
-    "downloadUrl": "Switch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -16,32 +16,28 @@
     "id": "server_vertical",
     "name": "Server Vertical",
     "description": "A Server Vertical.",
-    "previewImageUrl": "Server_Vertical.png",
-    "downloadUrl": "Server_Vertical.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "db",
     "name": "DB",
     "description": "A DB.",
-    "previewImageUrl": "DB.png",
-    "downloadUrl": "DB.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "serverswitchtouchdesktop",
     "name": "Serverswitchtouchdesktop",
     "description": "A Serverswitchtouchdesktop.",
-    "previewImageUrl": "ServerSwitchTouchDesktop.png",
-    "downloadUrl": "ServerSwitchTouchDesktop.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Switch",
       "Control",
@@ -53,8 +49,8 @@
     "id": "plc",
     "name": "PLC",
     "description": "A PLC.",
-    "previewImageUrl": "PLC.png",
-    "downloadUrl": "PLC.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "PLC",
       "Controller",
@@ -66,36 +62,30 @@
     "id": "touch",
     "name": "Touch",
     "description": "A Touch.",
-    "previewImageUrl": "Touch.png",
-    "downloadUrl": "Touch.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "server_horizontal",
     "name": "Server Horizontal",
     "description": "A Server Horizontal.",
-    "previewImageUrl": "Server_Horizontal.png",
-    "downloadUrl": "Server_Horizontal.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "desktop",
     "name": "Desktop",
     "description": "A Desktop.",
-    "previewImageUrl": "Desktop.png",
-    "downloadUrl": "Desktop.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

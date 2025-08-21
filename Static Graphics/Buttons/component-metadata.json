@@ -3,72 +3,60 @@
     "id": "scada buttons",
     "name": "SCADA Buttons",
     "description": "A SCADA Buttons.",
-    "previewImageUrl": "SCADA Buttons.png",
-    "downloadUrl": "SCADA Buttons.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "reset button",
     "name": "Reset Button",
     "description": "A Reset Button.",
-    "previewImageUrl": "Reset Button.png",
-    "downloadUrl": "Reset Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "windows buttons",
     "name": "Windows Buttons",
     "description": "A Windows Buttons.",
-    "previewImageUrl": "Windows Buttons.png",
-    "downloadUrl": "Windows Buttons.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "start button",
     "name": "Start Button",
     "description": "A Start Button.",
-    "previewImageUrl": "Start Button.png",
-    "downloadUrl": "Start Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "stop button",
     "name": "Stop Button",
     "description": "A Stop Button.",
-    "previewImageUrl": "Stop Button.png",
-    "downloadUrl": "Stop Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "buttons",
     "name": "Buttons",
     "description": "A Buttons.",
-    "previewImageUrl": "Buttons.png",
-    "downloadUrl": "Buttons.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

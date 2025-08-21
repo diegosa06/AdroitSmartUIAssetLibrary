@@ -3,24 +3,20 @@
     "id": "off button",
     "name": "Off Button",
     "description": "A Off Button.",
-    "previewImageUrl": "Off Button.png",
-    "downloadUrl": "Off Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "on button",
     "name": "On Button",
     "description": "A On Button.",
-    "previewImageUrl": "On Button.png",
-    "downloadUrl": "On Button.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

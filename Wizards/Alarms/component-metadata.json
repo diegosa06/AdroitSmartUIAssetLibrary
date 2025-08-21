@@ -3,24 +3,20 @@
     "id": "alarm indication 1",
     "name": "Alarm Indication 1",
     "description": "A Alarm Indication 1.",
-    "previewImageUrl": "Alarm Indication 1.png",
-    "downloadUrl": "Alarm Indication 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "alarm indication 2",
     "name": "Alarm Indication 2",
     "description": "A Alarm Indication 2.",
-    "previewImageUrl": "Alarm Indication 2.png",
-    "downloadUrl": "Alarm Indication 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]

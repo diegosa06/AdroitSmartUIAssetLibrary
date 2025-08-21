@@ -3,32 +3,28 @@
     "id": "blue sludge cutter",
     "name": "Blue Sludge Cutter",
     "description": "A Blue Sludge Cutter.",
-    "previewImageUrl": "Blue Sludge Cutter.png",
-    "downloadUrl": "Blue Sludge Cutter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome sludge cutter",
     "name": "Chrome Sludge Cutter",
     "description": "A Chrome Sludge Cutter.",
-    "previewImageUrl": "Chrome Sludge Cutter.png",
-    "downloadUrl": "Chrome Sludge Cutter.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "chrome sludge cutter no motor",
     "name": "Chrome Sludge Cutter No Motor",
     "description": "A Chrome Sludge Cutter No Motor.",
-    "previewImageUrl": "Chrome Sludge Cutter no motor.png",
-    "downloadUrl": "Chrome Sludge Cutter no motor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",
@@ -40,8 +36,8 @@
     "id": "blue sludge cutter no motor",
     "name": "Blue Sludge Cutter No Motor",
     "description": "A Blue Sludge Cutter No Motor.",
-    "previewImageUrl": "Blue Sludge Cutter no motor.png",
-    "downloadUrl": "Blue Sludge Cutter no motor.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
       "Motor",
       "Drive",

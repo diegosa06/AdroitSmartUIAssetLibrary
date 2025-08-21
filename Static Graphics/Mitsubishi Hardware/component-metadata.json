@@ -3,228 +3,190 @@
     "id": "mitsubishi alpha",
     "name": "Mitsubishi Alpha",
     "description": "A Mitsubishi Alpha.",
-    "previewImageUrl": "Mitsubishi Alpha.png",
-    "downloadUrl": "Mitsubishi Alpha.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi a700",
     "name": "Mitsubishi A700",
     "description": "A Mitsubishi A700.",
-    "previewImageUrl": "Mitsubishi A700.png",
-    "downloadUrl": "Mitsubishi A700.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi e700",
     "name": "Mitsubishi E700",
     "description": "A Mitsubishi E700.",
-    "previewImageUrl": "Mitsubishi E700.png",
-    "downloadUrl": "Mitsubishi E700.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi f700 2",
     "name": "Mitsubishi F700 2",
     "description": "A Mitsubishi F700 2.",
-    "previewImageUrl": "Mitsubishi F700 2.png",
-    "downloadUrl": "Mitsubishi F700 2.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi f700 1",
     "name": "Mitsubishi F700 1",
     "description": "A Mitsubishi F700 1.",
-    "previewImageUrl": "Mitsubishi F700 1.png",
-    "downloadUrl": "Mitsubishi F700 1.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "io module-input",
     "name": "IO Module-Input",
     "description": "A IO Module-Input.",
-    "previewImageUrl": "IO Module-Input.png",
-    "downloadUrl": "IO Module-Input.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi fx 1s",
     "name": "Mitsubishi FX 1S",
     "description": "A Mitsubishi FX 1S.",
-    "previewImageUrl": "Mitsubishi FX 1S.png",
-    "downloadUrl": "Mitsubishi FX 1S.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "io module-output",
     "name": "IO Module-Output",
     "description": "A IO Module-Output.",
-    "previewImageUrl": "IO Module-Output.png",
-    "downloadUrl": "IO Module-Output.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi a770",
     "name": "Mitsubishi A770",
     "description": "A Mitsubishi A770.",
-    "previewImageUrl": "Mitsubishi A770.png",
-    "downloadUrl": "Mitsubishi A770.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi d700",
     "name": "Mitsubishi D700",
     "description": "A Mitsubishi D700.",
-    "previewImageUrl": "Mitsubishi D700.png",
-    "downloadUrl": "Mitsubishi D700.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi q-series",
     "name": "Mitsubishi Q-Series",
     "description": "A Mitsubishi Q-Series.",
-    "previewImageUrl": "Mitsubishi Q-Series.png",
-    "downloadUrl": "Mitsubishi Q-Series.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi fx 3g",
     "name": "Mitsubishi FX 3G",
     "description": "A Mitsubishi FX 3G.",
-    "previewImageUrl": "Mitsubishi FX 3G.png",
-    "downloadUrl": "Mitsubishi FX 3G.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi got1000",
     "name": "Mitsubishi GOT1000",
     "description": "A Mitsubishi GOT1000.",
-    "previewImageUrl": "Mitsubishi GOT1000.png",
-    "downloadUrl": "Mitsubishi GOT1000.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "io module-basic",
     "name": "IO Module-Basic",
     "description": "A IO Module-Basic.",
-    "previewImageUrl": "IO Module-Basic.png",
-    "downloadUrl": "IO Module-Basic.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi l-series",
     "name": "Mitsubishi L-Series",
     "description": "A Mitsubishi L-Series.",
-    "previewImageUrl": "Mitsubishi L-Series.png",
-    "downloadUrl": "Mitsubishi L-Series.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi fx 3u",
     "name": "Mitsubishi FX 3U",
     "description": "A Mitsubishi FX 3U.",
-    "previewImageUrl": "Mitsubishi FX 3U.png",
-    "downloadUrl": "Mitsubishi FX 3U.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "io module-cpu02",
     "name": "IO Module-CPU02",
     "description": "A IO Module-CPU02.",
-    "previewImageUrl": "IO Module-CPU02.png",
-    "downloadUrl": "IO Module-CPU02.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi fx 1n",
     "name": "Mitsubishi FX 1N",
     "description": "A Mitsubishi FX 1N.",
-    "previewImageUrl": "Mitsubishi FX 1N.png",
-    "downloadUrl": "Mitsubishi FX 1N.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   },
   {
     "id": "mitsubishi got2000",
     "name": "Mitsubishi GOT2000",
     "description": "A Mitsubishi GOT2000.",
-    "previewImageUrl": "Mitsubishi GOT2000.png",
-    "downloadUrl": "Mitsubishi GOT2000.png",
+    "previewImageUrl": "",
+    "downloadUrl": "",
     "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
+      "Automation"
     ]
   }
 ]
