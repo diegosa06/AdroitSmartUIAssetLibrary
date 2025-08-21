@@ -1,8 +1,8 @@
 [
   {
     "id": "simple motor start-stop",
-    "name": "Simple Motor Start-Stop",
-    "description": "A Simple Motor Start-Stop.",
+    "name": "Simple Motor start-stop",
+    "description": "A Simple Motor start-stop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -27,8 +27,8 @@
   },
   {
     "id": "tankcompressor",
-    "name": "Tankcompressor",
-    "description": "A Tankcompressor.",
+    "name": "TankCompressor",
+    "description": "A TankCompressor.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -24,8 +24,8 @@
   },
   {
     "id": "ac generator or alternator",
-    "name": "AC Generator Or Alternator",
-    "description": "A AC Generator Or Alternator.",
+    "name": "AC Generator or Alternator",
+    "description": "A AC Generator or Alternator.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -34,8 +34,8 @@
   },
   {
     "id": "artificial neutral or earthing transformer",
-    "name": "Artificial Neutral Or Earthing Transformer",
-    "description": "A Artificial Neutral Or Earthing Transformer.",
+    "name": "Artificial Neutral or Earthing Transformer",
+    "description": "A Artificial Neutral or Earthing Transformer.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -57,8 +57,8 @@
   },
   {
     "id": "spark gap or overvoltage limiter",
-    "name": "Spark Gap Or Overvoltage Limiter",
-    "description": "A Spark Gap Or Overvoltage Limiter.",
+    "name": "Spark Gap or Overvoltage Limiter",
+    "description": "A Spark Gap or Overvoltage Limiter.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -110,8 +110,8 @@
   },
   {
     "id": "source of current",
-    "name": "Source Of Current",
-    "description": "A Source Of Current.",
+    "name": "Source of Current",
+    "description": "A Source of Current.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -183,8 +183,8 @@
   },
   {
     "id": "three-phase line or cable",
-    "name": "Three-Phase Line Or Cable",
-    "description": "A Three-Phase Line Or Cable.",
+    "name": "Three-Phase Line or Cable",
+    "description": "A Three-Phase Line or Cable.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -216,8 +216,8 @@
   },
   {
     "id": "single-phase line or cable",
-    "name": "Single-Phase Line Or Cable",
-    "description": "A Single-Phase Line Or Cable.",
+    "name": "Single-Phase Line or Cable",
+    "description": "A Single-Phase Line or Cable.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -239,8 +239,8 @@
   },
   {
     "id": "varistor or surge arrester",
-    "name": "Varistor Or Surge Arrester",
-    "description": "A Varistor Or Surge Arrester.",
+    "name": "Varistor or Surge Arrester",
+    "description": "A Varistor or Surge Arrester.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -331,8 +331,8 @@
   },
   {
     "id": "reactor or transformer",
-    "name": "Reactor Or Transformer",
-    "description": "A Reactor Or Transformer.",
+    "name": "Reactor or Transformer",
+    "description": "A Reactor or Transformer.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

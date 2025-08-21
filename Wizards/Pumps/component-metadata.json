@@ -40,8 +40,8 @@
   },
   {
     "id": "simple pump start-stop",
-    "name": "Simple Pump Start-Stop",
-    "description": "A Simple Pump Start-Stop.",
+    "name": "Simple Pump start-stop",
+    "description": "A Simple Pump start-stop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

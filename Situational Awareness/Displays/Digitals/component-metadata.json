@@ -1,8 +1,8 @@
 [
   {
     "id": "wzdradio_digitaldisplay_priority3_v01",
-    "name": "Wzdradio Digitaldisplay Priority3 V01",
-    "description": "A Wzdradio Digitaldisplay Priority3 V01.",
+    "name": "wzdRadio DigitalDisplay Priority3 v01",
+    "description": "A wzdRadio DigitalDisplay Priority3 v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -11,8 +11,8 @@
   },
   {
     "id": "wzddigitaltextdisplay_nopriority_v01",
-    "name": "Wzddigitaltextdisplay Nopriority V01",
-    "description": "A Wzddigitaltextdisplay Nopriority V01.",
+    "name": "wzdDigitalTextDisplay NoPriority v01",
+    "description": "A wzdDigitalTextDisplay NoPriority v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -21,8 +21,8 @@
   },
   {
     "id": "wzdradio_digitaldisplay_nopriority_v01",
-    "name": "Wzdradio Digitaldisplay Nopriority V01",
-    "description": "A Wzdradio Digitaldisplay Nopriority V01.",
+    "name": "wzdRadio DigitalDisplay NoPriority v01",
+    "description": "A wzdRadio DigitalDisplay NoPriority v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

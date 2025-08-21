@@ -1,8 +1,8 @@
 [
   {
     "id": "chrome skip bin",
-    "name": "Chrome Skip Bin",
-    "description": "A Chrome Skip Bin.",
+    "name": "Chrome Skip bin",
+    "description": "A Chrome Skip bin.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -11,8 +11,8 @@
   },
   {
     "id": "yellow skip bin",
-    "name": "Yellow Skip Bin",
-    "description": "A Yellow Skip Bin.",
+    "name": "Yellow Skip bin",
+    "description": "A Yellow Skip bin.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

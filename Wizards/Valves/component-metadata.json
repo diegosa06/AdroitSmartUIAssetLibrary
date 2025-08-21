@@ -1,8 +1,8 @@
 [
   {
     "id": "globevalvevertical",
-    "name": "Globevalvevertical",
-    "description": "A Globevalvevertical.",
+    "name": "GlobeValveVertical",
+    "description": "A GlobeValveVertical.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +14,8 @@
   },
   {
     "id": "globevalvevertical_flat",
-    "name": "Globevalvevertical Flat",
-    "description": "A Globevalvevertical Flat.",
+    "name": "GlobeValveVertical Flat",
+    "description": "A GlobeValveVertical Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -27,8 +27,8 @@
   },
   {
     "id": "globevalvehorizontal",
-    "name": "Globevalvehorizontal",
-    "description": "A Globevalvehorizontal.",
+    "name": "GlobeValveHorizontal",
+    "description": "A GlobeValveHorizontal.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -40,8 +40,8 @@
   },
   {
     "id": "3dsolenoidvalvehorizontal",
-    "name": "3Dsolenoidvalvehorizontal",
-    "description": "A 3Dsolenoidvalvehorizontal.",
+    "name": "3DSolenoidValveHorizontal",
+    "description": "A 3DSolenoidValveHorizontal.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -53,8 +53,8 @@
   },
   {
     "id": "isovalvehorizontal",
-    "name": "Isovalvehorizontal",
-    "description": "A Isovalvehorizontal.",
+    "name": "ISOValveHorizontal",
+    "description": "A ISOValveHorizontal.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -66,8 +66,8 @@
   },
   {
     "id": "solenoidvalvehorizontal_flat",
-    "name": "Solenoidvalvehorizontal Flat",
-    "description": "A Solenoidvalvehorizontal Flat.",
+    "name": "SolenoidValveHorizontal Flat",
+    "description": "A SolenoidValveHorizontal Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -79,8 +79,8 @@
   },
   {
     "id": "3dsolenoidvalvevertical",
-    "name": "3Dsolenoidvalvevertical",
-    "description": "A 3Dsolenoidvalvevertical.",
+    "name": "3DSolenoidValveVertical",
+    "description": "A 3DSolenoidValveVertical.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -92,8 +92,8 @@
   },
   {
     "id": "solenoidvalvehorizontal",
-    "name": "Solenoidvalvehorizontal",
-    "description": "A Solenoidvalvehorizontal.",
+    "name": "SolenoidValveHorizontal",
+    "description": "A SolenoidValveHorizontal.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -105,8 +105,8 @@
   },
   {
     "id": "isovalvevertical_flat",
-    "name": "Isovalvevertical Flat",
-    "description": "A Isovalvevertical Flat.",
+    "name": "ISOValveVertical Flat",
+    "description": "A ISOValveVertical Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -118,8 +118,8 @@
   },
   {
     "id": "globevalvehorizontal_flat",
-    "name": "Globevalvehorizontal Flat",
-    "description": "A Globevalvehorizontal Flat.",
+    "name": "GlobeValveHorizontal Flat",
+    "description": "A GlobeValveHorizontal Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -131,8 +131,8 @@
   },
   {
     "id": "solenoidvalvevertical",
-    "name": "Solenoidvalvevertical",
-    "description": "A Solenoidvalvevertical.",
+    "name": "SolenoidValveVertical",
+    "description": "A SolenoidValveVertical.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -144,8 +144,8 @@
   },
   {
     "id": "isovalvehorizontal_flat",
-    "name": "Isovalvehorizontal Flat",
-    "description": "A Isovalvehorizontal Flat.",
+    "name": "ISOValveHorizontal Flat",
+    "description": "A ISOValveHorizontal Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -157,8 +157,8 @@
   },
   {
     "id": "solenoidvalvevertical_flat",
-    "name": "Solenoidvalvevertical Flat",
-    "description": "A Solenoidvalvevertical Flat.",
+    "name": "SolenoidValveVertical Flat",
+    "description": "A SolenoidValveVertical Flat.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -170,8 +170,8 @@
   },
   {
     "id": "isovalvevertical",
-    "name": "Isovalvevertical",
-    "description": "A Isovalvevertical.",
+    "name": "ISOValveVertical",
+    "description": "A ISOValveVertical.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

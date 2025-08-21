@@ -34,8 +34,8 @@
   },
   {
     "id": "serverswitchtouchdesktop",
-    "name": "Serverswitchtouchdesktop",
-    "description": "A Serverswitchtouchdesktop.",
+    "name": "ServerSwitchTouchDesktop",
+    "description": "A ServerSwitchTouchDesktop.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

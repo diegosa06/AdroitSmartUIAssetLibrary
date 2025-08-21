@@ -21,8 +21,8 @@
   },
   {
     "id": "alarmevent",
-    "name": "Alarmevent",
-    "description": "A Alarmevent.",
+    "name": "AlarmEvent",
+    "description": "A AlarmEvent.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

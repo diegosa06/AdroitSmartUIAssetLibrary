@@ -1,8 +1,8 @@
 [
   {
     "id": "filter pump (top view)",
-    "name": "Filter Pump (Top View)",
-    "description": "A Filter Pump (Top View).",
+    "name": "Filter Pump (top view)",
+    "description": "A Filter Pump (top view).",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -66,8 +66,8 @@
   },
   {
     "id": "standard pump (side view)",
-    "name": "Standard Pump (Side View)",
-    "description": "A Standard Pump (Side View).",
+    "name": "Standard Pump (side view)",
+    "description": "A Standard Pump (side view).",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -79,8 +79,8 @@
   },
   {
     "id": "standard pump (without motor)",
-    "name": "Standard Pump (Without Motor)",
-    "description": "A Standard Pump (Without Motor).",
+    "name": "Standard Pump (without motor)",
+    "description": "A Standard Pump (without motor).",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -105,8 +105,8 @@
   },
   {
     "id": "filter pump (without motor)",
-    "name": "Filter Pump (Without Motor)",
-    "description": "A Filter Pump (Without Motor).",
+    "name": "Filter Pump (without motor)",
+    "description": "A Filter Pump (without motor).",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

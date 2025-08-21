@@ -1,8 +1,8 @@
 [
   {
     "id": "wzdproductionchart_statictime_statictarget_v01",
-    "name": "Wzdproductionchart Statictime Statictarget V01",
-    "description": "A Wzdproductionchart Statictime Statictarget V01.",
+    "name": "wzdProductionChart StaticTime StaticTarget v01",
+    "description": "A wzdProductionChart StaticTime StaticTarget v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -11,8 +11,8 @@
   },
   {
     "id": "wzdproductionchart_shiftagent_dynamictarget_v01",
-    "name": "Wzdproductionchart Shiftagent Dynamictarget V01",
-    "description": "A Wzdproductionchart Shiftagent Dynamictarget V01.",
+    "name": "wzdProductionChart ShiftAgent DynamicTarget v01",
+    "description": "A wzdProductionChart ShiftAgent DynamicTarget v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -21,8 +21,8 @@
   },
   {
     "id": "wzdproductionchart_statictime_dynamictarget_v01",
-    "name": "Wzdproductionchart Statictime Dynamictarget V01",
-    "description": "A Wzdproductionchart Statictime Dynamictarget V01.",
+    "name": "wzdProductionChart StaticTime DynamicTarget v01",
+    "description": "A wzdProductionChart StaticTime DynamicTarget v01.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

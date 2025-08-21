@@ -11,8 +11,8 @@
   },
   {
     "id": "motor onoff switch",
-    "name": "Motor Onoff Switch",
-    "description": "A Motor Onoff Switch.",
+    "name": "Motor OnOff Switch",
+    "description": "A Motor OnOff Switch.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -24,8 +24,8 @@
   },
   {
     "id": "startstop buttons 2",
-    "name": "Startstop Buttons 2",
-    "description": "A Startstop Buttons 2.",
+    "name": "StartStop Buttons 2",
+    "description": "A StartStop Buttons 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -34,8 +34,8 @@
   },
   {
     "id": "startstop buttons 1",
-    "name": "Startstop Buttons 1",
-    "description": "A Startstop Buttons 1.",
+    "name": "StartStop Buttons 1",
+    "description": "A StartStop Buttons 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -74,8 +74,8 @@
   },
   {
     "id": "onoff switch 1",
-    "name": "Onoff Switch 1",
-    "description": "A Onoff Switch 1.",
+    "name": "OnOff Switch 1",
+    "description": "A OnOff Switch 1.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -87,8 +87,8 @@
   },
   {
     "id": "onoff switch 2",
-    "name": "Onoff Switch 2",
-    "description": "A Onoff Switch 2.",
+    "name": "OnOff Switch 2",
+    "description": "A OnOff Switch 2.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

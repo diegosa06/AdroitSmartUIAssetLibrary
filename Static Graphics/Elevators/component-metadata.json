@@ -1,8 +1,8 @@
 [
   {
     "id": "bucketelevatorright",
-    "name": "Bucketelevatorright",
-    "description": "A Bucketelevatorright.",
+    "name": "BucketElevatorRight",
+    "description": "A BucketElevatorRight.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -11,8 +11,8 @@
   },
   {
     "id": "bucketelevatorleft",
-    "name": "Bucketelevatorleft",
-    "description": "A Bucketelevatorleft.",
+    "name": "BucketElevatorLeft",
+    "description": "A BucketElevatorLeft.",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
