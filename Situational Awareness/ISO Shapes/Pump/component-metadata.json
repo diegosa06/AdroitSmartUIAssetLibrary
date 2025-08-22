@@ -1,8 +1,9 @@
 [
   {
     "id": "wzdpumpvertical_v01",
-    "name": "wzdPumpVertical v01",
-    "description": "A wzdPumpVertical v01.",
+    "name": "wzdPumpVertical_v01",
+    "description": "A wzdPumpVertical_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +15,9 @@
   },
   {
     "id": "wzdpumphorizontal_v01",
-    "name": "wzdPumpHorizontal v01",
-    "description": "A wzdPumpHorizontal v01.",
+    "name": "wzdPumpHorizontal_v01",
+    "description": "A wzdPumpHorizontal_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

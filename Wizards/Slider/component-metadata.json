@@ -3,20 +3,18 @@
     "id": "horizontal slider",
     "name": "Horizontal Slider",
     "description": "A Horizontal Slider.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "vertical slider",
     "name": "Vertical Slider",
     "description": "A Vertical Slider.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

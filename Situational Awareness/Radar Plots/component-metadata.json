@@ -1,22 +1,20 @@
 [
   {
     "id": "wzdradarplot_3_v01",
-    "name": "wzdRadarPlot 3 v01",
-    "description": "A wzdRadarPlot 3 v01.",
+    "name": "wzdRadarPlot_3_v01",
+    "description": "A wzdRadarPlot_3_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdradarplot_6_v01",
-    "name": "wzdRadarPlot 6 v01",
-    "description": "A wzdRadarPlot 6 v01.",
+    "name": "wzdRadarPlot_6_v01",
+    "description": "A wzdRadarPlot_6_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

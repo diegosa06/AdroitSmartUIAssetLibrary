@@ -3,20 +3,18 @@
     "id": "gate",
     "name": "Gate",
     "description": "A Gate.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "4 state gate",
     "name": "4 State Gate",
     "description": "A 4 State Gate.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

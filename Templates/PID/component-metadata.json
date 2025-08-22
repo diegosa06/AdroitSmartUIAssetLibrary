@@ -3,10 +3,9 @@
     "id": "pid faceplate template",
     "name": "PID Faceplate Template",
     "description": "A PID Faceplate Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

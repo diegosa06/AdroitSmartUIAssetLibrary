@@ -3,30 +3,27 @@
     "id": "analog dial 1",
     "name": "Analog Dial 1",
     "description": "A Analog Dial 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "analog dial 2",
     "name": "Analog Dial 2",
     "description": "A Analog Dial 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "analog dial 3",
     "name": "Analog Dial 3",
     "description": "A Analog Dial 3.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

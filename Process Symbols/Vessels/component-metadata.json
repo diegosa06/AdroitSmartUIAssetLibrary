@@ -3,6 +3,7 @@
     "id": "tank",
     "name": "Tank",
     "description": "A Tank.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,16 +17,16 @@
     "id": "barrel",
     "name": "Barrel",
     "description": "A Barrel.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "open tank",
     "name": "Open Tank",
     "description": "A Open Tank.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -39,46 +40,43 @@
     "id": "classifier",
     "name": "Classifier",
     "description": "A Classifier.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "tray column",
     "name": "Tray Column",
     "description": "A Tray Column.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "gas holder",
     "name": "Gas Holder",
     "description": "A Gas Holder.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "silo",
     "name": "Silo",
     "description": "A Silo.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "carrying vessel",
     "name": "Carrying Vessel",
     "description": "A Carrying Vessel.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -92,6 +90,7 @@
     "id": "vessel",
     "name": "Vessel",
     "description": "A Vessel.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -105,6 +104,7 @@
     "id": "covered tank",
     "name": "Covered Tank",
     "description": "A Covered Tank.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -118,26 +118,25 @@
     "id": "gas cylinder",
     "name": "Gas Cylinder",
     "description": "A Gas Cylinder.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "column",
     "name": "Column",
     "description": "A Column.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "reaction vessel",
     "name": "Reaction Vessel",
     "description": "A Reaction Vessel.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -151,6 +150,7 @@
     "id": "closed tank",
     "name": "Closed Tank",
     "description": "A Closed Tank.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -164,50 +164,45 @@
     "id": "autoclave",
     "name": "Autoclave",
     "description": "A Autoclave.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fluid contacting",
     "name": "Fluid Contacting",
     "description": "A Fluid Contacting.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blender",
     "name": "Blender",
     "description": "A Blender.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "storage sphere",
     "name": "Storage Sphere",
     "description": "A Storage Sphere.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "bag",
     "name": "Bag",
     "description": "A Bag.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

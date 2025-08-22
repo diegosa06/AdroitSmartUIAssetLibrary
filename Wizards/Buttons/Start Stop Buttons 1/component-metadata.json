@@ -3,20 +3,18 @@
     "id": "start button 1",
     "name": "Start Button 1",
     "description": "A Start Button 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "stop button 1",
     "name": "Stop Button 1",
     "description": "A Stop Button 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

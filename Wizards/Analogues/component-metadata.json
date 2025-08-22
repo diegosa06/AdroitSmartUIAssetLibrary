@@ -3,20 +3,18 @@
     "id": "simple analog",
     "name": "Simple Analog",
     "description": "A Simple Analog.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "simple analog_1",
-    "name": "Simple Analog 1",
-    "description": "A Simple Analog 1.",
+    "name": "Simple Analog_1",
+    "description": "A Simple Analog_1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

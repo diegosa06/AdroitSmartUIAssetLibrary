@@ -3,10 +3,9 @@
     "id": "analogue faceplate template",
     "name": "Analogue Faceplate Template",
     "description": "A Analogue Faceplate Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

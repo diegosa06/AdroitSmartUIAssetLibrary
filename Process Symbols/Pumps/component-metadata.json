@@ -3,6 +3,7 @@
     "id": "centrifugal pump 1",
     "name": "Centrifugal Pump 1",
     "description": "A Centrifugal Pump 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,16 +17,16 @@
     "id": "positive disp",
     "name": "Positive Disp",
     "description": "A Positive Disp.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "diaphragm pump",
     "name": "Diaphragm Pump",
     "description": "A Diaphragm Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -39,6 +40,7 @@
     "id": "screw pump",
     "name": "Screw Pump",
     "description": "A Screw Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -52,16 +54,16 @@
     "id": "injector ejector",
     "name": "Injector Ejector",
     "description": "A Injector Ejector.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "selectable pump 2",
     "name": "Selectable Pump 2",
     "description": "A Selectable Pump 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -75,6 +77,7 @@
     "id": "rotary pump 1",
     "name": "Rotary Pump 1",
     "description": "A Rotary Pump 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -88,6 +91,7 @@
     "id": "proportional pump",
     "name": "Proportional Pump",
     "description": "A Proportional Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -101,6 +105,7 @@
     "id": "helical rotor pump",
     "name": "Helical Rotor Pump",
     "description": "A Helical Rotor Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -114,6 +119,7 @@
     "id": "reciprocating pump 1",
     "name": "Reciprocating Pump 1",
     "description": "A Reciprocating Pump 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -127,6 +133,7 @@
     "id": "positive disp pump",
     "name": "Positive Disp Pump",
     "description": "A Positive Disp Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -140,6 +147,7 @@
     "id": "reciprocating pump 2",
     "name": "Reciprocating Pump 2",
     "description": "A Reciprocating Pump 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -153,6 +161,7 @@
     "id": "rotary pump 2",
     "name": "Rotary Pump 2",
     "description": "A Rotary Pump 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -166,16 +175,16 @@
     "id": "spray",
     "name": "Spray",
     "description": "A Spray.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "selectable pump 1",
     "name": "Selectable Pump 1",
     "description": "A Selectable Pump 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -189,6 +198,7 @@
     "id": "liquid jet pump",
     "name": "Liquid Jet Pump",
     "description": "A Liquid Jet Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -202,6 +212,7 @@
     "id": "centrifugal pump 2",
     "name": "Centrifugal Pump 2",
     "description": "A Centrifugal Pump 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -215,6 +226,7 @@
     "id": "inline pump",
     "name": "Inline Pump",
     "description": "A Inline Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -228,6 +240,7 @@
     "id": "pump",
     "name": "Pump",
     "description": "A Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -241,6 +254,7 @@
     "id": "gear pump",
     "name": "Gear Pump",
     "description": "A Gear Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

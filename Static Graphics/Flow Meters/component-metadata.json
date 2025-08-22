@@ -3,160 +3,144 @@
     "id": "blue flow meter small right",
     "name": "Blue Flow Meter Small Right",
     "description": "A Blue Flow Meter Small Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter small left",
     "name": "Blue Flow Meter Small Left",
     "description": "A Blue Flow Meter Small Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter small bottom",
     "name": "Chrome Flow Meter Small Bottom",
     "description": "A Chrome Flow Meter Small Bottom.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter large bottom",
     "name": "Blue Flow Meter Large Bottom",
     "description": "A Blue Flow Meter Large Bottom.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter large right",
     "name": "Chrome Flow Meter Large Right",
     "description": "A Chrome Flow Meter Large Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter small bottom",
     "name": "Blue Flow Meter Small Bottom",
     "description": "A Blue Flow Meter Small Bottom.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter small left",
     "name": "Chrome Flow Meter Small Left",
     "description": "A Chrome Flow Meter Small Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter large bottom",
     "name": "Chrome Flow Meter Large Bottom",
     "description": "A Chrome Flow Meter Large Bottom.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter small top",
     "name": "Blue Flow Meter Small Top",
     "description": "A Blue Flow Meter Small Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter small right",
     "name": "Chrome Flow Meter Small Right",
     "description": "A Chrome Flow Meter Small Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter large right",
     "name": "Blue Flow Meter Large Right",
     "description": "A Blue Flow Meter Large Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter large top",
     "name": "Blue Flow Meter Large Top",
     "description": "A Blue Flow Meter Large Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue flow meter large left",
     "name": "Blue Flow Meter Large Left",
     "description": "A Blue Flow Meter Large Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter large top",
     "name": "Chrome Flow Meter Large Top",
     "description": "A Chrome Flow Meter Large Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter small top",
     "name": "Chrome Flow Meter Small Top",
     "description": "A Chrome Flow Meter Small Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome flow meter large left",
     "name": "Chrome Flow Meter Large Left",
     "description": "A Chrome Flow Meter Large Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

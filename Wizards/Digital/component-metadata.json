@@ -3,10 +3,9 @@
     "id": "simple digital",
     "name": "Simple Digital",
     "description": "A Simple Digital.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

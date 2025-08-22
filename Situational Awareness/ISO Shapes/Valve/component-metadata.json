@@ -1,8 +1,9 @@
 [
   {
     "id": "wzdvalvevertical_v01",
-    "name": "wzdValveVertical v01",
-    "description": "A wzdValveVertical v01.",
+    "name": "wzdValveVertical_v01",
+    "description": "A wzdValveVertical_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +15,9 @@
   },
   {
     "id": "wzdvalvehorizontal_v01",
-    "name": "wzdValveHorizontal v01",
-    "description": "A wzdValveHorizontal v01.",
+    "name": "wzdValveHorizontal_v01",
+    "description": "A wzdValveHorizontal_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

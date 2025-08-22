@@ -3,10 +3,9 @@
     "id": "simple temperature meter",
     "name": "Simple Temperature Meter",
     "description": "A Simple Temperature Meter.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

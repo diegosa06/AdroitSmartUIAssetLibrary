@@ -3,80 +3,72 @@
     "id": "alarm states",
     "name": "Alarm States",
     "description": "A Alarm States.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons 4",
     "name": "Alarm Buttons 4",
     "description": "A Alarm Buttons 4.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons 3",
     "name": "Alarm Buttons 3",
     "description": "A Alarm Buttons 3.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons 2",
     "name": "Alarm Buttons 2",
     "description": "A Alarm Buttons 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm warning",
     "name": "Alarm Warning",
     "description": "A Alarm Warning.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons",
     "name": "Alarm Buttons",
     "description": "A Alarm Buttons.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons 5",
     "name": "Alarm Buttons 5",
     "description": "A Alarm Buttons 5.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm buttons 1",
     "name": "Alarm Buttons 1",
     "description": "A Alarm Buttons 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

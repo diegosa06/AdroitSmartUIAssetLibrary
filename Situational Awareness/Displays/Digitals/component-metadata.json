@@ -1,32 +1,29 @@
 [
   {
     "id": "wzdradio_digitaldisplay_priority3_v01",
-    "name": "wzdRadio DigitalDisplay Priority3 v01",
-    "description": "A wzdRadio DigitalDisplay Priority3 v01.",
+    "name": "wzdRadio_DigitalDisplay_Priority3_v01",
+    "description": "A wzdRadio_DigitalDisplay_Priority3_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzddigitaltextdisplay_nopriority_v01",
-    "name": "wzdDigitalTextDisplay NoPriority v01",
-    "description": "A wzdDigitalTextDisplay NoPriority v01.",
+    "name": "wzdDigitalTextDisplay_NoPriority_v01",
+    "description": "A wzdDigitalTextDisplay_NoPriority_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdradio_digitaldisplay_nopriority_v01",
-    "name": "wzdRadio DigitalDisplay NoPriority v01",
-    "description": "A wzdRadio DigitalDisplay NoPriority v01.",
+    "name": "wzdRadio_DigitalDisplay_NoPriority_v01",
+    "description": "A wzdRadio_DigitalDisplay_NoPriority_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

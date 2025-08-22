@@ -1,62 +1,56 @@
 [
   {
     "id": "wzdanaloguedatalink_sp_priority5_v01",
-    "name": "wzdAnalogueDataLink SP Priority5 v01",
-    "description": "A wzdAnalogueDataLink SP Priority5 v01.",
+    "name": "wzdAnalogueDataLink_SP_Priority5_v01",
+    "description": "A wzdAnalogueDataLink_SP_Priority5_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdanaloguedatalink_priority5_v01",
-    "name": "wzdAnalogueDataLink Priority5 v01",
-    "description": "A wzdAnalogueDataLink Priority5 v01.",
+    "name": "wzdAnalogueDataLink_Priority5_v01",
+    "description": "A wzdAnalogueDataLink_Priority5_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdanaloguedatalink_sp_nopriority_v01",
-    "name": "wzdAnalogueDataLink SP NoPriority v01",
-    "description": "A wzdAnalogueDataLink SP NoPriority v01.",
+    "name": "wzdAnalogueDataLink_SP_NoPriority_v01",
+    "description": "A wzdAnalogueDataLink_SP_NoPriority_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdanaloguedatalink_priority3_v01",
-    "name": "wzdAnalogueDataLink Priority3 v01",
-    "description": "A wzdAnalogueDataLink Priority3 v01.",
+    "name": "wzdAnalogueDataLink_Priority3_v01",
+    "description": "A wzdAnalogueDataLink_Priority3_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdanaloguedatalink_nopriority_v01",
-    "name": "wzdAnalogueDataLink NoPriority v01",
-    "description": "A wzdAnalogueDataLink NoPriority v01.",
+    "name": "wzdAnalogueDataLink_NoPriority_v01",
+    "description": "A wzdAnalogueDataLink_NoPriority_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdanaloguedatalink_sp_priority3_v01",
-    "name": "wzdAnalogueDataLink SP Priority3 v01",
-    "description": "A wzdAnalogueDataLink SP Priority3 v01.",
+    "name": "wzdAnalogueDataLink_SP_Priority3_v01",
+    "description": "A wzdAnalogueDataLink_SP_Priority3_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

@@ -3,6 +3,7 @@
     "id": "compressor1",
     "name": "Compressor1",
     "description": "A Compressor1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "compressor3",
     "name": "Compressor3",
     "description": "A Compressor3.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "tankcompressor",
     "name": "TankCompressor",
     "description": "A TankCompressor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "compressor2",
     "name": "Compressor2",
     "description": "A Compressor2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -3,60 +3,54 @@
     "id": "centrifugal",
     "name": "Centrifugal",
     "description": "A Centrifugal.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "seperator",
     "name": "Seperator",
     "description": "A Seperator.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "clarifier",
     "name": "Clarifier",
     "description": "A Clarifier.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "sieve",
     "name": "Sieve",
     "description": "A Sieve.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "magnetic seperator",
     "name": "Magnetic Seperator",
     "description": "A Magnetic Seperator.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "elutriator",
     "name": "Elutriator",
     "description": "A Elutriator.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

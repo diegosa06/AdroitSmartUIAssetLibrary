@@ -3,6 +3,7 @@
     "id": "valve 10",
     "name": "Valve 10",
     "description": "A Valve 10.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "valve 18",
     "name": "Valve 18",
     "description": "A Valve 18.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "valve 08",
     "name": "Valve 08",
     "description": "A Valve 08.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "valve 28",
     "name": "Valve 28",
     "description": "A Valve 28.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "valve 19",
     "name": "Valve 19",
     "description": "A Valve 19.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -68,6 +73,7 @@
     "id": "valve 09",
     "name": "Valve 09",
     "description": "A Valve 09.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -81,6 +87,7 @@
     "id": "valve 29",
     "name": "Valve 29",
     "description": "A Valve 29.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -94,6 +101,7 @@
     "id": "valve 16",
     "name": "Valve 16",
     "description": "A Valve 16.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -107,6 +115,7 @@
     "id": "valve 06",
     "name": "Valve 06",
     "description": "A Valve 06.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -120,6 +129,7 @@
     "id": "valve 26",
     "name": "Valve 26",
     "description": "A Valve 26.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -133,6 +143,7 @@
     "id": "valve 17",
     "name": "Valve 17",
     "description": "A Valve 17.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -146,6 +157,7 @@
     "id": "valve 07",
     "name": "Valve 07",
     "description": "A Valve 07.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -159,6 +171,7 @@
     "id": "valve 27",
     "name": "Valve 27",
     "description": "A Valve 27.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -172,6 +185,7 @@
     "id": "valve 14",
     "name": "Valve 14",
     "description": "A Valve 14.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -185,6 +199,7 @@
     "id": "valve 04",
     "name": "Valve 04",
     "description": "A Valve 04.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -198,6 +213,7 @@
     "id": "valve 24",
     "name": "Valve 24",
     "description": "A Valve 24.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -211,6 +227,7 @@
     "id": "valve 13",
     "name": "Valve 13",
     "description": "A Valve 13.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -224,6 +241,7 @@
     "id": "valve 25",
     "name": "Valve 25",
     "description": "A Valve 25.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -237,6 +255,7 @@
     "id": "valve 05",
     "name": "Valve 05",
     "description": "A Valve 05.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -250,6 +269,7 @@
     "id": "valve 15",
     "name": "Valve 15",
     "description": "A Valve 15.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -263,6 +283,7 @@
     "id": "valve 12",
     "name": "Valve 12",
     "description": "A Valve 12.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -276,6 +297,7 @@
     "id": "valve 02",
     "name": "Valve 02",
     "description": "A Valve 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -289,6 +311,7 @@
     "id": "valve 22",
     "name": "Valve 22",
     "description": "A Valve 22.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -302,6 +325,7 @@
     "id": "valve 03",
     "name": "Valve 03",
     "description": "A Valve 03.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -315,6 +339,7 @@
     "id": "valve 23",
     "name": "Valve 23",
     "description": "A Valve 23.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -328,6 +353,7 @@
     "id": "valve 30",
     "name": "Valve 30",
     "description": "A Valve 30.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -341,6 +367,7 @@
     "id": "valve 20",
     "name": "Valve 20",
     "description": "A Valve 20.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -354,6 +381,7 @@
     "id": "valve 11",
     "name": "Valve 11",
     "description": "A Valve 11.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -367,6 +395,7 @@
     "id": "valve 01",
     "name": "Valve 01",
     "description": "A Valve 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -380,6 +409,7 @@
     "id": "valve 31",
     "name": "Valve 31",
     "description": "A Valve 31.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -393,6 +423,7 @@
     "id": "valve 21",
     "name": "Valve 21",
     "description": "A Valve 21.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

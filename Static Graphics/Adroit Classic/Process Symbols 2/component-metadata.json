@@ -3,86 +3,88 @@
     "id": "seperator cement",
     "name": "Seperator Cement",
     "description": "A Seperator Cement.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "dust collection",
     "name": "Dust Collection",
     "description": "A Dust Collection.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "sluice",
     "name": "Sluice",
     "description": "A Sluice.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "preheater",
     "name": "Preheater",
     "description": "A Preheater.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "air slides",
     "name": "Air Slides",
     "description": "A Air Slides.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "gates",
     "name": "Gates",
     "description": "A Gates.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "electro filter",
     "name": "Electro Filter",
     "description": "A Electro Filter.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mixers",
     "name": "Mixers",
     "description": "A Mixers.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
+  },
+  {
+    "id": "bins and hoppers",
+    "name": "Bins and Hoppers",
+    "description": "A Bins and Hoppers.",
+    "fileType": "viz",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": []
   },
   {
     "id": "pumps",
     "name": "Pumps",
     "description": "A Pumps.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -96,16 +98,16 @@
     "id": "weighers",
     "name": "Weighers",
     "description": "A Weighers.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fan",
     "name": "Fan",
     "description": "A Fan.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -113,16 +115,6 @@
       "Airflow",
       "Ventilation",
       "HVAC"
-    ]
-  },
-  {
-    "id": "bins and hoppers",
-    "name": "Bins and Hoppers",
-    "description": "A Bins and Hoppers.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Automation"
     ]
   }
 ]

@@ -3,16 +3,16 @@
     "id": "gradient filled shapes",
     "name": "Gradient Filled Shapes",
     "description": "A Gradient Filled Shapes.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "motors",
     "name": "Motors",
     "description": "A Motors.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -26,6 +26,7 @@
     "id": "vessels and seperators",
     "name": "Vessels and Seperators",
     "description": "A Vessels and Seperators.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -39,36 +40,34 @@
     "id": "heat exchangers",
     "name": "Heat Exchangers",
     "description": "A Heat Exchangers.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "actuators",
     "name": "Actuators",
     "description": "A Actuators.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "strainers",
     "name": "Strainers",
     "description": "A Strainers.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "pipework ",
     "name": "Pipework ",
     "description": "A Pipework .",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -82,6 +81,7 @@
     "id": "mills and crushers",
     "name": "Mills and Crushers",
     "description": "A Mills and Crushers.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -95,6 +95,7 @@
     "id": "pumps and fans",
     "name": "Pumps and Fans",
     "description": "A Pumps and Fans.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -108,6 +109,7 @@
     "id": "conveyors simple",
     "name": "Conveyors Simple",
     "description": "A Conveyors Simple.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -121,16 +123,16 @@
     "id": "instruments",
     "name": "Instruments",
     "description": "A Instruments.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "valves ",
     "name": "Valves ",
     "description": "A Valves .",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -144,10 +146,9 @@
     "id": "material handling ",
     "name": "Material Handling ",
     "description": "A Material Handling .",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

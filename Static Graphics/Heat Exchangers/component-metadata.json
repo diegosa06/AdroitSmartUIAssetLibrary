@@ -3,60 +3,54 @@
     "id": "heat exchanger 04",
     "name": "Heat Exchanger 04",
     "description": "A Heat Exchanger 04.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger 06",
     "name": "Heat Exchanger 06",
     "description": "A Heat Exchanger 06.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger 03",
     "name": "Heat Exchanger 03",
     "description": "A Heat Exchanger 03.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger 05",
     "name": "Heat Exchanger 05",
     "description": "A Heat Exchanger 05.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger 01",
     "name": "Heat Exchanger 01",
     "description": "A Heat Exchanger 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger 02",
     "name": "Heat Exchanger 02",
     "description": "A Heat Exchanger 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

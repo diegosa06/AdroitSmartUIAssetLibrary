@@ -3,6 +3,7 @@
     "id": "water reservoir tank 1",
     "name": "Water Reservoir Tank 1",
     "description": "A Water Reservoir Tank 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "water tower tank 2",
     "name": "Water Tower Tank 2",
     "description": "A Water Tower Tank 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "water tower tank 3",
     "name": "Water Tower Tank 3",
     "description": "A Water Tower Tank 3.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,16 +45,16 @@
     "id": "reservoir dam wall",
     "name": "Reservoir Dam Wall",
     "description": "A Reservoir Dam Wall.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "water tower tank 4",
     "name": "Water Tower Tank 4",
     "description": "A Water Tower Tank 4.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -65,26 +68,25 @@
     "id": "reservoir round dam",
     "name": "Reservoir Round Dam",
     "description": "A Reservoir Round Dam.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "reservoir dam",
     "name": "Reservoir Dam",
     "description": "A Reservoir Dam.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "water reservoir tank 2",
     "name": "Water Reservoir Tank 2",
     "description": "A Water Reservoir Tank 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -98,6 +100,7 @@
     "id": "water tower tank 1",
     "name": "Water Tower Tank 1",
     "description": "A Water Tower Tank 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

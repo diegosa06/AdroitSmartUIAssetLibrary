@@ -3,16 +3,16 @@
     "id": "cement bag palletizer",
     "name": "Cement Bag Palletizer",
     "description": "A Cement Bag Palletizer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "screw conveyor left",
     "name": "Screw Conveyor Left",
     "description": "A Screw Conveyor Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -26,16 +26,16 @@
     "id": "coal tippler",
     "name": "Coal Tippler",
     "description": "A Coal Tippler.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "bucket conveyor head pulley",
     "name": "Bucket Conveyor Head Pulley",
     "description": "A Bucket Conveyor Head Pulley.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -49,26 +49,25 @@
     "id": "vertical cyclone",
     "name": "Vertical Cyclone",
     "description": "A Vertical Cyclone.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "weigh feeder",
     "name": "Weigh Feeder",
     "description": "A Weigh Feeder.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "screw conveyor right",
     "name": "Screw Conveyor Right",
     "description": "A Screw Conveyor Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -82,70 +81,63 @@
     "id": "kiln",
     "name": "Kiln",
     "description": "A Kiln.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mine truck",
     "name": "Mine Truck",
     "description": "A Mine Truck.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "preheater",
     "name": "Preheater",
     "description": "A Preheater.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "electro filter",
     "name": "Electro Filter",
     "description": "A Electro Filter.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "circular reclaimer",
     "name": "Circular Reclaimer",
     "description": "A Circular Reclaimer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "short base kiln",
     "name": "Short Base Kiln",
     "description": "A Short Base Kiln.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "stacker",
     "name": "Stacker",
     "description": "A Stacker.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

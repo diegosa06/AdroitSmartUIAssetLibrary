@@ -3,6 +3,7 @@
     "id": "scale 2",
     "name": "Scale 2",
     "description": "A Scale 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "scale 1",
     "name": "Scale 1",
     "description": "A Scale 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -1,22 +1,20 @@
 [
   {
     "id": "wzddigitaldatalink_priority3_v01",
-    "name": "wzdDigitalDataLink Priority3 v01",
-    "description": "A wzdDigitalDataLink Priority3 v01.",
+    "name": "wzdDigitalDataLink_Priority3_v01",
+    "description": "A wzdDigitalDataLink_Priority3_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzddigitaldatalink_nopriority_v01",
-    "name": "wzdDigitalDataLink NoPriority v01",
-    "description": "A wzdDigitalDataLink NoPriority v01.",
+    "name": "wzdDigitalDataLink_NoPriority_v01",
+    "description": "A wzdDigitalDataLink_NoPriority_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

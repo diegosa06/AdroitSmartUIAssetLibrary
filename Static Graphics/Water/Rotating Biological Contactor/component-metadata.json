@@ -3,20 +3,18 @@
     "id": "rbc unit left intake",
     "name": "RBC Unit Left Intake",
     "description": "A RBC Unit Left Intake.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rbc unit right intake",
     "name": "RBC Unit Right Intake",
     "description": "A RBC Unit Right Intake.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

@@ -3,6 +3,7 @@
     "id": "electric motor 1",
     "name": "Electric Motor 1",
     "description": "A Electric Motor 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "electric motor 2",
     "name": "Electric Motor 2",
     "description": "A Electric Motor 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "drive",
     "name": "Drive",
     "description": "A Drive.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

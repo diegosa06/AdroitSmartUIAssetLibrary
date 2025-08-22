@@ -3,20 +3,18 @@
     "id": "marshal faceplate template read only",
     "name": "Marshal Faceplate Template Read Only",
     "description": "A Marshal Faceplate Template Read Only.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "marshal faceplate template read write",
     "name": "Marshal Faceplate Template Read Write",
     "description": "A Marshal Faceplate Template Read Write.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

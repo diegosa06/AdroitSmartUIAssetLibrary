@@ -3,6 +3,7 @@
     "id": "switch",
     "name": "Switch",
     "description": "A Switch.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,28 +15,27 @@
   },
   {
     "id": "server_vertical",
-    "name": "Server Vertical",
-    "description": "A Server Vertical.",
+    "name": "Server_Vertical",
+    "description": "A Server_Vertical.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "db",
     "name": "DB",
     "description": "A DB.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "serverswitchtouchdesktop",
     "name": "ServerSwitchTouchDesktop",
     "description": "A ServerSwitchTouchDesktop.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -49,6 +49,7 @@
     "id": "plc",
     "name": "PLC",
     "description": "A PLC.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -62,30 +63,27 @@
     "id": "touch",
     "name": "Touch",
     "description": "A Touch.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "server_horizontal",
-    "name": "Server Horizontal",
-    "description": "A Server Horizontal.",
+    "name": "Server_Horizontal",
+    "description": "A Server_Horizontal.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "desktop",
     "name": "Desktop",
     "description": "A Desktop.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

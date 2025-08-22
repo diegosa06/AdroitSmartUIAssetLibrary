@@ -1,82 +1,74 @@
 [
   {
     "id": "fx5u-64m_template",
-    "name": "FX5U-64M Template",
-    "description": "A FX5U-64M Template.",
+    "name": "FX5U-64M_Template",
+    "description": "A FX5U-64M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5u-80m_template",
-    "name": "FX5U-80M Template",
-    "description": "A FX5U-80M Template.",
+    "name": "FX5U-80M_Template",
+    "description": "A FX5U-80M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5uc-96m_template",
-    "name": "FX5UC-96M Template",
-    "description": "A FX5UC-96M Template.",
+    "name": "FX5UC-96M_Template",
+    "description": "A FX5UC-96M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5uc-32m_template",
-    "name": "FX5UC-32M Template",
-    "description": "A FX5UC-32M Template.",
+    "name": "FX5UC-32M_Template",
+    "description": "A FX5UC-32M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5u-32m_template",
-    "name": "FX5U-32M Template",
-    "description": "A FX5U-32M Template.",
+    "name": "FX5U-32M_Template",
+    "description": "A FX5U-32M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5-80ssc_template",
-    "name": "FX5-80SSC Template",
-    "description": "A FX5-80SSC Template.",
+    "name": "FX5-80SSC_Template",
+    "description": "A FX5-80SSC_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5uc-64m_template",
-    "name": "FX5UC-64M Template",
-    "description": "A FX5UC-64M Template.",
+    "name": "FX5UC-64M_Template",
+    "description": "A FX5UC-64M_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fx5-cclief_template",
-    "name": "FX5-CCLIEF Template",
-    "description": "A FX5-CCLIEF Template.",
+    "name": "FX5-CCLIEF_Template",
+    "description": "A FX5-CCLIEF_Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

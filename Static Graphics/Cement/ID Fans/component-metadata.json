@@ -3,6 +3,7 @@
     "id": "id fan up",
     "name": "ID Fan Up",
     "description": "A ID Fan Up.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "id fan left",
     "name": "ID Fan Left",
     "description": "A ID Fan Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "id fan down",
     "name": "ID Fan Down",
     "description": "A ID Fan Down.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "id fan right",
     "name": "ID Fan Right",
     "description": "A ID Fan Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

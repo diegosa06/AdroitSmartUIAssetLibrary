@@ -3,30 +3,27 @@
     "id": "analog half dial 1",
     "name": "Analog Half Dial 1",
     "description": "A Analog Half Dial 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "analog half dial 3",
     "name": "Analog Half Dial 3",
     "description": "A Analog Half Dial 3.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "analog half dial 2",
     "name": "Analog Half Dial 2",
     "description": "A Analog Half Dial 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

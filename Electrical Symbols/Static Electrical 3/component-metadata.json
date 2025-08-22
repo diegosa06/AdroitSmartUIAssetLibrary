@@ -3,6 +3,7 @@
     "id": "sp toggle switch nc",
     "name": "SP Toggle Switch NC",
     "description": "A SP Toggle Switch NC.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,76 +17,70 @@
     "id": "mu symbol",
     "name": "MU Symbol",
     "description": "A MU Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "microphone_jack",
-    "name": "Microphone Jack",
-    "description": "A Microphone Jack.",
+    "name": "Microphone_Jack",
+    "description": "A Microphone_Jack.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "photovoltaic cell",
     "name": "Photovoltaic Cell",
     "description": "A Photovoltaic Cell.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "polled receptacle",
     "name": "Polled Receptacle",
     "description": "A Polled Receptacle.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "photovoltaic cell filled",
     "name": "Photovoltaic Cell Filled",
     "description": "A Photovoltaic Cell Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "coax_jack",
-    "name": "Coax Jack",
-    "description": "A Coax Jack.",
+    "name": "Coax_Jack",
+    "description": "A Coax_Jack.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alpha symbol",
     "name": "Alpha Symbol",
     "description": "A Alpha Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fuse",
     "name": "Fuse",
     "description": "A Fuse.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -99,6 +94,7 @@
     "id": "thermal switch",
     "name": "Thermal Switch",
     "description": "A Thermal Switch.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -112,96 +108,88 @@
     "id": "pi symbol",
     "name": "Pi Symbol",
     "description": "A Pi Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "antenna",
     "name": "Antenna",
     "description": "A Antenna.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "ohm symbol",
     "name": "Ohm Symbol",
     "description": "A Ohm Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "battery",
     "name": "Battery",
     "description": "A Battery.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "electret",
     "name": "Electret",
     "description": "A Electret.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "crystal",
     "name": "Crystal",
     "description": "A Crystal.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "epsilon symbol",
     "name": "Epsilon Symbol",
     "description": "A Epsilon Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "ac receptacle",
     "name": "AC Receptacle",
     "description": "A AC Receptacle.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "crystal transducer",
     "name": "Crystal Transducer",
     "description": "A Crystal Transducer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "sp toggle switch no",
     "name": "SP Toggle Switch NO",
     "description": "A SP Toggle Switch NO.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -215,50 +203,45 @@
     "id": "polled receptacle filled",
     "name": "Polled Receptacle Filled",
     "description": "A Polled Receptacle Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "delta symbol",
     "name": "Delta Symbol",
     "description": "A Delta Symbol.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rheostat",
     "name": "Rheostat",
     "description": "A Rheostat.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "meter",
     "name": "Meter",
     "description": "A Meter.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "ac receptacle filled",
     "name": "AC Receptacle Filled",
     "description": "A AC Receptacle Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

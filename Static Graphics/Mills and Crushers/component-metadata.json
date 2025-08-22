@@ -3,6 +3,7 @@
     "id": "crusher 01",
     "name": "Crusher 01",
     "description": "A Crusher 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "mill 01",
     "name": "Mill 01",
     "description": "A Mill 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "mill 02",
     "name": "Mill 02",
     "description": "A Mill 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "mobile crusher",
     "name": "Mobile Crusher",
     "description": "A Mobile Crusher.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "crusher 02",
     "name": "Crusher 02",
     "description": "A Crusher 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

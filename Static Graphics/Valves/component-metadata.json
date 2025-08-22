@@ -1,8 +1,23 @@
 [
   {
+    "id": "manual valve top",
+    "name": "Manual Valve Top",
+    "description": "A Manual Valve Top.",
+    "fileType": "viz",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": [
+      "Valve",
+      "Flow Control",
+      "Actuator",
+      "Water"
+    ]
+  },
+  {
     "id": "simple manual valve",
     "name": "Simple Manual Valve",
     "description": "A Simple Manual Valve.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +31,7 @@
     "id": "manual valve angle left",
     "name": "Manual Valve Angle Left",
     "description": "A Manual Valve Angle Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +45,7 @@
     "id": "blue solenoid valve",
     "name": "Blue Solenoid Valve",
     "description": "A Blue Solenoid Valve.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +59,7 @@
     "id": "manual valve angle right",
     "name": "Manual Valve Angle Right",
     "description": "A Manual Valve Angle Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +73,7 @@
     "id": "blue motorised valve",
     "name": "Blue Motorised Valve",
     "description": "A Blue Motorised Valve.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -68,19 +87,7 @@
     "id": "manual valve side",
     "name": "Manual Valve Side",
     "description": "A Manual Valve Side.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Valve",
-      "Flow Control",
-      "Actuator",
-      "Water"
-    ]
-  },
-  {
-    "id": "manual valve top",
-    "name": "Manual Valve Top",
-    "description": "A Manual Valve Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

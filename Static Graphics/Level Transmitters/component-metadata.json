@@ -3,40 +3,36 @@
     "id": "chrome ultra sonic level small",
     "name": "Chrome Ultra Sonic Level Small",
     "description": "A Chrome Ultra Sonic Level Small.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue ultra sonic level small",
     "name": "Blue Ultra Sonic Level Small",
     "description": "A Blue Ultra Sonic Level Small.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue ultra sonic level large",
     "name": "Blue Ultra Sonic Level Large",
     "description": "A Blue Ultra Sonic Level Large.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome ultra sonic level large",
     "name": "Chrome Ultra Sonic Level Large",
     "description": "A Chrome Ultra Sonic Level Large.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

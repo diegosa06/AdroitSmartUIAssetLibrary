@@ -3,60 +3,54 @@
     "id": "blue turbidity meter top",
     "name": "Blue Turbidity Meter Top",
     "description": "A Blue Turbidity Meter Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "blue turbidity meter left",
-    "name": "Blue Turbidity Meter Left",
-    "description": "A Blue Turbidity Meter Left.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "blue turbidity meter right",
     "name": "Blue Turbidity Meter Right",
     "description": "A Blue Turbidity Meter Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome turbidity meter right",
     "name": "Chrome Turbidity Meter Right",
     "description": "A Chrome Turbidity Meter Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome turbidity meter left",
     "name": "Chrome Turbidity Meter Left",
     "description": "A Chrome Turbidity Meter Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "chrome turbidity meter top",
     "name": "Chrome Turbidity Meter Top",
     "description": "A Chrome Turbidity Meter Top.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
+  },
+  {
+    "id": "blue turbidity meter left",
+    "name": "Blue Turbidity Meter Left",
+    "description": "A Blue Turbidity Meter Left.",
+    "fileType": "viz",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": []
   }
 ]

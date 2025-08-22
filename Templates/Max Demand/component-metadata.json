@@ -3,20 +3,18 @@
     "id": "max demand time schedule",
     "name": "Max Demand Time Schedule",
     "description": "A Max Demand Time Schedule.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "max demand faceplate template",
     "name": "Max Demand Faceplate Template",
     "description": "A Max Demand Faceplate Template.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

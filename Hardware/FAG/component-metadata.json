@@ -3,20 +3,18 @@
     "id": "wzdwsfag",
     "name": "wzdWSFAG",
     "description": "A wzdWSFAG.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "wzdfag",
     "name": "wzdFAG",
     "description": "A wzdFAG.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

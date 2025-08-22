@@ -3,6 +3,7 @@
     "id": "pulley",
     "name": "Pulley",
     "description": "A Pulley.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "belt",
     "name": "Belt",
     "description": "A Belt.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -3,20 +3,18 @@
     "id": "fx5cpu",
     "name": "FX5CPU",
     "description": "A FX5CPU.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "q03udvcpu",
     "name": "Q03UDVCPU",
     "description": "A Q03UDVCPU.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

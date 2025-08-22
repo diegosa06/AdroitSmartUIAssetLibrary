@@ -3,90 +3,81 @@
     "id": "boiler",
     "name": "Boiler",
     "description": "A Boiler.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "condenser",
     "name": "Condenser",
     "description": "A Condenser.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger",
     "name": "Heat Exchanger",
     "description": "A Heat Exchanger.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger tube",
     "name": "Heat Exchanger Tube",
     "description": "A Heat Exchanger Tube.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "fired heater",
     "name": "Fired Heater",
     "description": "A Fired Heater.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "cooling tower",
     "name": "Cooling Tower",
     "description": "A Cooling Tower.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger plates",
     "name": "Heat Exchanger Plates",
     "description": "A Heat Exchanger Plates.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "air cooler",
     "name": "Air Cooler",
     "description": "A Air Cooler.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "heat exchanger lines",
     "name": "Heat Exchanger Lines",
     "description": "A Heat Exchanger Lines.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

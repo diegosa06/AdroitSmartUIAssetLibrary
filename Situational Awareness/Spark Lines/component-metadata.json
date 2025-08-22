@@ -1,12 +1,11 @@
 [
   {
     "id": "wzdsparkline_v01",
-    "name": "wzdSparkLine v01",
-    "description": "A wzdSparkLine v01.",
+    "name": "wzdSparkLine_v01",
+    "description": "A wzdSparkLine_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

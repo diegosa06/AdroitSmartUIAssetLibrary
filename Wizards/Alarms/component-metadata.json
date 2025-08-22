@@ -3,20 +3,18 @@
     "id": "alarm indication 1",
     "name": "Alarm Indication 1",
     "description": "A Alarm Indication 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm indication 2",
     "name": "Alarm Indication 2",
     "description": "A Alarm Indication 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

@@ -1,92 +1,83 @@
 [
   {
     "id": "qnudvcpu_wizard",
-    "name": "QNUDVCPU Wizard",
-    "description": "A QNUDVCPU Wizard.",
+    "name": "QNUDVCPU_Wizard",
+    "description": "A QNUDVCPU_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "qy80_wizard",
-    "name": "QY80 Wizard",
-    "description": "A QY80 Wizard.",
+    "name": "QY80_Wizard",
+    "description": "A QY80_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "q64ad_wizard",
-    "name": "Q64AD Wizard",
-    "description": "A Q64AD Wizard.",
+    "name": "Q64AD_Wizard",
+    "description": "A Q64AD_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "q6xp_wizard",
-    "name": "Q6XP Wizard",
-    "description": "A Q6XP Wizard.",
+    "name": "Q6XP_Wizard",
+    "description": "A Q6XP_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "q64da_wizard",
-    "name": "Q64DA Wizard",
-    "description": "A Q64DA Wizard.",
+    "name": "Q64DA_Wizard",
+    "description": "A Q64DA_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "qj71e71_wizard",
-    "name": "QJ71E71 Wizard",
-    "description": "A QJ71E71 Wizard.",
+    "name": "QJ71E71_Wizard",
+    "description": "A QJ71E71_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "qx80_wizard",
-    "name": "QX80 Wizard",
-    "description": "A QX80 Wizard.",
+    "name": "QX80_Wizard",
+    "description": "A QX80_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "qy81p_wizard",
-    "name": "QY81P Wizard",
-    "description": "A QY81P Wizard.",
+    "name": "QY81P_Wizard",
+    "description": "A QY81P_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "qx81_wizard",
-    "name": "QX81 Wizard",
-    "description": "A QX81 Wizard.",
+    "name": "QX81_Wizard",
+    "description": "A QX81_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

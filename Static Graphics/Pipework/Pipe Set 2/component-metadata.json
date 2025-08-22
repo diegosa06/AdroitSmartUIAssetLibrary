@@ -1,8 +1,9 @@
 [
   {
     "id": "pipe_set_2_flange_horizontal",
-    "name": "Pipe Set 2 Flange Horizontal",
-    "description": "A Pipe Set 2 Flange Horizontal.",
+    "name": "Pipe_Set_2_Flange_Horizontal",
+    "description": "A Pipe_Set_2_Flange_Horizontal.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +15,9 @@
   },
   {
     "id": "pipe_set_2_left_t",
-    "name": "Pipe Set 2 Left T",
-    "description": "A Pipe Set 2 Left T.",
+    "name": "Pipe_Set_2_Left_T",
+    "description": "A Pipe_Set_2_Left_T.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -27,8 +29,9 @@
   },
   {
     "id": "pipe_set_2_top_t",
-    "name": "Pipe Set 2 Top T",
-    "description": "A Pipe Set 2 Top T.",
+    "name": "Pipe_Set_2_Top_T",
+    "description": "A Pipe_Set_2_Top_T.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -40,8 +43,9 @@
   },
   {
     "id": "pipe_set_2_flange_vertical",
-    "name": "Pipe Set 2 Flange Vertical",
-    "description": "A Pipe Set 2 Flange Vertical.",
+    "name": "Pipe_Set_2_Flange_Vertical",
+    "description": "A Pipe_Set_2_Flange_Vertical.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -53,8 +57,9 @@
   },
   {
     "id": "pipe_set_2_right_top_corner",
-    "name": "Pipe Set 2 Right Top Corner",
-    "description": "A Pipe Set 2 Right Top Corner.",
+    "name": "Pipe_Set_2_Right_Top_Corner",
+    "description": "A Pipe_Set_2_Right_Top_Corner.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -66,8 +71,9 @@
   },
   {
     "id": "pipe_set_2_right_bottom_corner",
-    "name": "Pipe Set 2 Right Bottom Corner",
-    "description": "A Pipe Set 2 Right Bottom Corner.",
+    "name": "Pipe_Set_2_Right_Bottom_Corner",
+    "description": "A Pipe_Set_2_Right_Bottom_Corner.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -79,8 +85,9 @@
   },
   {
     "id": "pipe_set_2_left_top_corner",
-    "name": "Pipe Set 2 Left Top Corner",
-    "description": "A Pipe Set 2 Left Top Corner.",
+    "name": "Pipe_Set_2_Left_Top_Corner",
+    "description": "A Pipe_Set_2_Left_Top_Corner.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -92,8 +99,9 @@
   },
   {
     "id": "pipe_set_2_bottom_t",
-    "name": "Pipe Set 2 Bottom T",
-    "description": "A Pipe Set 2 Bottom T.",
+    "name": "Pipe_Set_2_Bottom_T",
+    "description": "A Pipe_Set_2_Bottom_T.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -105,8 +113,9 @@
   },
   {
     "id": "pipe_set_2_horizontal",
-    "name": "Pipe Set 2 Horizontal",
-    "description": "A Pipe Set 2 Horizontal.",
+    "name": "Pipe_Set_2_Horizontal",
+    "description": "A Pipe_Set_2_Horizontal.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -118,8 +127,9 @@
   },
   {
     "id": "pipe_set_2_left_bottom_corner",
-    "name": "Pipe Set 2 Left Bottom Corner",
-    "description": "A Pipe Set 2 Left Bottom Corner.",
+    "name": "Pipe_Set_2_Left_Bottom_Corner",
+    "description": "A Pipe_Set_2_Left_Bottom_Corner.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -131,8 +141,9 @@
   },
   {
     "id": "pipe_set_2_vertical",
-    "name": "Pipe Set 2 Vertical",
-    "description": "A Pipe Set 2 Vertical.",
+    "name": "Pipe_Set_2_Vertical",
+    "description": "A Pipe_Set_2_Vertical.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -144,8 +155,9 @@
   },
   {
     "id": "pipe_set_2_right_t",
-    "name": "Pipe Set 2 Right T",
-    "description": "A Pipe Set 2 Right T.",
+    "name": "Pipe_Set_2_Right_T",
+    "description": "A Pipe_Set_2_Right_T.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

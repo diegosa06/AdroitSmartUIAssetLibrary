@@ -3,6 +3,7 @@
     "id": "simple motor start-stop",
     "name": "Simple Motor start-stop",
     "description": "A Simple Motor start-stop.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "chrome horizontal mounted motor",
     "name": "Chrome Horizontal Mounted Motor",
     "description": "A Chrome Horizontal Mounted Motor.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "chrome horizontal flange motor",
     "name": "Chrome Horizontal Flange Motor",
     "description": "A Chrome Horizontal Flange Motor.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "chrome vertical flange motor",
     "name": "Chrome Vertical Flange Motor",
     "description": "A Chrome Vertical Flange Motor.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "simple motor on off",
     "name": "Simple Motor On Off",
     "description": "A Simple Motor On Off.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

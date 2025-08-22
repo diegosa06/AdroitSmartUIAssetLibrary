@@ -3,6 +3,7 @@
     "id": "screw conveyor motor left",
     "name": "Screw Conveyor Motor Left",
     "description": "A Screw Conveyor Motor Left.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "screw conveyor motor right",
     "name": "Screw Conveyor Motor Right",
     "description": "A Screw Conveyor Motor Right.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

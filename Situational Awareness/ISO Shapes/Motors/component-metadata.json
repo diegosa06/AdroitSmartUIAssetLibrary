@@ -1,8 +1,9 @@
 [
   {
     "id": "wzdmotorhorizontal_v01",
-    "name": "wzdMotorHorizontal v01",
-    "description": "A wzdMotorHorizontal v01.",
+    "name": "wzdMotorHorizontal_v01",
+    "description": "A wzdMotorHorizontal_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +15,9 @@
   },
   {
     "id": "wzdmotorvertical_v01",
-    "name": "wzdMotorVertical v01",
-    "description": "A wzdMotorVertical v01.",
+    "name": "wzdMotorVertical_v01",
+    "description": "A wzdMotorVertical_v01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

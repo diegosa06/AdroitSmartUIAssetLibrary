@@ -3,16 +3,16 @@
     "id": "neon lamp",
     "name": "Neon Lamp",
     "description": "A Neon Lamp.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "spdt toggle switch",
     "name": "SPDT Toggle Switch",
     "description": "A SPDT Toggle Switch.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -26,16 +26,16 @@
     "id": "variable capacitor",
     "name": "Variable Capacitor",
     "description": "A Variable Capacitor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "transformer",
     "name": "Transformer",
     "description": "A Transformer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -49,36 +49,34 @@
     "id": "circuit breaker",
     "name": "Circuit Breaker",
     "description": "A Circuit Breaker.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "electrostatic speaker",
     "name": "Electrostatic Speaker",
     "description": "A Electrostatic Speaker.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "sp momentary nc",
     "name": "SP Momentary NC",
     "description": "A SP Momentary NC.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "motor",
     "name": "Motor",
     "description": "A Motor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -92,16 +90,16 @@
     "id": "inductor",
     "name": "Inductor",
     "description": "A Inductor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "photo resistor filled",
     "name": "Photo Resistor Filled",
     "description": "A Photo Resistor Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -115,6 +113,7 @@
     "id": "momentary switch 2-ckt",
     "name": "Momentary Switch 2-Ckt",
     "description": "A Momentary Switch 2-Ckt.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -128,46 +127,43 @@
     "id": "ac generator",
     "name": "AC Generator",
     "description": "A AC Generator.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "lamp 1",
     "name": "Lamp 1",
     "description": "A Lamp 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "lamp 2",
     "name": "Lamp 2",
     "description": "A Lamp 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "lamp 3",
     "name": "Lamp 3",
     "description": "A Lamp 3.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "photo resistor",
     "name": "Photo Resistor",
     "description": "A Photo Resistor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -181,16 +177,16 @@
     "id": "polled capacitor",
     "name": "Polled Capacitor",
     "description": "A Polled Capacitor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "momentary switch nc",
     "name": "Momentary Switch NC",
     "description": "A Momentary Switch NC.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -204,6 +200,7 @@
     "id": "if transformer",
     "name": "IF Transformer",
     "description": "A IF Transformer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -217,16 +214,16 @@
     "id": "closed contactor",
     "name": "Closed Contactor",
     "description": "A Closed Contactor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "variable resistor",
     "name": "Variable Resistor",
     "description": "A Variable Resistor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -240,16 +237,16 @@
     "id": "variable capacitor filled",
     "name": "Variable Capacitor Filled",
     "description": "A Variable Capacitor Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "coil transformer",
     "name": "Coil Transformer",
     "description": "A Coil Transformer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -263,6 +260,7 @@
     "id": "momentary switch no",
     "name": "Momentary Switch NO",
     "description": "A Momentary Switch NO.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -276,46 +274,43 @@
     "id": "open contactor",
     "name": "Open Contactor",
     "description": "A Open Contactor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "capacitor",
     "name": "Capacitor",
     "description": "A Capacitor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "speaker",
     "name": "Speaker",
     "description": "A Speaker.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "dc generator",
     "name": "DC Generator",
     "description": "A DC Generator.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "variable resistor filled",
     "name": "Variable Resistor Filled",
     "description": "A Variable Resistor Filled.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -329,10 +324,9 @@
     "id": "sp momentary no",
     "name": "SP Momentary NO",
     "description": "A SP Momentary NO.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

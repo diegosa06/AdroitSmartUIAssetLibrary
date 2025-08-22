@@ -3,6 +3,7 @@
     "id": "compressor",
     "name": "Compressor",
     "description": "A Compressor.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,46 +17,43 @@
     "id": "rotary comp",
     "name": "Rotary Comp",
     "description": "A Rotary Comp.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "selectable comp 3",
     "name": "Selectable Comp 3",
     "description": "A Selectable Comp 3.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "selectable comp 2",
     "name": "Selectable Comp 2",
     "description": "A Selectable Comp 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "selectable comp 1",
     "name": "Selectable Comp 1",
     "description": "A Selectable Comp 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "reciprocating pump comp",
     "name": "Reciprocating Pump Comp",
     "description": "A Reciprocating Pump Comp.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -3,10 +3,9 @@
     "id": "isa shapes",
     "name": "ISA Shapes",
     "description": "A ISA Shapes.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

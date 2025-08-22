@@ -1,222 +1,200 @@
 [
   {
     "id": "ry40_wizard",
-    "name": "RY40 Wizard",
-    "description": "A RY40 Wizard.",
+    "name": "RY40_Wizard",
+    "description": "A RY40_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r60td8-g_wizard",
-    "name": "R60TD8-G Wizard",
-    "description": "A R60TD8-G Wizard.",
+    "name": "R60TD8-G_Wizard",
+    "description": "A R60TD8-G_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r60ad4_wizard",
-    "name": "R60AD4 Wizard",
-    "description": "A R60AD4 Wizard.",
+    "name": "R60AD4_Wizard",
+    "description": "A R60AD4_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "ry41_wizard",
-    "name": "RY41 Wizard",
-    "description": "A RY41 Wizard.",
+    "name": "RY41_Wizard",
+    "description": "A RY41_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rx40_wizard",
-    "name": "RX40 Wizard",
-    "description": "A RX40 Wizard.",
+    "name": "RX40_Wizard",
+    "description": "A RX40_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rd81opc96_wizard",
-    "name": "RD81OPC96 Wizard",
-    "description": "A RD81OPC96 Wizard.",
+    "name": "RD81OPC96_Wizard",
+    "description": "A RD81OPC96_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj71c24_wizard",
-    "name": "RJ71C24 Wizard",
-    "description": "A RJ71C24 Wizard.",
+    "name": "RJ71C24_Wizard",
+    "description": "A RJ71C24_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj61bt11_wizard",
-    "name": "RJ61BT11 Wizard",
-    "description": "A RJ61BT11 Wizard.",
+    "name": "RJ61BT11_Wizard",
+    "description": "A RJ61BT11_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj72gf15-t2_wizard",
-    "name": "RJ72GF15-T2 Wizard",
-    "description": "A RJ72GF15-T2 Wizard.",
+    "name": "RJ72GF15-T2_Wizard",
+    "description": "A RJ72GF15-T2_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rx41_wizard",
-    "name": "RX41 Wizard",
-    "description": "A RX41 Wizard.",
+    "name": "RX41_Wizard",
+    "description": "A RX41_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r60adi8_wizard",
-    "name": "R60ADI8 Wizard",
-    "description": "A R60ADI8 Wizard.",
+    "name": "R60ADI8_Wizard",
+    "description": "A R60ADI8_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj71gp21-sx_wizard",
-    "name": "RJ71GP21-SX Wizard",
-    "description": "A RJ71GP21-SX Wizard.",
+    "name": "RJ71GP21-SX_Wizard",
+    "description": "A RJ71GP21-SX_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rx10_wizard",
-    "name": "RX10 Wizard",
-    "description": "A RX10 Wizard.",
+    "name": "RX10_Wizard",
+    "description": "A RX10_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj71gf11-t2_wizard",
-    "name": "RJ71GF11-T2 Wizard",
-    "description": "A RJ71GF11-T2 Wizard.",
+    "name": "RJ71GF11-T2_Wizard",
+    "description": "A RJ71GF11-T2_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r60da4_wizard",
-    "name": "R60DA4 Wizard",
-    "description": "A R60DA4 Wizard.",
+    "name": "R60DA4_Wizard",
+    "description": "A R60DA4_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r00cpu_wizard",
-    "name": "R00CPU Wizard",
-    "description": "A R00CPU Wizard.",
+    "name": "R00CPU_Wizard",
+    "description": "A R00CPU_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r61x_wizard",
-    "name": "R61X Wizard",
-    "description": "A R61X Wizard.",
+    "name": "R61X_Wizard",
+    "description": "A R61X_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rg60_wizard",
-    "name": "RG60 Wizard",
-    "description": "A RG60 Wizard.",
+    "name": "RG60_Wizard",
+    "description": "A RG60_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rcpu_wizard",
-    "name": "RCPU Wizard",
-    "description": "A RCPU Wizard.",
+    "name": "RCPU_Wizard",
+    "description": "A RCPU_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "ry18r2a_wizard",
-    "name": "RY18R2A Wizard",
-    "description": "A RY18R2A Wizard.",
-    "previewImageUrl": "",
-    "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "r38b_wizard",
-    "name": "R38B Wizard",
-    "description": "A R38B Wizard.",
+    "name": "R38B_Wizard",
+    "description": "A R38B_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "rj71pb91v_wizard",
-    "name": "RJ71PB91V Wizard",
-    "description": "A RJ71PB91V Wizard.",
+    "name": "RJ71PB91V_Wizard",
+    "description": "A RJ71PB91V_Wizard.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
+  },
+  {
+    "id": "ry18r2a_wizard",
+    "name": "RY18R2A_Wizard",
+    "description": "A RY18R2A_Wizard.",
+    "fileType": "vizw",
+    "previewImageUrl": "",
+    "downloadUrl": "",
+    "tags": []
   }
 ]

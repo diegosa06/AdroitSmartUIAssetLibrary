@@ -1,12 +1,11 @@
 [
   {
     "id": "date_and_time",
-    "name": "Date and Time",
-    "description": "A Date and Time.",
+    "name": "Date_and_Time",
+    "description": "A Date_and_Time.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

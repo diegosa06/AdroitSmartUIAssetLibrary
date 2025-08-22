@@ -1,12 +1,11 @@
 [
   {
     "id": "o_chart_oee",
-    "name": "O Chart OEE",
-    "description": "A O Chart OEE.",
+    "name": "O_Chart_OEE",
+    "description": "A O_Chart_OEE.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

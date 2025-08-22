@@ -3,6 +3,7 @@
     "id": "globevalvevertical",
     "name": "GlobeValveVertical",
     "description": "A GlobeValveVertical.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -14,8 +15,9 @@
   },
   {
     "id": "globevalvevertical_flat",
-    "name": "GlobeValveVertical Flat",
-    "description": "A GlobeValveVertical Flat.",
+    "name": "GlobeValveVertical_Flat",
+    "description": "A GlobeValveVertical_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "globevalvehorizontal",
     "name": "GlobeValveHorizontal",
     "description": "A GlobeValveHorizontal.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "3dsolenoidvalvehorizontal",
     "name": "3DSolenoidValveHorizontal",
     "description": "A 3DSolenoidValveHorizontal.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "isovalvehorizontal",
     "name": "ISOValveHorizontal",
     "description": "A ISOValveHorizontal.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -66,8 +71,9 @@
   },
   {
     "id": "solenoidvalvehorizontal_flat",
-    "name": "SolenoidValveHorizontal Flat",
-    "description": "A SolenoidValveHorizontal Flat.",
+    "name": "SolenoidValveHorizontal_Flat",
+    "description": "A SolenoidValveHorizontal_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -81,6 +87,7 @@
     "id": "3dsolenoidvalvevertical",
     "name": "3DSolenoidValveVertical",
     "description": "A 3DSolenoidValveVertical.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -94,6 +101,7 @@
     "id": "solenoidvalvehorizontal",
     "name": "SolenoidValveHorizontal",
     "description": "A SolenoidValveHorizontal.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -105,8 +113,9 @@
   },
   {
     "id": "isovalvevertical_flat",
-    "name": "ISOValveVertical Flat",
-    "description": "A ISOValveVertical Flat.",
+    "name": "ISOValveVertical_Flat",
+    "description": "A ISOValveVertical_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -118,8 +127,9 @@
   },
   {
     "id": "globevalvehorizontal_flat",
-    "name": "GlobeValveHorizontal Flat",
-    "description": "A GlobeValveHorizontal Flat.",
+    "name": "GlobeValveHorizontal_Flat",
+    "description": "A GlobeValveHorizontal_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -133,6 +143,7 @@
     "id": "solenoidvalvevertical",
     "name": "SolenoidValveVertical",
     "description": "A SolenoidValveVertical.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -144,8 +155,9 @@
   },
   {
     "id": "isovalvehorizontal_flat",
-    "name": "ISOValveHorizontal Flat",
-    "description": "A ISOValveHorizontal Flat.",
+    "name": "ISOValveHorizontal_Flat",
+    "description": "A ISOValveHorizontal_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -157,8 +169,9 @@
   },
   {
     "id": "solenoidvalvevertical_flat",
-    "name": "SolenoidValveVertical Flat",
-    "description": "A SolenoidValveVertical Flat.",
+    "name": "SolenoidValveVertical_Flat",
+    "description": "A SolenoidValveVertical_Flat.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -172,6 +185,7 @@
     "id": "isovalvevertical",
     "name": "ISOValveVertical",
     "description": "A ISOValveVertical.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

@@ -3,10 +3,9 @@
     "id": "bag packer",
     "name": "Bag Packer",
     "description": "A Bag Packer.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

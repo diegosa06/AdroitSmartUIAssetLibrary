@@ -3,16 +3,16 @@
     "id": "vent",
     "name": "Vent",
     "description": "A Vent.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "valve component 06",
     "name": "Valve Component 06",
     "description": "A Valve Component 06.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -26,6 +26,7 @@
     "id": "valve component 02",
     "name": "Valve Component 02",
     "description": "A Valve Component 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -39,36 +40,34 @@
     "id": "flange 01",
     "name": "Flange 01",
     "description": "A Flange 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "panel",
     "name": "Panel",
     "description": "A Panel.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "flange 02",
     "name": "Flange 02",
     "description": "A Flange 02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "valve component 05",
     "name": "Valve Component 05",
     "description": "A Valve Component 05.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -82,6 +81,7 @@
     "id": "valve component 04",
     "name": "Valve Component 04",
     "description": "A Valve Component 04.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -95,6 +95,7 @@
     "id": "switch",
     "name": "Switch",
     "description": "A Switch.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -108,6 +109,7 @@
     "id": "valve component 03",
     "name": "Valve Component 03",
     "description": "A Valve Component 03.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -121,16 +123,16 @@
     "id": "flange 03",
     "name": "Flange 03",
     "description": "A Flange 03.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "valve component 01",
     "name": "Valve Component 01",
     "description": "A Valve Component 01.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

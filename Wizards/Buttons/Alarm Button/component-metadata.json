@@ -3,20 +3,18 @@
     "id": "alarm button 2",
     "name": "Alarm Button 2",
     "description": "A Alarm Button 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "alarm button 1",
     "name": "Alarm Button 1",
     "description": "A Alarm Button 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

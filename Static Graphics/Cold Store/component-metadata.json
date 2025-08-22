@@ -3,10 +3,9 @@
     "id": "cold store",
     "name": "Cold Store",
     "description": "A Cold Store.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

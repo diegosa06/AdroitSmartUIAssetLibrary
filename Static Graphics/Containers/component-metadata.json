@@ -3,10 +3,9 @@
     "id": "skip",
     "name": "Skip",
     "description": "A Skip.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

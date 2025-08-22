@@ -3,190 +3,171 @@
     "id": "mitsubishi alpha",
     "name": "Mitsubishi Alpha",
     "description": "A Mitsubishi Alpha.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi a700",
     "name": "Mitsubishi A700",
     "description": "A Mitsubishi A700.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi e700",
     "name": "Mitsubishi E700",
     "description": "A Mitsubishi E700.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi f700 2",
     "name": "Mitsubishi F700 2",
     "description": "A Mitsubishi F700 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi f700 1",
     "name": "Mitsubishi F700 1",
     "description": "A Mitsubishi F700 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "io module-input",
     "name": "IO Module-Input",
     "description": "A IO Module-Input.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi fx 1s",
     "name": "Mitsubishi FX 1S",
     "description": "A Mitsubishi FX 1S.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "io module-output",
     "name": "IO Module-Output",
     "description": "A IO Module-Output.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi a770",
     "name": "Mitsubishi A770",
     "description": "A Mitsubishi A770.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi d700",
     "name": "Mitsubishi D700",
     "description": "A Mitsubishi D700.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi q-series",
     "name": "Mitsubishi Q-Series",
     "description": "A Mitsubishi Q-Series.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi fx 3g",
     "name": "Mitsubishi FX 3G",
     "description": "A Mitsubishi FX 3G.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi got1000",
     "name": "Mitsubishi GOT1000",
     "description": "A Mitsubishi GOT1000.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "io module-basic",
     "name": "IO Module-Basic",
     "description": "A IO Module-Basic.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi l-series",
     "name": "Mitsubishi L-Series",
     "description": "A Mitsubishi L-Series.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi fx 3u",
     "name": "Mitsubishi FX 3U",
     "description": "A Mitsubishi FX 3U.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "io module-cpu02",
     "name": "IO Module-CPU02",
     "description": "A IO Module-CPU02.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi fx 1n",
     "name": "Mitsubishi FX 1N",
     "description": "A Mitsubishi FX 1N.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "mitsubishi got2000",
     "name": "Mitsubishi GOT2000",
     "description": "A Mitsubishi GOT2000.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

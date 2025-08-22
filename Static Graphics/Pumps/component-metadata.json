@@ -3,6 +3,7 @@
     "id": "filter pump (top view)",
     "name": "Filter Pump (top view)",
     "description": "A Filter Pump (top view).",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "chrome submersible pump",
     "name": "Chrome Submersible Pump",
     "description": "A Chrome Submersible Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "3d angled pump",
     "name": "3D Angled Pump",
     "description": "A 3D Angled Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "3d side view pump",
     "name": "3D Side View Pump",
     "description": "A 3D Side View Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "standard pump",
     "name": "Standard Pump",
     "description": "A Standard Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -68,6 +73,7 @@
     "id": "standard pump (side view)",
     "name": "Standard Pump (side view)",
     "description": "A Standard Pump (side view).",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -81,6 +87,7 @@
     "id": "standard pump (without motor)",
     "name": "Standard Pump (without motor)",
     "description": "A Standard Pump (without motor).",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -94,6 +101,7 @@
     "id": "blue submersible pump",
     "name": "Blue Submersible Pump",
     "description": "A Blue Submersible Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -107,6 +115,7 @@
     "id": "filter pump (without motor)",
     "name": "Filter Pump (without motor)",
     "description": "A Filter Pump (without motor).",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -120,6 +129,7 @@
     "id": "filter pump",
     "name": "Filter Pump",
     "description": "A Filter Pump.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

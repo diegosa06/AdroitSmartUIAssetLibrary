@@ -3,16 +3,16 @@
     "id": "open close toggle",
     "name": "Open Close Toggle",
     "description": "A Open Close Toggle.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "motor onoff switch",
     "name": "Motor OnOff Switch",
     "description": "A Motor OnOff Switch.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -26,56 +26,52 @@
     "id": "startstop buttons 2",
     "name": "StartStop Buttons 2",
     "description": "A StartStop Buttons 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "startstop buttons 1",
     "name": "StartStop Buttons 1",
     "description": "A StartStop Buttons 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "siren button",
     "name": "Siren Button",
     "description": "A Siren Button.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "start stop toggle",
     "name": "Start Stop Toggle",
     "description": "A Start Stop Toggle.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "emergency stop",
     "name": "Emergency Stop",
     "description": "A Emergency Stop.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "onoff switch 1",
     "name": "OnOff Switch 1",
     "description": "A OnOff Switch 1.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -89,6 +85,7 @@
     "id": "onoff switch 2",
     "name": "OnOff Switch 2",
     "description": "A OnOff Switch 2.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

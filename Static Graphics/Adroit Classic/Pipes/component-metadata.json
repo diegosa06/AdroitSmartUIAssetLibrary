@@ -3,6 +3,7 @@
     "id": "pipes 2",
     "name": "Pipes 2",
     "description": "A Pipes 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "pipes 1",
     "name": "Pipes 1",
     "description": "A Pipes 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

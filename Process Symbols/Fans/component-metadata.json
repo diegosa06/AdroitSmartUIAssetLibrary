@@ -3,6 +3,7 @@
     "id": "axial fan 1",
     "name": "Axial Fan 1",
     "description": "A Axial Fan 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "compressor turbine",
     "name": "Compressor Turbine",
     "description": "A Compressor Turbine.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "fan blades",
     "name": "Fan Blades",
     "description": "A Fan Blades.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "motor driven turbine",
     "name": "Motor Driven Turbine",
     "description": "A Motor Driven Turbine.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "selectable fan 2",
     "name": "Selectable Fan 2",
     "description": "A Selectable Fan 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -68,6 +73,7 @@
     "id": "selectable fan 1",
     "name": "Selectable Fan 1",
     "description": "A Selectable Fan 1.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -81,6 +87,7 @@
     "id": "triple fan blades",
     "name": "Triple Fan Blades",
     "description": "A Triple Fan Blades.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -94,6 +101,7 @@
     "id": "centrifugal fan",
     "name": "Centrifugal Fan",
     "description": "A Centrifugal Fan.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -107,6 +115,7 @@
     "id": "axial fan 2",
     "name": "Axial Fan 2",
     "description": "A Axial Fan 2.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [

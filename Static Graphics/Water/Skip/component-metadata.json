@@ -3,20 +3,18 @@
     "id": "chrome skip bin",
     "name": "Chrome Skip bin",
     "description": "A Chrome Skip bin.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   },
   {
     "id": "yellow skip bin",
     "name": "Yellow Skip bin",
     "description": "A Yellow Skip bin.",
+    "fileType": "viz",
     "previewImageUrl": "",
     "downloadUrl": "",
-    "tags": [
-      "Automation"
-    ]
+    "tags": []
   }
 ]

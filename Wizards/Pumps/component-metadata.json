@@ -3,6 +3,7 @@
     "id": "pump01",
     "name": "Pump01",
     "description": "A Pump01.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -16,6 +17,7 @@
     "id": "pump02",
     "name": "Pump02",
     "description": "A Pump02.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -29,6 +31,7 @@
     "id": "pump03",
     "name": "Pump03",
     "description": "A Pump03.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -42,6 +45,7 @@
     "id": "simple pump start-stop",
     "name": "Simple Pump start-stop",
     "description": "A Simple Pump start-stop.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
@@ -55,6 +59,7 @@
     "id": "pump04",
     "name": "Pump04",
     "description": "A Pump04.",
+    "fileType": "vizw",
     "previewImageUrl": "",
     "downloadUrl": "",
     "tags": [
